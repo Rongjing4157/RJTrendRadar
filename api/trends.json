@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T10:44:33.963693+08:00",
-  "total_titles_processed": 641,
+  "generated_at": "2026-02-16T13:05:56.770571+08:00",
+  "total_titles_processed": 773,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 AI AI AGNET",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "“SaaS已死，SaaS到来”！Altman预言“全AI企业”时代开启",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 10时44分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 13时05分]"
         },
         {
           "title": "春节周重磅前瞻：美联储最爱通胀指标，DeepSeek V4或发布",
@@ -66,8 +66,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 10时44分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 13时05分]"
         },
         {
           "title": "国铁集团：“春运绿皮车严重超员视频”不实，系历史画面拼凑加AI",
@@ -77,11 +77,12 @@
             11,
             9,
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 10时44分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 13时05分]"
         },
         {
           "title": "AI电荒把燃气轮机“捧上C位” 龙头企业：需求极其旺盛 交付排到2030年",
@@ -94,8 +95,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 10时44分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 13时05分]"
         },
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
@@ -103,11 +104,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 10时44分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 13时05分]"
         },
         {
           "title": "美军被曝在委内瑞拉军事行动中使用AI模型，开发公司回应质疑",
@@ -128,11 +130,12 @@
           "source": "贴吧",
           "ranks": [
             18,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 10时44分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 13时05分]"
         },
         {
           "title": "AI无视版权,老外集火围殴",
@@ -143,8 +146,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 10时44分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 13时05分]"
         },
         {
           "title": "影响万亿资本的市场叙事争夺：一边是“AI颠覆一切”，一边是“AI回报不够”",
@@ -185,6 +188,17 @@
           "time_info": "[00时39分 ~ 07时34分]"
         },
         {
+          "title": "AI购票成春节档预售亮点，“千问帮我买电影票”订单量暴增500%",
+          "url": "https://wallstreetcn.com/livenews/3055681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
           "title": "OpenAI联合创始人Grek Brockman：Codex在处理繁琐事务方面做得非常出色，比如解决合并冲突、让持续集成（CI）顺利通过、在不同编程语言之间重写代码，这提高了我对构建项目的雄心壮志。",
           "url": "https://flash.jin10.com/detail/20260216045621525800",
           "source": "金十数据",
@@ -206,8 +220,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时34分 ~ 10时44分]"
+          "appearance_count": 3,
+          "time_info": "[07时34分 ~ 13时05分]"
         },
         {
           "title": "OpenAI宣布聘请OpenClaw创始人 以推动下一代个人智能体的研发",
@@ -234,13 +248,35 @@
           "time_info": "[05时32分 ~ 06时32分]"
         },
         {
+          "title": "OpenClaw 之父宣布加入 OpenAI，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2006637072895738078",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
+          "url": "https://wallstreetcn.com/articles/3765772",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
           "title": "OpenClaw之父加入OpenAI",
           "url": "https://s.weibo.com/weibo?q=%23OpenClaw%E4%B9%8B%E7%88%B6%E5%8A%A0%E5%85%A5OpenAI%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
         },
@@ -251,7 +287,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
         },
@@ -262,7 +298,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
         },
@@ -273,9 +309,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
+        },
+        {
+          "title": "AI定制祝福语惊艳你的朋友圈",
+          "url": "https://www.baidu.com/s?wd=AI%E5%AE%9A%E5%88%B6%E7%A5%9D%E7%A6%8F%E8%AF%AD%E6%83%8A%E8%89%B3%E4%BD%A0%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
         }
       ]
     },
@@ -334,6 +381,17 @@
           "time_info": "[00时39分 ~ 06时32分]"
         },
         {
+          "title": "伊朗外长启程赴会，以总理预设四项条件",
+          "url": "https://news.ifeng.com/c/8qmf04pVvw5",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 13时05分]"
+        },
+        {
           "title": "伊朗官员：已准备好与美谈判方案 但对结果不乐观",
           "url": "https://flash.jin10.com/detail/20260215194121768800",
           "source": "金十数据",
@@ -345,17 +403,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时39分 ~ 05时32分]"
-        },
-        {
-          "title": "伊朗外长启程赴会，以总理预设四项条件",
-          "url": "https://news.ifeng.com/c/8qmf04pVvw5",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时44分"
         },
         {
           "title": "伊朗副外长：伊美已将经贸领域议题纳入谈判文本",
@@ -444,6 +491,17 @@
           "time_info": "[07时34分 ~ 10时44分]"
         },
         {
+          "title": "抵近伊朗，卫星捕获美航母在阿曼附近活动",
+          "url": "https://news.ifeng.com/c/8qmgE0Gd2cL",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 13时05分]"
+        },
+        {
           "title": "美国务卿：向中东派兵是为防御，仍尝试与伊朗达成协议",
           "url": "https://news.ifeng.com/c/8qmDbCkeOUn",
           "source": "凤凰网",
@@ -453,17 +511,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时32分 ~ 07时34分]"
-        },
-        {
-          "title": "抵近伊朗，卫星捕获美航母在阿曼附近活动",
-          "url": "https://news.ifeng.com/c/8qmgE0Gd2cL",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时44分"
         }
       ]
     },
@@ -607,9 +654,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 13时05分]"
         }
       ]
     },
@@ -627,8 +674,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 10时44分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 13时05分]"
         },
         {
           "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
