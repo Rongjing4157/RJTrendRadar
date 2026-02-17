@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T14:08:01.425512+08:00",
-  "total_titles_processed": 916,
+  "generated_at": "2026-02-17T15:54:56.258503+08:00",
+  "total_titles_processed": 1049,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 AI AI AGNET",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "AI热潮助力港股蛇年收官战告捷，MiniMax暴涨25%、智谱涨4.74%齐创新高，有色板块拉升",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时55分 ~ 14时08分]"
+          "appearance_count": 14,
+          "time_info": "[00时55分 ~ 15时54分]"
         },
         {
           "title": "AI圈内人士：巨大变革正在发生，人们还懵懂不知",
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时55分 ~ 14时08分]"
+          "appearance_count": 14,
+          "time_info": "[00时55分 ~ 15时54分]"
         },
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -53,8 +53,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时55分 ~ 14时08分]"
+          "appearance_count": 14,
+          "time_info": "[00时55分 ~ 15时54分]"
         },
         {
           "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
@@ -73,11 +73,12 @@
           "url": "https://www.cls.cn/detail/2290580",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时55分 ~ 14时08分]"
+          "appearance_count": 14,
+          "time_info": "[00时55分 ~ 15时54分]"
         },
         {
           "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
@@ -85,11 +86,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时55分 ~ 14时08分]"
+          "appearance_count": 14,
+          "time_info": "[00时55分 ~ 15时54分]"
         },
         {
           "title": "新春走基层·山乡新貌｜从清理冒牌软件到教用AI：家乡长辈们正努力填平“数字鸿沟”",
@@ -347,9 +349,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
+        },
+        {
+          "title": "西班牙首相桑切斯：我们将要求检察官调查X和Meta(META.O)等公司，因其传播AI生成的有关儿童的不当内容。",
+          "url": "https://flash.jin10.com/detail/20260217151756399800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
         },
         {
           "title": "马年迎好运 AI定制新春祝福",
@@ -372,6 +385,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
+        },
+        {
+          "title": "当高定遇上AI，“上海定制”的变与不变",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32621562",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
         },
         {
           "title": "豆包：除夕豆包AI互动总数达19亿",
@@ -420,8 +444,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时40分 ~ 14时08分]"
+          "appearance_count": 5,
+          "time_info": "[10时40分 ~ 15时54分]"
         },
         {
           "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
@@ -712,8 +736,21 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时40分 ~ 15时54分]"
+        },
+        {
+          "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
+          "url": "https://wallstreetcn.com/articles/3765802",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时40分 ~ 14时08分]"
+          "time_info": "[12时58分 ~ 15时54分]"
         },
         {
           "title": "阿曼外交大臣与伊朗外长讨论伊美第二轮核谈判筹备事宜",
@@ -738,18 +775,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
-        },
-        {
-          "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
-          "url": "https://wallstreetcn.com/articles/3765802",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时58分 ~ 14时08分]"
         },
         {
           "title": "伊朗外长与美谈判前夕强调不屈服",
@@ -890,8 +915,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时55分 ~ 14时08分]"
+          "appearance_count": 14,
+          "time_info": "[00时55分 ~ 15时54分]"
         },
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -901,11 +926,12 @@
             7,
             6,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时55分 ~ 14时08分]"
+          "appearance_count": 14,
+          "time_info": "[00时55分 ~ 15时54分]"
         }
       ]
     },
@@ -922,8 +948,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时40分 ~ 14时08分]"
+          "appearance_count": 5,
+          "time_info": "[10时40分 ~ 15时54分]"
         },
         {
           "title": "提醒：美股今日因假期休市一天。",
