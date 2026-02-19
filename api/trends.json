@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T21:21:43.043858+08:00",
-  "total_titles_processed": 1607,
+  "generated_at": "2026-02-19T22:55:28.025546+08:00",
+  "total_titles_processed": 1714,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 53,
       "titles": [
         {
           "title": "为不影响特朗普访华，美对台军售疑停滞，白宫回应",
@@ -52,6 +52,17 @@
           "time_info": "[00时32分 ~ 00时33分]"
         },
         {
+          "title": "美国总统特朗普：和平委员会成员在捐款方面非常慷慨。",
+          "url": "https://flash.jin10.com/detail/20260219224254310800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "特朗普施压下，日本急忙兑现投资承诺",
           "url": "https://news.ifeng.com/c/8qr2EA8zz1w",
           "source": "凤凰网",
@@ -72,6 +83,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
+        },
+        {
+          "title": "美国总统特朗普：加沙局势非常复杂。",
+          "url": "https://flash.jin10.com/detail/20260219223828467800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "美媒：美军最早本周末打击伊朗，特朗普尚未决定",
@@ -295,6 +317,17 @@
           "time_info": "03时04分"
         },
         {
+          "title": "美国总统特朗普在“和平委员会”召开的首次会议上发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260219223603423800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "特朗普援引国防生产法，保障磷与除草剂的国内供应",
           "url": "https://wallstreetcn.com/livenews/3056519",
           "source": "华尔街见闻-快讯",
@@ -304,6 +337,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
+        },
+        {
+          "title": "英国阻止特朗普使用英国的基地打击伊朗。（泰晤士报）",
+          "url": "https://wallstreetcn.com/livenews/3056653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "美国总统特朗普：这片土地不应从英国手中夺走，如果允许这种情况发生，这将是我们伟大盟友身上的一大污点。",
@@ -323,7 +367,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时21分"
         },
@@ -345,7 +389,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时21分"
         },
@@ -378,7 +422,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时21分"
         },
@@ -455,7 +499,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时21分"
         },
@@ -562,7 +606,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 49,
+      "match_count": 50,
       "titles": [
         {
           "title": "美油大涨5%！美以或对伊朗联合袭击，白宫称谈判取得进展、但关键议题相距甚远",
@@ -576,8 +620,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时43分 ~ 21时21分]"
+          "appearance_count": 12,
+          "time_info": "[10时43分 ~ 22时55分]"
         },
         {
           "title": "这一次不一样？美军做好“最早本周末打击伊朗”准备，油价会如何？",
@@ -592,8 +636,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时59分 ~ 21时21分]"
+          "appearance_count": 11,
+          "time_info": "[12时59分 ~ 22时55分]"
         },
         {
           "title": "伊朗将迅速落实伊俄全面战略合作计划",
@@ -643,11 +687,12 @@
             8,
             13,
             9,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时54分 ~ 21时21分]"
+          "appearance_count": 9,
+          "time_info": "[15时54分 ~ 22时55分]"
         },
         {
           "title": "伊朗：已进入全面战备状态",
@@ -661,8 +706,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时54分 ~ 21时21分]"
+          "appearance_count": 8,
+          "time_info": "[16时54分 ~ 22时55分]"
         },
         {
           "title": "俄外长：美国若打击伊朗后果严重",
@@ -673,11 +718,12 @@
             17,
             23,
             25,
-            26
+            26,
+            21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时54分 ~ 21时21分]"
+          "appearance_count": 9,
+          "time_info": "[15时54分 ~ 22时55分]"
         },
         {
           "title": "原油贵金属大幅收涨 消息称美以或将联合袭击伊朗 | 环球市场",
@@ -689,8 +735,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时54分 ~ 21时21分]"
+          "appearance_count": 8,
+          "time_info": "[16时54分 ~ 22时55分]"
         },
         {
           "title": "美设定“3月中旬”期限：对伊朗兵力将部署到位，战云逼近？",
@@ -700,11 +746,12 @@
             17,
             15,
             14,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时54分 ~ 21时21分]"
+          "appearance_count": 8,
+          "time_info": "[16时54分 ~ 22时55分]"
         },
         {
           "title": "美媒称美军方已准备好“最早本周末”打击伊朗",
@@ -714,11 +761,12 @@
             18,
             16,
             15,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时54分 ~ 21时21分]"
+          "appearance_count": 8,
+          "time_info": "[16时54分 ~ 22时55分]"
         },
         {
           "title": "伊朗：已进入全面战备状态",
@@ -786,6 +834,19 @@
           "time_info": "[17时57分 ~ 21时21分]"
         },
         {
+          "title": "伊朗",
+          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时54分 ~ 22时55分]"
+        },
+        {
           "title": "波兰总理呼吁在伊朗的波兰公民尽快离境",
           "url": "https://wallstreetcn.com/livenews/3056625",
           "source": "华尔街见闻-快讯",
@@ -847,18 +908,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时08分 ~ 16时55分]"
-        },
-        {
-          "title": "伊朗",
-          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时54分 ~ 21时21分]"
         },
         {
           "title": "伊朗外长称就伊美谈判“指导原则”达成一致，布油一度跌近3%",
@@ -1041,7 +1090,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时21分"
         },
@@ -1096,7 +1145,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时21分"
         },
@@ -1165,12 +1214,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：如果伊朗攻击以色列，将面临其无法想象的反击。",
+          "url": "https://flash.jin10.com/detail/20260219222324602800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋 AI AI AGNET",
-      "match_count": 41,
+      "match_count": 46,
       "titles": [
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -1229,11 +1289,12 @@
           "source": "贴吧",
           "ranks": [
             1,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时59分 ~ 21时21分]"
+          "appearance_count": 11,
+          "time_info": "[12时59分 ~ 22时55分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -1245,8 +1306,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时32分 ~ 21时21分]"
+          "appearance_count": 21,
+          "time_info": "[00时32分 ~ 22时55分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -1258,11 +1319,12 @@
             8,
             9,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时43分 ~ 21时21分]"
+          "appearance_count": 12,
+          "time_info": "[10时43分 ~ 22时55分]"
         },
         {
           "title": "AI大战:鹅厂阿里双双出局",
@@ -1276,11 +1338,12 @@
             19,
             20,
             21,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时32分 ~ 21时21分]"
+          "appearance_count": 21,
+          "time_info": "[00时32分 ~ 22时55分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -1294,11 +1357,12 @@
             25,
             26,
             27,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时32分 ~ 21时21分]"
+          "appearance_count": 21,
+          "time_info": "[00时32分 ~ 22时55分]"
         },
         {
           "title": "公开和沃什“唱反调”？多位美联储高官称：AI提升生产力或意味着“更高的中性利率”",
@@ -1314,6 +1378,17 @@
           "time_info": "[03时04分 ~ 10时43分]"
         },
         {
+          "title": "日盟警告:字节AI别来沾边",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350787&amp;topic_name=%E6%97%A5%E7%9B%9F%E8%AD%A6%E5%91%8A%3A%E5%AD%97%E8%8A%82AI%E5%88%AB%E6%9D%A5%E6%B2%BE%E8%BE%B9",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "傅莹在慕安会回应“谁能赢人工智能竞赛”：AI创新发展不是一场短跑赛",
           "url": "https://flash.jin10.com/detail/20260219134816589800",
           "source": "金十数据",
@@ -1323,6 +1398,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
+        },
+        {
+          "title": "波音美股盘初跌超1.8%，越南航空公司Vietnam Airlines、Sun PhuQuoc Airways、以及VietJet宣布，采购将近100架波音飞机。",
+          "url": "https://wallstreetcn.com/livenews/3056664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
+          "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
+          "url": "https://wallstreetcn.com/articles/3765864",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时54分 ~ 22时55分]"
         },
         {
           "title": "AI 编程会替代程序员吗?",
@@ -1403,17 +1500,6 @@
           "time_info": "[00时33分 ~ 01时15分]"
         },
         {
-          "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
-          "url": "https://wallstreetcn.com/articles/3765864",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时54分 ~ 21时21分]"
-        },
-        {
           "title": "印度AI峰会大学展示泡沫塑料版无人机",
           "url": "https://www.toutiao.com/trending/7608301157190156351/",
           "source": "今日头条",
@@ -1438,6 +1524,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时57分 ~ 19时43分]"
+        },
+        {
+          "title": "腾讯姚顺雨首篇论文提出「AI 下半场」先搞上下文学习，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2002102277314454310",
+          "source": "知乎",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时21分 ~ 22时55分]"
         },
         {
           "title": "据华尔街日报：Meta启动两份超级协议，以应对人工智能（AI）勒索。",
@@ -1547,17 +1645,6 @@
           "time_info": "[03时04分 ~ 04时50分]"
         },
         {
-          "title": "腾讯姚顺雨首篇论文提出「AI 下半场」先搞上下文学习，这意味着什么？",
-          "url": "https://www.zhihu.com/question/2002102277314454310",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
-        },
-        {
           "title": "300亿对冲基金大佬发声：2026全球最大“地雷”，竟然是AI？丨Hi，今天怎么看？",
           "url": "https://flash.jin10.com/detail/20260219131203549800",
           "source": "金十数据",
@@ -1586,7 +1673,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时21分"
         },
@@ -1622,6 +1709,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
+        },
+        {
+          "title": "Deepseek神回复",
+          "url": "https://s.weibo.com/weibo?q=Deepseek%E7%A5%9E%E5%9B%9E%E5%A4%8D&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
+          "title": "中美AI科技转向",
+          "url": "https://www.toutiao.com/trending/7608548446047309375/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "中国科研团队研发出AI看病系统",
@@ -1668,6 +1777,17 @@
           "time_info": "03时04分"
         },
         {
+          "title": "北京大学陈江教授讲AI",
+          "url": "https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E9%99%88%E6%B1%9F%E6%95%99%E6%8E%88%E8%AE%B2AI&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "印度AI峰会2月18日要点总结",
           "url": "https://wallstreetcn.com/livenews/3056423",
           "source": "华尔街见闻-快讯",
@@ -1682,7 +1802,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 24,
       "titles": [
         {
           "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
@@ -1694,8 +1814,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[06时39分 ~ 21时21分]"
+          "appearance_count": 15,
+          "time_info": "[06时39分 ~ 22时55分]"
         },
         {
           "title": "美股三大指数小幅高开，黄金收复5000，白银日内涨5%，原油上涨3%",
@@ -1719,8 +1839,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时32分 ~ 21时21分]"
+          "appearance_count": 21,
+          "time_info": "[00时32分 ~ 22时55分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -1734,8 +1854,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时32分 ~ 21时21分]"
+          "appearance_count": 21,
+          "time_info": "[00时32分 ~ 22时55分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -1747,19 +1867,43 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时54分 ~ 21时21分]"
+          "appearance_count": 9,
+          "time_info": "[15时54分 ~ 22时55分]"
         },
         {
-          "title": "沃尔玛预计2027年调整后每股收益2.75美元至2.85美元，市场预估2.97美元。 第四季度调整后每股收益0.74美元，市场预估0.73美元。 第四季度营收1,906.6亿美元，同比增长5.6%，市场预估1,905.8亿美元。 第四季度经营现金流416亿美元。 沃尔玛宣布新的300亿美元股票回购计划。 沃尔玛美股盘前跌超3%。",
-          "url": "https://wallstreetcn.com/livenews/3056638",
+          "title": "科技股拖累美股期指转跌，特斯拉盘前领跌Mag7，地缘局势升温推高金银油，黄金站上5000美元",
+          "url": "https://wallstreetcn.com/articles/3765856",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时43分 ~ 22时55分]"
+        },
+        {
+          "title": "美国机械制造商Deere美股盘初上涨7.8%，创2025年4月以来最大涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3056663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
+          "title": "美股盘初：纳指跌近0.5%，特斯拉跌1%因纽约撤回机器人出租车计划",
+          "url": "https://wallstreetcn.com/livenews/3056662",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时21分"
+          "time_info": "22时55分"
         },
         {
           "title": "能源业ETF收涨1.92%，半导体ETF涨1.24%，网络股指数ETF、全球科技股指数ETF、科技行业ETF至少涨1.03%，领跑美股行业ETF，公用事业ETF跌1.66%。 标普500指数的11个板块中，能源板块收涨2%，可选消费板块涨1%，信息技术/科技板块涨0.97%，房地产板块收跌1.45%，公用事业板块跌1.7%。",
@@ -1773,18 +1917,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时41分 ~ 07时37分]"
-        },
-        {
-          "title": "科技股拖累美股期指转跌，特斯拉盘前领跌Mag7，地缘局势升温推高金银油，黄金站上5000美元",
-          "url": "https://wallstreetcn.com/articles/3765856",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时43分 ~ 21时21分]"
         },
         {
           "title": "金十图示：2026年02月18日（周三）美股热门股票行情一览（美股收盘）",
@@ -1809,6 +1941,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时41分 ~ 06时40分]"
+        },
+        {
+          "title": "沃尔玛预计2027年调整后每股收益2.75美元至2.85美元，市场预估2.97美元。 第四季度调整后每股收益0.74美元，市场预估0.73美元。 第四季度营收1,906.6亿美元，同比增长5.6%，市场预估1,905.8亿美元。 第四季度经营现金流416亿美元。 沃尔玛宣布新的300亿美元股票回购计划。 沃尔玛美股盘前跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3056638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时21分 ~ 22时55分]"
         },
         {
           "title": "科技股推动美股期指上扬，盘前存储芯片、白银股走高，地缘局势升温推高金银油，黄金站上5000美元",
@@ -1849,6 +1993,28 @@
           "time_info": "[17时57分 ~ 19时43分]"
         },
         {
+          "title": "金十图示：2026年02月19日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260219223647819800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3056655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "美股高开高走 英伟达收涨1.63%",
           "url": "https://flash.jin10.com/detail/20260219050439356800",
           "source": "金十数据",
@@ -1880,6 +2046,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "美股开盘，道指跌0.31%、标普500指数跌0.37%、纳指跌0.53%。沃尔玛百货(WMT.N)绩后涨1.33%。DoorDash(DASH.N)涨6%，公司上季营收增长37.7%至39.6亿美元。纳斯达克中国金龙指数跌0.43%。",
+          "url": "https://flash.jin10.com/detail/20260219223041250800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "房利美股价迅速扩大涨幅，上涨4%。",
@@ -1993,7 +2170,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.72%，暂报2816.96点。 MarketVectorTM数字资产100中盘指数涨0.27%，报2819.24点，北京时间23:41曾冲高至2858.83点。 MarketVector数字资产100指数跌0.67%，报13555.77点。 目前，Solana跌3.29%，狗狗币跌0.77%，XRP跌1.48%。 比特币跌0.93%，暂报67072美元；以太坊跌1.26%，暂报1969.18美元。",
@@ -2017,6 +2194,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时50分 ~ 05时41分]"
+        },
+        {
+          "title": "美元指数站上98，为2月6日以来首次，日内涨近0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3056658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "非洲股市收盘播报｜周三（2月18日），南非富时/JSE非洲领先40可交易指数收涨2.74%，逼近11.45万点。 现货黄金一度涨超2.5%，刷新日高至5008.98美元/盎司。",
