@@ -1,11 +1,649 @@
 {
-  "generated_at": "2026-02-27T17:52:21.659851+08:00",
-  "total_titles_processed": 1484,
+  "generated_at": "2026-02-27T18:46:43.946261+08:00",
+  "total_titles_processed": 1571,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "伊朗",
+      "match_count": 55,
+      "titles": [
+        {
+          "title": "白宫官员希望以色列先打击伊朗",
+          "url": "https://news.ifeng.com/c/8r3lr4eCVvP",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时00分 ~ 07时37分]"
+        },
+        {
+          "title": "如美发动攻击，中俄会否联手支援伊朗？外交部回应",
+          "url": "https://news.ifeng.com/c/8r3mAyyc1El",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时00分 ~ 07时37分]"
+        },
+        {
+          "title": "伊美第三轮谈判结束，伊朗外长称取得良好进展，美媒称美方谈判期间感到失望",
+          "url": "https://wallstreetcn.com/articles/3766294",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时36分 ~ 18时46分]"
+        },
+        {
+          "title": "中方正密切关注伊朗局势发展",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E6%AD%A3%E5%AF%86%E5%88%87%E5%85%B3%E6%B3%A8%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF%E5%8F%91%E5%B1%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时00分 ~ 07时37分]"
+        },
+        {
+          "title": "一图看懂｜新一轮谈判在即，美军如何在伊朗周边布阵？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32657969",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时00分 ~ 07时37分]"
+        },
+        {
+          "title": "中国是否会与俄罗斯一道支持伊朗抵御美国侵略？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32653060",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时00分 ~ 15时06分]"
+        },
+        {
+          "title": "伊朗外长Abbas Araghchi在国家电视台表示：今天的谈判属于最严肃的磋商之一。",
+          "url": "https://wallstreetcn.com/livenews/3059741",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时51分"
+        },
+        {
+          "title": "美媒说美国将在谈判中向伊朗提出强硬要求",
+          "url": "https://flash.jin10.com/detail/20260226234811628800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时00分"
+        },
+        {
+          "title": "伊朗拒绝向国外转移浓缩铀",
+          "url": "https://wallstreetcn.com/livenews/3059794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
+          "title": "据黎巴嫩电视台Al-Mayadeen：有消息称谈判出现了积极迹象，谈判有可能将延长至明天。伊朗方面在铀浓缩问题上表现出了很大的灵活性，而美国方面尚未同意完全解除对伊朗的制裁。",
+          "url": "https://flash.jin10.com/detail/20260227003956662800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "伊朗外交部发言人：本轮伊美谈判非常深入",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32661028",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时06分 ~ 18时46分]"
+        },
+        {
+          "title": "伊朗外长敦促阿富汗和巴基斯坦通过对话解决分歧。",
+          "url": "https://flash.jin10.com/detail/20260227124053017800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时51分 ~ 13时57分]"
+        },
+        {
+          "title": "据Axios记者援引美国官员称，在日内瓦与伊朗举行的核谈判取得积极进展。",
+          "url": "https://flash.jin10.com/detail/20260227031929854800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时51分 ~ 04时46分]"
+        },
+        {
+          "title": "美媒说美国将在谈判中向伊朗提出强硬要求",
+          "url": "https://wallstreetcn.com/livenews/3059675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时00分 ~ 01时14分]"
+        },
+        {
+          "title": "阿曼：美国与伊朗今天的会谈结束，取得了重大进展。 经过征求（各自政府）意见之后，双方将迅速恢复磋商。 两国将于下周在维也纳举行工作层面的会谈。",
+          "url": "https://wallstreetcn.com/livenews/3059725",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时01分 ~ 04时46分]"
+        },
+        {
+          "title": "据i24NEWS：熟悉日内瓦美伊核谈判的消息人士称，美国和伊朗之间的分歧仍然很大，形势不容乐观。",
+          "url": "https://flash.jin10.com/detail/20260227024209626800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 03时51分]"
+        },
+        {
+          "title": "伊朗外长：伊美第三轮间接谈判取得良好进展",
+          "url": "https://wallstreetcn.com/livenews/3059744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 05时39分]"
+        },
+        {
+          "title": "库什纳与美国特使Witkoff对2月26日早间与伊朗的磋商情况感到失望。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3059722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时01分 ~ 04时46分]"
+        },
+        {
+          "title": "据伊朗国家电视台：美国代表团参加伊朗问题会谈的车辆离开会场。",
+          "url": "https://flash.jin10.com/detail/20260227023314779800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 03时51分]"
+        },
+        {
+          "title": "伊朗外长Abbas Araghchi在国家电视台表示：今天的谈判属于最严肃的磋商之一。 我们与美国的谈判取得了良好进展。 我们在某些领域存在意见分歧。 讨论了美国制裁和联合国安理会。 认为我们未来一周左右将举行下一轮会谈。",
+          "url": "https://wallstreetcn.com/livenews/3059741",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 05时39分]"
+        },
+        {
+          "title": "美海军第五舰队驻巴林总部缩减人员规模，据称此举是为应对伊朗可能发动的袭击",
+          "url": "https://wallstreetcn.com/livenews/3059708",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 03时51分]"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗外长阿拉格齐与威特科夫的会晤仅限于握手和礼节。",
+          "url": "https://flash.jin10.com/detail/20260227021855722800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 03时51分]"
+        },
+        {
+          "title": "伊朗石油出货量为何突然飙升",
+          "url": "https://www.toutiao.com/trending/7611366925066571302/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时57分 ~ 15时06分]"
+        },
+        {
+          "title": "伊朗警告：将让侵略者付出惨重代价",
+          "url": "https://www.toutiao.com/trending/7610045179701624886/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时51分 ~ 16时52分]"
+        },
+        {
+          "title": "伊朗外长：伊美第三轮间接谈判取得良好进展",
+          "url": "https://flash.jin10.com/detail/20260227035939515800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时46分"
+        },
+        {
+          "title": "伊朗军官称已做好应对敌军行动准备",
+          "url": "https://flash.jin10.com/detail/20260227160957204800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
+          "title": "伊朗前总统Ayatollah Khatami表示，伊朗政权不会接受暂停铀浓缩活动。（更正：非伊朗最高领袖哈梅内伊）",
+          "url": "https://flash.jin10.com/detail/20260227181323772800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
+          "title": "加拿大再次要求其公民立即撤离伊朗",
+          "url": "https://wallstreetcn.com/livenews/3060216",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
+          "title": "伊朗拒绝向国外转移浓缩铀",
+          "url": "https://www.douyin.com/hot/2412896",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时37分"
+        },
+        {
+          "title": "据半岛电视台：伊朗外交部发言人在接受伊朗伊斯兰共和国通讯社（IRNA）采访时称，美伊最新一轮谈判刚刚结束，但未透露更多细节。",
+          "url": "https://flash.jin10.com/detail/20260227030145670800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时51分"
+        },
+        {
+          "title": "据伊朗电视台：有迹象显示一项（美伊）协议即将达成。",
+          "url": "https://flash.jin10.com/detail/20260227030024116800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时51分"
+        },
+        {
+          "title": "据以色列媒体：美国国务卿鲁比奥关于伊朗导弹的言论未能说服国会民主党领导层。",
+          "url": "https://flash.jin10.com/detail/20260227055053276800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
+          "title": "美驻以大使警告使团：美袭击伊朗迫在眉睫，今天就离开以色列",
+          "url": "https://flash.jin10.com/detail/20260227181043243800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
+          "title": "当地时间26日晚，伊朗和美国在日内瓦举行的第三轮间接谈判在短暂休会后，开始进行第二阶段谈判。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3059687",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "加拿大再次要求其公民立即撤离伊朗",
+          "url": "https://flash.jin10.com/detail/20260227181037975800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
+          "title": "美国参议院共和党领袖图恩：若美国对伊朗采取行动，目标应是实现政权更迭。",
+          "url": "https://flash.jin10.com/detail/20260226233430358800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时00分"
+        },
+        {
+          "title": "WTI原油期货跌幅收窄，重返65美元上方。 据伊朗国家电视台：“与美国的部分磋商是直接进行的，伊朗不会允许铀浓缩离开本国”。",
+          "url": "https://wallstreetcn.com/livenews/3059661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时00分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：第三轮会谈比以往的讨论更加深入，持续时间也更长。在这一轮会谈中，双方讨论了可能构成协议基础的关键要素。",
+          "url": "https://flash.jin10.com/detail/20260227145037931800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：显而易见，伊朗核问题无法通过军事行动解决。他们曾经尝试过，但没有成功。这一次，他们也尽其所能地加大了施压力度，但仍然一无所获。",
+          "url": "https://flash.jin10.com/detail/20260227144950828800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        },
+        {
+          "title": "伊朗代表团已返回谈判地点，参加美伊日内瓦会谈。（CGTN）",
+          "url": "https://wallstreetcn.com/livenews/3059681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "伊朗军方称将对美国侵略行为予以“毁灭性”回应",
+          "url": "https://wallstreetcn.com/livenews/3060200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
+          "title": "市场消息：伊朗方面表示，谈判的成功与否取决于对方的诚意和务实精神。",
+          "url": "https://flash.jin10.com/detail/20260227180012487800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：双方都需要与其各自首都（领导人）进行磋商。",
+          "url": "https://flash.jin10.com/detail/20260227033116920800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时46分"
+        },
+        {
+          "title": "伊媒称伊朗拒绝向国外转移浓缩铀",
+          "url": "https://flash.jin10.com/detail/20260227094913478800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：我们已明确提出关于解除制裁的具体要求。我们已就解除制裁及安理会相关进展明确阐述立场。",
+          "url": "https://flash.jin10.com/detail/20260227033004846800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时46分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：虽然仍存在一些分歧，但我们在许多问题上的意见已经趋于一致。双方都表现出达成协议的诚意。",
+          "url": "https://flash.jin10.com/detail/20260227032919825800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时46分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：我们与美国的谈判取得了良好进展。",
+          "url": "https://flash.jin10.com/detail/20260227032905911800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时46分"
+        },
+        {
+          "title": "据伊朗国家媒体报道，伊朗南部阿巴丹市一工业园区发生火灾。",
+          "url": "https://flash.jin10.com/detail/20260226232601025800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时00分"
+        },
+        {
+          "title": "据AXIOS网站：知情人士透露，白宫特使库什纳和威特科夫对（当地时间）上午谈判中伊朗方面的回应感到失望。",
+          "url": "https://flash.jin10.com/detail/20260227021352272800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：技术性会谈将于下周一在维也纳启动。",
+          "url": "https://flash.jin10.com/detail/20260227032804671800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时46分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：我们已就制裁豁免和核问题展开严肃谈判。",
+          "url": "https://flash.jin10.com/detail/20260227032740513800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时46分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：这是我们与美国举行的最为严肃的一次会谈。",
+          "url": "https://flash.jin10.com/detail/20260227032721428800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时46分"
+        },
+        {
+          "title": "伊朗代表团已返回谈判地点",
+          "url": "https://flash.jin10.com/detail/20260227001331592800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "伊朗官员称铀浓缩将“根据需要继续进行”",
+          "url": "https://flash.jin10.com/detail/20260227032017553800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时46分"
+        },
+        {
+          "title": "万斯：对伊朗军事行动若发生 绝不会演变为长期战争",
+          "url": "https://flash.jin10.com/detail/20260227093805756800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋 AI AI AGNET",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "AI编程迎来热潮！华为、阿里加码，未来人人可成为开发者",
@@ -51,8 +689,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时36分 ~ 17时52分]"
+          "appearance_count": 8,
+          "time_info": "[10时36分 ~ 18时46分]"
         },
         {
           "title": "百度第四季度营收327.4亿元，AI算力订阅收入同比增143%｜财报见闻",
@@ -81,8 +719,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时00分 ~ 17时52分]"
+          "appearance_count": 18,
+          "time_info": "[00时00分 ~ 18时46分]"
         },
         {
           "title": "百度电话会：AI云2025年收入达300亿元，算力订阅Q4同比增143%，“萝卜快跑”订单狂飙200%",
@@ -94,8 +732,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时37分 ~ 17时52分]"
+          "appearance_count": 9,
+          "time_info": "[07时37分 ~ 18时46分]"
         },
         {
           "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
@@ -111,8 +749,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时37分 ~ 17时52分]"
+          "appearance_count": 9,
+          "time_info": "[07时37分 ~ 18时46分]"
         },
         {
           "title": "AI的未来，马克思已经预言了？",
@@ -122,8 +760,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时51分 ~ 17时52分]"
+          "appearance_count": 4,
+          "time_info": "[16时51分 ~ 18时46分]"
         },
         {
           "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
@@ -133,11 +771,12 @@
             9,
             10,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时51分 ~ 17时52分]"
+          "appearance_count": 7,
+          "time_info": "[12时51分 ~ 18时46分]"
         },
         {
           "title": "OpenAI：将与加拿大执法机构建立直接联系渠道，承诺与加拿大政府和专家合作，继续强化我们的强化执法转介标准。",
@@ -149,6 +788,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
+        },
+        {
+          "title": "【澜起科技：2025年净利润同比增长58.35%】澜起科技公告，公司2025年实现营业收入54.56亿元，较上年度增长49.94%，毛利率为62.23%，较上年度提升4.10个百分点；实现归属于母公司所有者的净利润22.36亿元，较上年度增长58.35%；实现归属于母公司所有者的扣除非经常性损益的净利润20.22亿元，较上年度增长61.95%。受益于AI产业趋势，行业需求旺盛，公司互连类芯片出货量显著增加，推动公司2025年度经营业绩较上年同期实现大幅增长。公司持续加大研发投入，随着公司布局的新产品品类增加，2025年度公司研发费用约为9.15亿元，较上年度增长20%。",
+          "url": "https://wallstreetcn.com/livenews/3060228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
         },
         {
           "title": "美科技大厂因AI裁掉近半员工 奈飞退出华纳兄弟收购案 | 环球市场",
@@ -196,6 +846,19 @@
           "time_info": "10时36分"
         },
         {
+          "title": "硅谷“最贵华人”被OpenAI挖走",
+          "url": "https://www.baidu.com/s?wd=%E7%A1%85%E8%B0%B7%E2%80%9C%E6%9C%80%E8%B4%B5%E5%8D%8E%E4%BA%BA%E2%80%9D%E8%A2%ABOpenAI%E6%8C%96%E8%B5%B0",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            23,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时57分 ~ 18时46分]"
+        },
+        {
           "title": "不仅全员失业，资本主义也将终结？德银重磅推演AI发展两种终局",
           "url": "https://wallstreetcn.com/articles/3766318",
           "source": "华尔街见闻",
@@ -218,6 +881,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时39分 ~ 06时41分]"
+        },
+        {
+          "title": "融资额大增130% AI制药能否照进现实",
+          "url": "https://www.cls.cn/detail/2296887",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时51分 ~ 18时46分]"
         },
         {
           "title": "演员王劲松发文怒斥被AI盗用",
@@ -267,31 +943,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时39分 ~ 06时41分]"
-        },
-        {
-          "title": "硅谷“最贵华人”被OpenAI挖走",
-          "url": "https://www.baidu.com/s?wd=%E7%A1%85%E8%B0%B7%E2%80%9C%E6%9C%80%E8%B4%B5%E5%8D%8E%E4%BA%BA%E2%80%9D%E8%A2%ABOpenAI%E6%8C%96%E8%B5%B0",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            23,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时57分 ~ 17时52分]"
-        },
-        {
-          "title": "融资额大增130% AI制药能否照进现实",
-          "url": "https://www.cls.cn/detail/2296887",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时51分 ~ 17时52分]"
         },
         {
           "title": "魅族回应退市传闻，宣布暂停国内手机新产品自研硬件项目，全面转型 AI 及软件生态，为什么会走到这一步？",
@@ -537,7 +1188,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -559,7 +1210,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -610,579 +1261,8 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 49,
-      "titles": [
-        {
-          "title": "白宫官员希望以色列先打击伊朗",
-          "url": "https://news.ifeng.com/c/8r3lr4eCVvP",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时00分 ~ 07时37分]"
-        },
-        {
-          "title": "如美发动攻击，中俄会否联手支援伊朗？外交部回应",
-          "url": "https://news.ifeng.com/c/8r3mAyyc1El",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时00分 ~ 07时37分]"
-        },
-        {
-          "title": "中方正密切关注伊朗局势发展",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E6%AD%A3%E5%AF%86%E5%88%87%E5%85%B3%E6%B3%A8%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF%E5%8F%91%E5%B1%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时00分 ~ 07时37分]"
-        },
-        {
-          "title": "一图看懂｜新一轮谈判在即，美军如何在伊朗周边布阵？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32657969",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            11,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时00分 ~ 07时37分]"
-        },
-        {
-          "title": "中国是否会与俄罗斯一道支持伊朗抵御美国侵略？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32653060",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时00分 ~ 15时06分]"
-        },
-        {
-          "title": "伊美第三轮谈判结束，伊朗外长称取得良好进展，美媒称美方谈判期间感到失望",
-          "url": "https://wallstreetcn.com/articles/3766294",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时36分 ~ 17时52分]"
-        },
-        {
-          "title": "伊朗外长Abbas Araghchi在国家电视台表示：今天的谈判属于最严肃的磋商之一。",
-          "url": "https://wallstreetcn.com/livenews/3059741",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时51分"
-        },
-        {
-          "title": "美媒说美国将在谈判中向伊朗提出强硬要求",
-          "url": "https://flash.jin10.com/detail/20260226234811628800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时00分"
-        },
-        {
-          "title": "伊朗拒绝向国外转移浓缩铀",
-          "url": "https://wallstreetcn.com/livenews/3059794",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时41分"
-        },
-        {
-          "title": "据黎巴嫩电视台Al-Mayadeen：有消息称谈判出现了积极迹象，谈判有可能将延长至明天。伊朗方面在铀浓缩问题上表现出了很大的灵活性，而美国方面尚未同意完全解除对伊朗的制裁。",
-          "url": "https://flash.jin10.com/detail/20260227003956662800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "伊朗外长敦促阿富汗和巴基斯坦通过对话解决分歧。",
-          "url": "https://flash.jin10.com/detail/20260227124053017800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时51分 ~ 13时57分]"
-        },
-        {
-          "title": "据Axios记者援引美国官员称，在日内瓦与伊朗举行的核谈判取得积极进展。",
-          "url": "https://flash.jin10.com/detail/20260227031929854800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时51分 ~ 04时46分]"
-        },
-        {
-          "title": "美媒说美国将在谈判中向伊朗提出强硬要求",
-          "url": "https://wallstreetcn.com/livenews/3059675",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 01时14分]"
-        },
-        {
-          "title": "阿曼：美国与伊朗今天的会谈结束，取得了重大进展。 经过征求（各自政府）意见之后，双方将迅速恢复磋商。 两国将于下周在维也纳举行工作层面的会谈。",
-          "url": "https://wallstreetcn.com/livenews/3059725",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时01分 ~ 04时46分]"
-        },
-        {
-          "title": "据i24NEWS：熟悉日内瓦美伊核谈判的消息人士称，美国和伊朗之间的分歧仍然很大，形势不容乐观。",
-          "url": "https://flash.jin10.com/detail/20260227024209626800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时01分 ~ 03时51分]"
-        },
-        {
-          "title": "伊朗外长：伊美第三轮间接谈判取得良好进展",
-          "url": "https://wallstreetcn.com/livenews/3059744",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时46分 ~ 05时39分]"
-        },
-        {
-          "title": "伊朗外交部发言人：本轮伊美谈判非常深入",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32661028",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时06分 ~ 17时52分]"
-        },
-        {
-          "title": "库什纳与美国特使Witkoff对2月26日早间与伊朗的磋商情况感到失望。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3059722",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时01分 ~ 04时46分]"
-        },
-        {
-          "title": "据伊朗国家电视台：美国代表团参加伊朗问题会谈的车辆离开会场。",
-          "url": "https://flash.jin10.com/detail/20260227023314779800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时01分 ~ 03时51分]"
-        },
-        {
-          "title": "伊朗外长Abbas Araghchi在国家电视台表示：今天的谈判属于最严肃的磋商之一。 我们与美国的谈判取得了良好进展。 我们在某些领域存在意见分歧。 讨论了美国制裁和联合国安理会。 认为我们未来一周左右将举行下一轮会谈。",
-          "url": "https://wallstreetcn.com/livenews/3059741",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时46分 ~ 05时39分]"
-        },
-        {
-          "title": "美海军第五舰队驻巴林总部缩减人员规模，据称此举是为应对伊朗可能发动的袭击",
-          "url": "https://wallstreetcn.com/livenews/3059708",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时01分 ~ 03时51分]"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：伊朗外长阿拉格齐与威特科夫的会晤仅限于握手和礼节。",
-          "url": "https://flash.jin10.com/detail/20260227021855722800",
-          "source": "金十数据",
-          "ranks": [
-            18,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时01分 ~ 03时51分]"
-        },
-        {
-          "title": "伊朗石油出货量为何突然飙升",
-          "url": "https://www.toutiao.com/trending/7611366925066571302/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时57分 ~ 15时06分]"
-        },
-        {
-          "title": "伊朗警告：将让侵略者付出惨重代价",
-          "url": "https://www.toutiao.com/trending/7610045179701624886/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时51分 ~ 16时52分]"
-        },
-        {
-          "title": "伊朗外长：伊美第三轮间接谈判取得良好进展",
-          "url": "https://flash.jin10.com/detail/20260227035939515800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "伊朗军官称已做好应对敌军行动准备",
-          "url": "https://flash.jin10.com/detail/20260227160957204800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时52分"
-        },
-        {
-          "title": "伊朗拒绝向国外转移浓缩铀",
-          "url": "https://www.douyin.com/hot/2412896",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时37分"
-        },
-        {
-          "title": "据半岛电视台：伊朗外交部发言人在接受伊朗伊斯兰共和国通讯社（IRNA）采访时称，美伊最新一轮谈判刚刚结束，但未透露更多细节。",
-          "url": "https://flash.jin10.com/detail/20260227030145670800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时51分"
-        },
-        {
-          "title": "据伊朗电视台：有迹象显示一项（美伊）协议即将达成。",
-          "url": "https://flash.jin10.com/detail/20260227030024116800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时51分"
-        },
-        {
-          "title": "据以色列媒体：美国国务卿鲁比奥关于伊朗导弹的言论未能说服国会民主党领导层。",
-          "url": "https://flash.jin10.com/detail/20260227055053276800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时41分"
-        },
-        {
-          "title": "当地时间26日晚，伊朗和美国在日内瓦举行的第三轮间接谈判在短暂休会后，开始进行第二阶段谈判。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3059687",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "美国参议院共和党领袖图恩：若美国对伊朗采取行动，目标应是实现政权更迭。",
-          "url": "https://flash.jin10.com/detail/20260226233430358800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时00分"
-        },
-        {
-          "title": "WTI原油期货跌幅收窄，重返65美元上方。 据伊朗国家电视台：“与美国的部分磋商是直接进行的，伊朗不会允许铀浓缩离开本国”。",
-          "url": "https://wallstreetcn.com/livenews/3059661",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时00分"
-        },
-        {
-          "title": "伊朗外长阿拉格齐：第三轮会谈比以往的讨论更加深入，持续时间也更长。在这一轮会谈中，双方讨论了可能构成协议基础的关键要素。",
-          "url": "https://flash.jin10.com/detail/20260227145037931800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时06分"
-        },
-        {
-          "title": "伊朗外长阿拉格齐：显而易见，伊朗核问题无法通过军事行动解决。他们曾经尝试过，但没有成功。这一次，他们也尽其所能地加大了施压力度，但仍然一无所获。",
-          "url": "https://flash.jin10.com/detail/20260227144950828800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时06分"
-        },
-        {
-          "title": "伊朗代表团已返回谈判地点，参加美伊日内瓦会谈。（CGTN）",
-          "url": "https://wallstreetcn.com/livenews/3059681",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "伊朗外长阿拉格齐：双方都需要与其各自首都（领导人）进行磋商。",
-          "url": "https://flash.jin10.com/detail/20260227033116920800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "伊媒称伊朗拒绝向国外转移浓缩铀",
-          "url": "https://flash.jin10.com/detail/20260227094913478800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时36分"
-        },
-        {
-          "title": "伊朗外长阿拉格齐：我们已明确提出关于解除制裁的具体要求。我们已就解除制裁及安理会相关进展明确阐述立场。",
-          "url": "https://flash.jin10.com/detail/20260227033004846800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "伊朗外长阿拉格齐：虽然仍存在一些分歧，但我们在许多问题上的意见已经趋于一致。双方都表现出达成协议的诚意。",
-          "url": "https://flash.jin10.com/detail/20260227032919825800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "伊朗外长阿拉格齐：我们与美国的谈判取得了良好进展。",
-          "url": "https://flash.jin10.com/detail/20260227032905911800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "据伊朗国家媒体报道，伊朗南部阿巴丹市一工业园区发生火灾。",
-          "url": "https://flash.jin10.com/detail/20260226232601025800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时00分"
-        },
-        {
-          "title": "据AXIOS网站：知情人士透露，白宫特使库什纳和威特科夫对（当地时间）上午谈判中伊朗方面的回应感到失望。",
-          "url": "https://flash.jin10.com/detail/20260227021352272800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "伊朗外长阿拉格齐：技术性会谈将于下周一在维也纳启动。",
-          "url": "https://flash.jin10.com/detail/20260227032804671800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "伊朗外长阿拉格齐：我们已就制裁豁免和核问题展开严肃谈判。",
-          "url": "https://flash.jin10.com/detail/20260227032740513800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "伊朗外长阿拉格齐：这是我们与美国举行的最为严肃的一次会谈。",
-          "url": "https://flash.jin10.com/detail/20260227032721428800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "伊朗代表团已返回谈判地点",
-          "url": "https://flash.jin10.com/detail/20260227001331592800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "伊朗官员称铀浓缩将“根据需要继续进行”",
-          "url": "https://flash.jin10.com/detail/20260227032017553800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "万斯：对伊朗军事行动若发生 绝不会演变为长期战争",
-          "url": "https://flash.jin10.com/detail/20260227093805756800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时36分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
@@ -1244,8 +1324,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时06分 ~ 17时52分]"
+          "appearance_count": 5,
+          "time_info": "[15时06分 ~ 18时46分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-27）",
+          "url": "https://flash.jin10.com/detail/20260227181757598800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
         },
         {
           "title": "美国参议院民主党成员Warren发函货币监理署（OCC）、联邦存款保险公司（FDID）、以及EREBOR Bank。 Warren向亚马逊询问，总统特朗普的关税是否造成（该公司）涨价。",
@@ -1297,16 +1388,17 @@
           "time_info": "[00时00分 ~ 01时14分]"
         },
         {
-          "title": "白宫：特朗普愿在无前提条件下与金正恩对话",
-          "url": "https://news.ifeng.com/c/8r4zqmCwYJf",
-          "source": "凤凰网",
+          "title": "美军中东最高指挥官向特朗普汇报",
+          "url": "https://www.toutiao.com/trending/7611361368545280036/",
+          "source": "今日头条",
           "ranks": [
-            7,
+            16,
+            10,
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时51分 ~ 15时06分]"
+          "appearance_count": 4,
+          "time_info": "[16时51分 ~ 18时46分]"
         },
         {
           "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
@@ -1317,8 +1409,20 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时51分 ~ 18时46分]"
+        },
+        {
+          "title": "白宫：特朗普愿在无前提条件下与金正恩对话",
+          "url": "https://news.ifeng.com/c/8r4zqmCwYJf",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时51分 ~ 17时52分]"
+          "time_info": "[12时51分 ~ 15时06分]"
         },
         {
           "title": "特朗普旨在引导古巴加大对美依赖",
@@ -1332,18 +1436,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时01分 ~ 04时46分]"
-        },
-        {
-          "title": "美军中东最高指挥官向特朗普汇报",
-          "url": "https://www.toutiao.com/trending/7611361368545280036/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时51分 ~ 17时52分]"
         },
         {
           "title": "消息人士称，美国目前并无情报支持特朗普有关“伊朗将很快拥有能打到美国的导弹”的这一说法。（路透）",
@@ -1646,7 +1738,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
