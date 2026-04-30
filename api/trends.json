@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-30T11:59:11.330038+08:00",
-  "total_titles_processed": 860,
+  "generated_at": "2026-04-30T14:43:48.696270+08:00",
+  "total_titles_processed": 1019,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 64,
       "titles": [
         {
           "title": "特朗普公布持枪造型，威胁伊朗“放聪明点”",
@@ -47,11 +47,12 @@
           "url": "https://news.ifeng.com/c/8sjOWWpBUaQ",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时01分 ~ 11时59分]"
+          "appearance_count": 4,
+          "time_info": "[08时01分 ~ 14时43分]"
         },
         {
           "title": "【早报】美联储“按兵不动”，鲍威尔重磅表态；特朗普：同伊朗的谈判正通过电话进行",
@@ -86,6 +87,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时01分 ~ 11时59分]"
+        },
+        {
+          "title": "鲍威尔宣布留任美联储理事，特朗普嘲讽：他找不到工作",
+          "url": "https://news.ifeng.com/c/8sk3JJHRdyH",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时58分 ~ 14时43分]"
         },
         {
           "title": "特朗普再次无视英王室规矩拍国王肩膀",
@@ -125,15 +137,15 @@
           "time_info": "[11时58分 ~ 11时59分]"
         },
         {
-          "title": "鲍威尔宣布留任美联储理事，特朗普嘲讽：他找不到工作",
-          "url": "https://news.ifeng.com/c/8sk3JJHRdyH",
+          "title": "特朗普，居然这都能搞错？",
+          "url": "https://news.ifeng.com/c/8sjpVZ3M3KQ",
           "source": "凤凰网",
           "ranks": [
-            5
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时58分 ~ 11时59分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
         },
         {
           "title": "特朗普：乌克兰在军事上已被击败",
@@ -147,6 +159,17 @@
           "time_info": "08时01分"
         },
         {
+          "title": "特朗普放话：伊朗不求饶，海峡不解封",
+          "url": "https://news.ifeng.com/c/8sjt504KI9b",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
           "title": "美国总统特朗普告诉以色列总理内塔尼亚胡：只能对黎巴嫩实施“外科手术式”袭击。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3096964",
           "source": "华尔街见闻-快讯",
@@ -156,6 +179,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
+        },
+        {
+          "title": "停火岌岌可危？特朗普被曝将听取打击伊朗新方案 目标或包括基础设施",
+          "url": "https://www.cls.cn/detail/2360703",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
+          "title": "特朗普将听取打击伊朗新方案 打击目标很有可能包括伊朗的基础设施",
+          "url": "https://www.cls.cn/detail/2360629",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时58分 ~ 14时43分]"
         },
         {
           "title": "特朗普支持率降至任内新低",
@@ -169,6 +215,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时25分 ~ 08时01分]"
+        },
+        {
+          "title": "特朗普称同伊朗的谈判正通过电话进行 | 环球市场",
+          "url": "https://www.cls.cn/detail/2360339",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时58分 ~ 14时43分]"
         },
         {
           "title": "特朗普“为无限期封锁伊朗”做准备，但对达成临时协议持开放态度",
@@ -193,6 +251,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时01分 ~ 11时59分]"
+        },
+        {
+          "title": "普京与特朗普通话一个半小时，涉及众多议题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33080621",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时58分 ~ 14时43分]"
         },
         {
           "title": "普京与特朗普通话超一个半小时",
@@ -234,39 +304,6 @@
           "source": "财联社热门",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时58分 ~ 11时59分]"
-        },
-        {
-          "title": "特朗普称同伊朗的谈判正通过电话进行 | 环球市场",
-          "url": "https://www.cls.cn/detail/2360339",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时58分 ~ 11时59分]"
-        },
-        {
-          "title": "普京与特朗普通话一个半小时，涉及众多议题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33080621",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时58分 ~ 11时59分]"
-        },
-        {
-          "title": "特朗普将听取打击伊朗新方案 打击目标很有可能包括伊朗的基础设施",
-          "url": "https://www.cls.cn/detail/2360629",
-          "source": "财联社热门",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -560,6 +597,17 @@
           "time_info": "02时17分"
         },
         {
+          "title": "特朗普牵手梅拉尼娅再现拒绝名场面",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%89%B5%E6%89%8B%E6%A2%85%E6%8B%89%E5%B0%BC%E5%A8%85%E5%86%8D%E7%8E%B0%E6%8B%92%E7%BB%9D%E5%90%8D%E5%9C%BA%E9%9D%A2",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
           "title": "特朗普称或削减驻德美军",
           "url": "https://flash.jin10.com/detail/20260430060755309800",
           "source": "金十数据",
@@ -577,7 +625,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
         },
@@ -588,7 +636,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
         },
@@ -624,6 +672,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
+        },
+        {
+          "title": "美媒：特朗普将听取打击伊朗新方案",
+          "url": "https://www.toutiao.com/trending/7634378348331798042/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
         },
         {
           "title": "据AXIOS：美国总统特朗普告诉以色列总理内塔尼亚胡，在停火进展不顺之际，对黎巴嫩只能进行“外科手术式”（精准）的打击。",
@@ -673,7 +732,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
         {
           "title": "美方禁止本国个人或实体向伊朗缴纳海峡通行费",
@@ -765,11 +824,24 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            7
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时01分 ~ 14时43分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 62 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032954547836907965",
+          "source": "知乎",
+          "ranks": [
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[08时01分 ~ 11时59分]"
+          "time_info": "[11时58分 ~ 14时43分]"
         },
         {
           "title": "伊朗战争丨五角大楼：伊朗战事已“烧掉”250亿美元",
@@ -781,17 +853,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时47分 ~ 02时17分]"
-        },
-        {
-          "title": "美以袭击伊朗进入第 62 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2032954547836907965",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时58分 ~ 11时59分]"
         },
         {
           "title": "比尔·阿克曼：在资本市场，我们有庞大的追随者基数。 对市场而言，伊朗局势是（悬在头上）最大的风险。 我们处于一个“愚蠢的、廉价的市场底部”的上方。 投资IPO将需要数周时间，而非数月。",
@@ -826,6 +887,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
+        },
+        {
+          "title": "伊朗战争丨美防长接受质询，对伊动武说法前后不一",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
         },
         {
           "title": "伊朗动荡不安的东南部地区发生枪击事件，3名警察被枪杀。",
@@ -881,6 +953,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
+        },
+        {
+          "title": "伊朗海军司令：将向敌人展示一种“可怕的武器”",
+          "url": "https://www.cls.cn/detail/2360331",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
+          "title": "受伊朗局势冲击，法国经济增长意外停滞",
+          "url": "https://flash.jin10.com/detail/20260430140442968800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
         },
         {
           "title": "布伦特原油站上111美元/桶，日内涨6.82%。WTI原油站上110美元/桶，日内涨8.48%。伊朗表示，为遇害领袖复仇仍在议事日程上。",
@@ -1062,19 +1156,8 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋 AI AI AGNET",
-      "match_count": 29,
+      "match_count": 33,
       "titles": [
-        {
-          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
-          "url": "https://wallstreetcn.com/articles/3771095",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 06时05分]"
-        },
         {
           "title": "AI魔改黑袍,星光姐被玩坏",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353890&amp;topic_name=AI%E9%AD%94%E6%94%B9%E9%BB%91%E8%A2%8D%2C%E6%98%9F%E5%85%89%E5%A7%90%E8%A2%AB%E7%8E%A9%E5%9D%8F",
@@ -1085,8 +1168,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时47分 ~ 11时59分]"
+          "appearance_count": 10,
+          "time_info": "[00时47分 ~ 14时43分]"
+        },
+        {
+          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
+          "url": "https://wallstreetcn.com/articles/3771095",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时47分 ~ 06时05分]"
         },
         {
           "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
@@ -1100,6 +1194,21 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时47分 ~ 08时01分]"
+        },
+        {
+          "title": "从硅谷视角看DeepSeekV4",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E7%A1%85%E8%B0%B7%E8%A7%86%E8%A7%92%E7%9C%8BDeepSeekV4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            13,
+            12,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时47分 ~ 14时43分]"
         },
         {
           "title": "如何评价 DeepSeek 刚刚上线的多模态「识图模式」？",
@@ -1141,18 +1250,29 @@
           "time_info": "[00时47分 ~ 06时05分]"
         },
         {
-          "title": "从硅谷视角看DeepSeekV4",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E7%A1%85%E8%B0%B7%E8%A7%86%E8%A7%92%E7%9C%8BDeepSeekV4",
-          "source": "bilibili 热搜",
+          "title": "AI驱动多项业务增长！Alphabet创四年最强季度营收增速，云业务飙升63%",
+          "url": "https://www.cls.cn/detail/2360312",
+          "source": "财联社热门",
           "ranks": [
-            14,
-            13,
-            12,
-            18
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时47分 ~ 11时59分]"
+          "appearance_count": 3,
+          "time_info": "[11时58分 ~ 14时43分]"
+        },
+        {
+          "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也开始犹豫了？",
+          "url": "https://www.zhihu.com/question/2031783702569726072",
+          "source": "知乎",
+          "ranks": [
+            17,
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时04分 ~ 14时43分]"
         },
         {
           "title": "鲍威尔即将揭晓最终悬念 超级AI财报日来临 | 今夜看点",
@@ -1167,37 +1287,13 @@
           "time_info": "[00时47分 ~ 08时01分]"
         },
         {
-          "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也开始犹豫了？",
-          "url": "https://www.zhihu.com/question/2031783702569726072",
-          "source": "知乎",
-          "ranks": [
-            17,
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时04分 ~ 11时59分]"
-        },
-        {
-          "title": "AI驱动多项业务增长！Alphabet创四年最强季度营收增速，云业务飙升63%",
-          "url": "https://www.cls.cn/detail/2360312",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时58分 ~ 11时59分]"
-        },
-        {
           "title": "小红书内部信曝光：柯南出任总裁，加大AI投入",
           "url": "https://wallstreetcn.com/livenews/3097165",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
         },
@@ -1236,6 +1332,19 @@
           "time_info": "[00时47分 ~ 02时17分]"
         },
         {
+          "title": "不再当好好先生！特朗普发AI持枪图威胁伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33079055",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时01分 ~ 14时43分]"
+        },
+        {
           "title": "在异环中演奏See you again",
           "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8%E5%BC%82%E7%8E%AF%E4%B8%AD%E6%BC%94%E5%A5%8FSee%20you%20again",
           "source": "bilibili 热搜",
@@ -1249,18 +1358,6 @@
           "time_info": "[00时47分 ~ 06时05分]"
         },
         {
-          "title": "不再当好好先生！特朗普发AI持枪图威胁伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33079055",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时01分 ~ 11时59分]"
-        },
-        {
           "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
           "url": "https://wallstreetcn.com/articles/3771311",
           "source": "华尔街见闻",
@@ -1268,8 +1365,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时58分 ~ 11时59分]"
+          "appearance_count": 3,
+          "time_info": "[11时58分 ~ 14时43分]"
         },
         {
           "title": "大猩猩狠拽女游客头发视频系AI",
@@ -1305,6 +1402,28 @@
           "time_info": "[11时58分 ~ 11时59分]"
         },
         {
+          "title": "美股科技“四巨头”同日放榜 “AI烧钱”大战愈演愈烈",
+          "url": "https://www.cls.cn/detail/2360653",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
+          "title": "Anthropic 年收 300 亿，碾压 OpenAI，为什么 OpenAI 坐拥 9 亿周活用户，却被后来者反超？",
+          "url": "https://www.zhihu.com/question/2032816031513538587",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
           "title": "中国AI应用寒武纪大爆发奇点降临",
           "url": "https://www.toutiao.com/trending/7634163210249047595/",
           "source": "今日头条",
@@ -1327,6 +1446,17 @@
           "time_info": "00时47分"
         },
         {
+          "title": "美股燃料电池龙头暴涨超27% SOFC或成AI数据中心供电首选",
+          "url": "https://www.cls.cn/detail/2360333",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
           "title": "Meta Platforms(META.O)CEO：相信用户会为“高端或高算力版本”的目标导向AI功能付费。",
           "url": "https://flash.jin10.com/detail/20260430062037400800",
           "source": "金十数据",
@@ -1347,6 +1477,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
+        },
+        {
+          "title": "钉钉陈航：AI时代招人学历年龄不重要",
+          "url": "https://www.baidu.com/s?wd=%E9%92%89%E9%92%89%E9%99%88%E8%88%AA%EF%BC%9AAI%E6%97%B6%E4%BB%A3%E6%8B%9B%E4%BA%BA%E5%AD%A6%E5%8E%86%E5%B9%B4%E9%BE%84%E4%B8%8D%E9%87%8D%E8%A6%81",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
         },
         {
           "title": "DeepSeek上线识图模式",
@@ -1377,7 +1518,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
         },
@@ -1516,8 +1657,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时58分 ~ 11时59分]"
+          "appearance_count": 3,
+          "time_info": "[11时58分 ~ 14时43分]"
         },
         {
           "title": "国际金价继续回撤至4500美元附近",
@@ -1556,8 +1697,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时58分 ~ 11时59分]"
+          "appearance_count": 3,
+          "time_info": "[11时58分 ~ 14时43分]"
         },
         {
           "title": "分析师电话会：谷歌母公司Alphabet上调2026年资本开支预期至1800亿-1900亿美元，分析师预期1792.7亿美元，原本预计1750亿-1850亿美元。 预计2027年资本开支将在2026年的基础上显著增长。 对计算的需求是空前的。",
@@ -1594,7 +1735,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
         },
@@ -1623,8 +1764,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时01分 ~ 11时59分]"
+          "appearance_count": 4,
+          "time_info": "[08时01分 ~ 14时43分]"
         },
         {
           "title": "美联储4月决议声明发布前，美国10年期国债收益率涨4.9个基点，持稳于4.4%附近。 两年期美债收益率涨约2个基点，持稳于0.88%附近。",
