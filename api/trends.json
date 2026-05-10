@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T14:39:14.584759+08:00",
-  "total_titles_processed": 861,
+  "generated_at": "2026-05-10T16:59:26.650266+08:00",
+  "total_titles_processed": 979,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 52,
+      "match_count": 56,
       "titles": [
         {
           "title": "怕中俄再否决涉伊朗决议，美国删了",
@@ -76,11 +76,44 @@
             6,
             7,
             15,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时53分 ~ 14时39分]"
+          "appearance_count": 7,
+          "time_info": "[04时53分 ~ 16时59分]"
+        },
+        {
+          "title": "伊朗官员：提防美国“海盗式行动”",
+          "url": "https://wallstreetcn.com/livenews/3101089",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            7,
+            8,
+            16,
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时53分 ~ 16时59分]"
+        },
+        {
+          "title": "伊朗高级官员警告：“别亲手关死霍尔木兹海峡的大门”",
+          "url": "https://wallstreetcn.com/livenews/3101091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            8,
+            9,
+            17,
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时53分 ~ 16时59分]"
         },
         {
           "title": "美国务卿敦促“进入严肃谈判进程”，美军向伊朗“违反封锁”油轮开火，伊称海湾交火已停但恐重燃",
@@ -119,34 +152,18 @@
           "time_info": "[06时54分 ~ 07时56分]"
         },
         {
-          "title": "伊朗官员：提防美国“海盗式行动”",
-          "url": "https://wallstreetcn.com/livenews/3101089",
+          "title": "“已锁定美国目标”，伊朗革命卫队警告：侵犯伊朗船只将引发猛烈打击",
+          "url": "https://wallstreetcn.com/livenews/3101094",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            7,
-            8,
-            16,
+            1,
+            9,
+            15,
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时53分 ~ 14时39分]"
-        },
-        {
-          "title": "伊朗高级官员警告：“别亲手关死霍尔木兹海峡的大门”",
-          "url": "https://wallstreetcn.com/livenews/3101091",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            8,
-            9,
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时53分 ~ 14时39分]"
+          "appearance_count": 5,
+          "time_info": "[06时54分 ~ 16时59分]"
         },
         {
           "title": "俄罗斯总统普京：我希望伊朗冲突尽快结束。",
@@ -195,7 +212,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
         },
@@ -210,30 +227,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时53分 ~ 07时56分]"
-        },
-        {
-          "title": "“已锁定美国目标”，伊朗革命卫队警告：侵犯伊朗船只将引发猛烈打击",
-          "url": "https://wallstreetcn.com/livenews/3101094",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时54分 ~ 14时39分]"
-        },
-        {
-          "title": "伊朗军方：对伊制裁国家“在通过霍尔木兹海峡时将面临困难”",
-          "url": "https://wallstreetcn.com/livenews/3101109",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时39分"
         },
         {
           "title": "伊朗伊斯兰革命卫队航空航天部队指挥官：航空航天部队的导弹和无人机已锁定敌人，我们正等待发射命令。",
@@ -262,17 +255,6 @@
           "time_info": "[04时53分 ~ 07时56分]"
         },
         {
-          "title": "美媒：以色列在伊拉克沙漠建立针对伊朗的秘密基地",
-          "url": "https://wallstreetcn.com/livenews/3101108",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时39分"
-        },
-        {
           "title": "据AXIOS网站：美国国务卿鲁比奥和美国特使威特科夫周六在迈阿密会见了卡塔尔首相，旨在推动达成结束伊朗战争的协议。",
           "url": "https://flash.jin10.com/detail/20260510044333531800",
           "source": "金十数据",
@@ -283,6 +265,41 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时53分 ~ 07时56分]"
+        },
+        {
+          "title": "伊朗称若敌人再袭将进入新作战领域",
+          "url": "https://wallstreetcn.com/livenews/3101114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
+          "title": "伊朗军方：对伊制裁国家“在通过霍尔木兹海峡时将面临困难”",
+          "url": "https://wallstreetcn.com/livenews/3101109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 16时59分]"
+        },
+        {
+          "title": "美媒：以色列在伊拉克沙漠建立针对伊朗的秘密基地",
+          "url": "https://wallstreetcn.com/livenews/3101108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 16时59分]"
         },
         {
           "title": "据伊朗法尔斯通讯社：俄罗斯总统普京表示，美伊持续交战对谁都没好处。美伊局势极为复杂，也让俄罗斯陷入两难境地，因为我们与伊朗和阿拉伯国家都保持着良好关系。",
@@ -324,6 +341,17 @@
           "time_info": "[04时53分 ~ 07时56分]"
         },
         {
+          "title": "伊朗战争丨伊朗足协提出参加世界杯10项条件",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时38分 ~ 16时59分]"
+        },
+        {
           "title": "巴林外交大臣：伊朗的行径公然违反国际法规则、联合国宪章以及睦邻友好原则。",
           "url": "https://flash.jin10.com/detail/20260510043228732800",
           "source": "金十数据",
@@ -348,6 +376,19 @@
           "time_info": "[05时53分 ~ 07时56分]"
         },
         {
+          "title": "伊官员：伊朗将继续行使自卫权，警惕美方敌对行动",
+          "url": "https://wallstreetcn.com/livenews/3101098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 16时59分]"
+        },
+        {
           "title": "巴林外交大臣：巴林谴责并强烈不满伊朗持续干涉其内政、威胁海湾国家安全与稳定的行为。",
           "url": "https://flash.jin10.com/detail/20260510043001446800",
           "source": "金十数据",
@@ -369,29 +410,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时02分 ~ 03时12分]"
-        },
-        {
-          "title": "伊朗战争丨伊朗足协提出参加世界杯10项条件",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时38分 ~ 14时39分]"
-        },
-        {
-          "title": "伊官员：伊朗将继续行使自卫权，警惕美方敌对行动",
-          "url": "https://wallstreetcn.com/livenews/3101098",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 14时39分]"
         },
         {
           "title": "据以色列第13频道援引以方消息人士称，以军认为当前伊朗势力的局势提供了一个行动契机，有必要重返战场并完成任务。",
@@ -459,7 +477,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
         },
@@ -508,6 +526,17 @@
           "time_info": "01时08分"
         },
         {
+          "title": "伊朗军方：制裁伊朗的国家通过霍尔木兹海峡时将“面临困难”",
+          "url": "https://flash.jin10.com/detail/20260510155822696800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
           "title": "霍梅尼之孙：伊朗最高领袖对各项事务保持监督",
           "url": "https://flash.jin10.com/detail/20260509211628079800",
           "source": "金十数据",
@@ -517,6 +546,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "受伊朗战争推升油价影响，沙特阿美利润飙升26%",
+          "url": "https://wallstreetcn.com/livenews/3101112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
+          "title": "伊朗海军司令：自主建造的轻型潜艇正在霍尔木兹海峡待命",
+          "url": "https://flash.jin10.com/detail/20260510155306716800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         },
         {
           "title": "普京：伊朗战事让俄罗斯处境复杂",
@@ -558,7 +609,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
         },
@@ -624,7 +675,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
         }
@@ -632,7 +683,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋 AI AI AGNET",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "报道：字节跳动计划将AI基础设施支出增加25%",
@@ -643,8 +694,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时01分 ~ 14时39分]"
+          "appearance_count": 13,
+          "time_info": "[00时01分 ~ 16时59分]"
         },
         {
           "title": "“百度AI称一律师被判刑”构成侵权：百度辩称AI幻觉无法预见，法院判其书面道歉",
@@ -667,8 +718,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时01分 ~ 14时39分]"
+          "appearance_count": 13,
+          "time_info": "[00时01分 ~ 16时59分]"
         },
         {
           "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
@@ -706,11 +757,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时01分 ~ 14时39分]"
+          "appearance_count": 13,
+          "time_info": "[00时01分 ~ 16时59分]"
         },
         {
           "title": "DeepSeek睁眼,开放识图模式",
@@ -719,11 +771,12 @@
           "ranks": [
             11,
             15,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时01分 ~ 14时39分]"
+          "appearance_count": 13,
+          "time_info": "[00时01分 ~ 16时59分]"
         },
         {
           "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
@@ -779,16 +832,29 @@
           "time_info": "[00时01分 ~ 06时54分]"
         },
         {
+          "title": "【早报】字节被爆今年AI支出将超2000亿；我国第四代自主超导量子计算机上线",
+          "url": "https://www.cls.cn/detail/2367077",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时56分 ~ 16时59分]"
+        },
+        {
           "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
           "url": "https://www.zhihu.com/question/2035400318624733173",
           "source": "知乎",
           "ranks": [
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时52分 ~ 14时39分]"
+          "appearance_count": 4,
+          "time_info": "[11时52分 ~ 16时59分]"
         },
         {
           "title": "35 岁主管被公司用 AI 替岗，月薪从 2.5 万降到 1.5 万，拒绝后被裁，面对技术替代，劳动者该怎么办？",
@@ -818,29 +884,6 @@
           "time_info": "[00时02分 ~ 07时56分]"
         },
         {
-          "title": "【早报】字节被爆今年AI支出将超2000亿；我国第四代自主超导量子计算机上线",
-          "url": "https://www.cls.cn/detail/2367077",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时56分 ~ 14时39分]"
-        },
-        {
-          "title": "妈妈的AI在岁月里具象",
-          "url": "https://www.douyin.com/hot/2494006",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时38分 ~ 14时39分]"
-        },
-        {
           "title": "美联储高官：如果AI成了，那会加息；如果AI败了，那会滞胀",
           "url": "https://wallstreetcn.com/articles/3771913",
           "source": "华尔街见闻",
@@ -849,8 +892,34 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时52分 ~ 16时59分]"
+        },
+        {
+          "title": "【社论】一本正经胡说八道，谁为AI幻觉担责？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33138759",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            11,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时56分 ~ 16时59分]"
+        },
+        {
+          "title": "妈妈的AI在岁月里具象",
+          "url": "https://www.douyin.com/hot/2494006",
+          "source": "抖音",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时52分 ~ 14时39分]"
+          "time_info": "[14时38分 ~ 16时59分]"
         },
         {
           "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
@@ -871,24 +940,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 14时39分]"
-        },
-        {
-          "title": "【社论】一本正经胡说八道，谁为AI幻觉担责？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33138759",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时56分 ~ 14时39分]"
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 16时59分]"
         },
         {
           "title": "英伟达全面布局AI生态 股权投资今年已超400亿美元",
@@ -915,6 +972,18 @@
           "time_info": "[11时52分 ~ 14时39分]"
         },
         {
+          "title": "用AI花3个月完成百名程序员7年工作",
+          "url": "https://www.baidu.com/s?wd=%E7%94%A8AI%E8%8A%B13%E4%B8%AA%E6%9C%88%E5%AE%8C%E6%88%90%E7%99%BE%E5%90%8D%E7%A8%8B%E5%BA%8F%E5%91%987%E5%B9%B4%E5%B7%A5%E4%BD%9C",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时38分 ~ 16时59分]"
+        },
+        {
           "title": "分析｜受AI热潮与大宗商品价格推动，4月进出口双双高增",
           "url": "https://m.thepaper.cn/newsDetail_forward_33143971",
           "source": "澎湃新闻",
@@ -925,6 +994,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时52分 ~ 14时39分]"
+        },
+        {
+          "title": "DeepSeek被曝融资500亿",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E8%A2%AB%E6%9B%9D%E8%9E%8D%E8%B5%84500%E4%BA%BF%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时38分 ~ 16时59分]"
         },
         {
           "title": "SK 海力士利润率 72% 碾压英伟达，人均年终奖超 60 万元，带飞韩国楼市婚恋市场，这场 AI 造富能持续多久？",
@@ -950,28 +1030,6 @@
           "time_info": "[07时56分 ~ 11时52分]"
         },
         {
-          "title": "用AI花3个月完成百名程序员7年工作",
-          "url": "https://www.baidu.com/s?wd=%E7%94%A8AI%E8%8A%B13%E4%B8%AA%E6%9C%88%E5%AE%8C%E6%88%90%E7%99%BE%E5%90%8D%E7%A8%8B%E5%BA%8F%E5%91%987%E5%B9%B4%E5%B7%A5%E4%BD%9C",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时38分 ~ 14时39分]"
-        },
-        {
-          "title": "DeepSeek被曝融资500亿",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E8%A2%AB%E6%9B%9D%E8%9E%8D%E8%B5%84500%E4%BA%BF%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时38分 ~ 14时39分]"
-        },
-        {
           "title": "AI修复美国公布UFO照片",
           "url": "https://search.bilibili.com/all?keyword=AI%E4%BF%AE%E5%A4%8D%E7%BE%8E%E5%9B%BD%E5%85%AC%E5%B8%83UFO%E7%85%A7%E7%89%87",
           "source": "bilibili 热搜",
@@ -981,6 +1039,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        },
+        {
+          "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
+          "url": "https://www.cls.cn/detail/2367107",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         },
         {
           "title": "消息人士：阿里巴巴将把千问AI与淘宝整合，推出智能购物服务",
@@ -1032,11 +1101,12 @@
             5,
             6,
             14,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时53分 ~ 14时39分]"
+          "appearance_count": 7,
+          "time_info": "[04时53分 ~ 16时59分]"
         },
         {
           "title": "俄方同意特朗普提出的停火方案",
@@ -1074,8 +1144,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时56分 ~ 14时39分]"
+          "appearance_count": 5,
+          "time_info": "[07时56分 ~ 16时59分]"
         },
         {
           "title": "俄罗斯总统普京：我们当即同意了特朗普关于延长停火并交换囚犯的提议。",
@@ -1152,7 +1222,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
         }
@@ -1160,7 +1230,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "非农缓解“滞胀”担忧，美股新高，英特尔和存储芯片股暴涨，Rocket Lab绩后涨34%",
@@ -1190,11 +1260,23 @@
           "url": "https://wallstreetcn.com/articles/3771916",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时38分 ~ 14时39分]"
+          "appearance_count": 3,
+          "time_info": "[14时38分 ~ 16时59分]"
+        },
+        {
+          "title": "沙特阿美股价在早盘交易中上涨1.1%。",
+          "url": "https://flash.jin10.com/detail/20260510150124748800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         }
       ]
     }
