@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-20T12:07:01.880255+08:00",
-  "total_titles_processed": 789,
+  "generated_at": "2026-05-20T16:32:06.786882+08:00",
+  "total_titles_processed": 987,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 AI AI AGNET",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
         {
           "title": "AMD AI开放日落地上海！苏姿丰现身 称中国拥有全球最具活力的AI生态系统",
@@ -25,11 +25,12 @@
           "source": "贴吧",
           "ranks": [
             12,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 12时07分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 16时32分]"
         },
         {
           "title": "莫奈钓出嘉豪哥,真迹变AI",
@@ -37,22 +38,36 @@
           "source": "贴吧",
           "ranks": [
             16,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 12时07分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 16时32分]"
         },
         {
           "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
           "url": "https://wallstreetcn.com/articles/3772658",
           "source": "华尔街见闻",
           "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时06分 ~ 16时32分]"
+        },
+        {
+          "title": "5月20日投资避雷针：9天6板人气股提示风险 无AI覆铜板及高速覆铜板产品",
+          "url": "https://www.cls.cn/detail/2376131",
+          "source": "财联社热门",
+          "ranks": [
+            5,
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时06分 ~ 12时07分]"
+          "appearance_count": 4,
+          "time_info": "[12时06分 ~ 16时32分]"
         },
         {
           "title": "谷歌开发者大会火力全开：AI搜索、代码生成、视频模型齐发",
@@ -60,17 +75,6 @@
           "source": "财联社热门",
           "ranks": [
             3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时06分 ~ 12时07分]"
-        },
-        {
-          "title": "5月20日投资避雷针：9天6板人气股提示风险 无AI覆铜板及高速覆铜板产品",
-          "url": "https://www.cls.cn/detail/2376131",
-          "source": "财联社热门",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -94,7 +98,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
@@ -121,6 +125,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "银行业高管谈论AI的口风已变 员工噩梦降临",
+          "url": "https://wallstreetcn.com/livenews/3106604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "英伟达财报前夜，黄仁勋、戴尔访谈：AI正大规模进入企业，最核心瓶颈依旧是存储和先进制程芯片",
@@ -193,6 +208,17 @@
           "time_info": "[00时26分 ~ 03时06分]"
         },
         {
+          "title": "如何评价中专生花 10 天手搓 AI 短片《丧尸清道夫》火遍全网，被好莱坞制作人全网寻人？这部短片好在哪里？",
+          "url": "https://www.zhihu.com/question/2040109953877112007",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
+        },
+        {
           "title": "中专生花10天手搓AI短片火遍全网",
           "url": "https://www.toutiao.com/trending/7640988449969864731/",
           "source": "今日头条",
@@ -203,6 +229,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时25分 ~ 07时10分]"
+        },
+        {
+          "title": "美债风暴只是表象？一文读懂：真正能冲击AI牛的是流动性！",
+          "url": "https://www.cls.cn/detail/2376546",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
         },
         {
           "title": "印度为何押注AI和芯片产业",
@@ -244,7 +281,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
@@ -343,6 +380,19 @@
       "match_count": 28,
       "titles": [
         {
+          "title": "美防长公开学特朗普讲话，现场一阵哄堂大笑",
+          "url": "https://v.ifeng.com/c/8tGCnsxL5HM",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 16时32分]"
+        },
+        {
           "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
           "url": "https://wallstreetcn.com/articles/3772569",
           "source": "华尔街见闻",
@@ -354,27 +404,16 @@
           "time_info": "[00时26分 ~ 07时10分]"
         },
         {
-          "title": "美防长公开学特朗普讲话，现场一阵哄堂大笑",
-          "url": "https://v.ifeng.com/c/8tGCnsxL5HM",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 12时07分]"
-        },
-        {
           "title": "美联储加息概率飙升！特朗普松口：沃什可“按自己意愿” 决定利率",
           "url": "https://www.cls.cn/detail/2376144",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时06分 ~ 12时07分]"
+          "appearance_count": 4,
+          "time_info": "[12时06分 ~ 16时32分]"
         },
         {
           "title": "为啥特朗普抛涉台“四不”说法？鲁比奥用大白话解释了",
@@ -657,7 +696,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "伊媒：伊朗格什姆岛传出爆炸声",
@@ -734,6 +773,17 @@
           "time_info": "[05时25分 ~ 07时10分]"
         },
         {
+          "title": "伊朗称有权对霍尔木兹海峡海底光缆收管理费，光缆每天承载超 10 万亿美元的全球金融数据，此举影响力有多大？",
+          "url": "https://www.zhihu.com/question/2040001269360767857",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
+        },
+        {
           "title": "美以袭击伊朗进入第 82 天，当前局势如何？哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2040200472615543846",
           "source": "知乎",
@@ -776,6 +826,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "欧洲央行管委Wunsch：债券抛售未影响对伊朗问题的考量。 欧洲央行迟早会做出反应的。 我们正处于通货膨胀问题的开端阶段。 在部分经济领域，应对通货膨胀的措施可能会更为迅速。 如果到六月情况仍未得到改善，那将会是个糟糕的消息。 欧元区经济正在放缓，而非陷入衰退。 我原本就对4月份加息有所期待。",
+          "url": "https://wallstreetcn.com/livenews/3106601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "美国中央司令部司令Brad Cooper：我们已准备好应对与伊朗相关的多种紧急情况。",
@@ -888,6 +949,17 @@
           "time_info": "03时06分"
         },
         {
+          "title": "伊朗革命卫队：美以若再动武 战火将蔓延至中东以外地区",
+          "url": "https://wallstreetcn.com/livenews/3106565",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "美国副总统万斯称，“无法说我们对‘将与伊朗达成一份协议’有信心”。WTI原油期货跌幅收窄至0.7%，重返103.65美元一线。",
           "url": "https://wallstreetcn.com/livenews/3106199",
           "source": "华尔街见闻-快讯",
@@ -902,7 +974,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "英伟达(NVDA.O)：与谷歌云助力下一波人工智能开发者。",
@@ -948,6 +1020,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时06分 ~ 12时07分]"
+        },
+        {
+          "title": "Token消耗一年暴增7倍！谷歌步入Agent驱动时代 带来什么启示？",
+          "url": "https://www.cls.cn/detail/2376249",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
         },
         {
           "title": "谷歌推出Gemini 3.5系列模型 Omni视频生成迎来关键突破",
@@ -1129,7 +1212,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
@@ -1161,11 +1244,13 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            5
+            5,
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时25分 ~ 12时07分]"
+          "appearance_count": 6,
+          "time_info": "[05时25分 ~ 16时32分]"
         },
         {
           "title": "华尔街警告：美股“黄金时代”结束",
@@ -1211,6 +1296,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "英伟达美股盘前波动不大，现涨1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3106599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "黄金ETF收跌超1.6%，领跌美股大类资产类ETF，布油基金涨2%",
@@ -1329,6 +1425,18 @@
           "time_info": "[00时26分 ~ 05时25分]"
         },
         {
+          "title": "美债上演“投降式大抛售”，高利率阴霾笼罩股市",
+          "url": "https://wallstreetcn.com/articles/3772671",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时06分 ~ 16时32分]"
+        },
+        {
           "title": "通胀担忧高企，美债收益率飙升至多年高位，标普、纳指三连跌，黄金一度跌超2%",
           "url": "https://wallstreetcn.com/articles/3772605",
           "source": "华尔街见闻",
@@ -1338,17 +1446,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
-        },
-        {
-          "title": "美债上演“投降式大抛售”，高利率阴霾笼罩股市",
-          "url": "https://wallstreetcn.com/articles/3772671",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时06分 ~ 12时07分]"
         },
         {
           "title": "汇丰：10年期美债收益率在危险区，但尚未发出买入信号",
@@ -1387,7 +1484,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "机构：黄金价格因美元的走强及利率担忧而下跌",
@@ -1399,6 +1496,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "金价银价油价集体下跌",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%B2%B9%E4%BB%B7%E9%9B%86%E4%BD%93%E4%B8%8B%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
         },
         {
           "title": "查了金价后觉得男主更帅了",
