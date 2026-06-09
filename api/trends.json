@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-06-09T07:16:50.906544+08:00",
-  "total_titles_processed": 556,
+  "generated_at": "2026-06-09T12:03:45.809338+08:00",
+  "total_titles_processed": 803,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 AI AI AGNET",
-      "match_count": 29,
+      "match_count": 41,
       "titles": [
-        {
-          "title": "国家层面首次系统性部署 高质量数据集成物理AI时代“新石油”",
-          "url": "https://www.cls.cn/detail/2393919",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时05分 ~ 07时16分]"
-        },
         {
           "title": "“你应该感到高兴！”黄仁勋力挺AI：暴跌后终于能打折买了",
           "url": "https://wallstreetcn.com/articles/3774087",
@@ -26,6 +14,18 @@
           "ranks": [
             5,
             4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时05分 ~ 12时03分]"
+        },
+        {
+          "title": "国家层面首次系统性部署 高质量数据集成物理AI时代“新石油”",
+          "url": "https://www.cls.cn/detail/2393919",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -55,6 +55,17 @@
           "time_info": "[00时05分 ~ 03时25分]"
         },
         {
+          "title": "苹果智能全面升级：AI深度整合全生态 新版本Siri登场",
+          "url": "https://www.cls.cn/detail/2394196",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
           "title": "OpenAI就IPO事宜向美国SEC秘密递交S-1文件",
           "url": "https://wallstreetcn.com/livenews/3116359",
           "source": "华尔街见闻-快讯",
@@ -66,15 +77,37 @@
           "time_info": "05时55分"
         },
         {
+          "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
+          "url": "https://wallstreetcn.com/articles/3774148",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
           "title": "苹果：中国大陆暂不提供最新Siri AI",
           "url": "https://flash.jin10.com/detail/20260609064804765800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "突然飙涨799%！DeepSeek，传来大消息！",
+          "url": "https://flash.jin10.com/detail/20260609115637717800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "苹果：中国大陆暂不提供最新Siri AI",
@@ -83,9 +116,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "网友调侃 Gemini 为北美大豆包，称其为最蠢 AI，为什么会被诟病难用？你的使用感受如何？",
+          "url": "https://www.zhihu.com/question/2047324900080051711",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "Siri AI",
@@ -211,6 +255,61 @@
           "time_info": "03时25分"
         },
         {
+          "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
+          "url": "https://wallstreetcn.com/articles/3774134",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "6月9日投资避雷针：天娱数科、中望软件等公司密集澄清 没有物理AI业务",
+          "url": "https://www.cls.cn/detail/2394258",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "OpenAI官宣已递交IPO申请文件 AI巨头资本大战或全面打响",
+          "url": "https://www.cls.cn/detail/2394212",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "ST豆神在互动平台回复称，AI算力中心等新型业务正在筹备阶段中，目前无实际在手订单，存在无法实现或不达预期的风险。",
+          "url": "https://flash.jin10.com/detail/20260609115115149800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
+          "url": "https://wallstreetcn.com/articles/3774156",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
           "title": "苹果跌幅扩大至1.2%，该公司称Siri AI一开始不会投放到欧盟市场",
           "url": "https://wallstreetcn.com/livenews/3116308",
           "source": "华尔街见闻-快讯",
@@ -220,6 +319,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
+        },
+        {
+          "title": "以总理确认暂停袭击伊朗 OpenAI递交上市申请文件 | 环球市场",
+          "url": "https://www.cls.cn/detail/2394236",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "Siri AI补课两年终交卷 市场等待折叠iPhone“上桌”",
+          "url": "https://www.cls.cn/detail/2394424",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "OpenAI：尚未决定首次公开募股的时间。",
@@ -294,7 +415,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -305,9 +426,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "DeepSeek开招土木老哥：自建GW级数据中心",
+          "url": "https://wallstreetcn.com/livenews/3116486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "报告称全球60%流量来自AI和机器人",
@@ -346,7 +478,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "沃什上任后第一次敲打！特朗普公开发声：没有任何理由加息，加息就是想扼杀我们的成功",
@@ -365,11 +497,23 @@
           "source": "知乎",
           "ranks": [
             3,
-            1
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时25分 ~ 07时16分]"
+          "appearance_count": 4,
+          "time_info": "[03时25分 ~ 12时03分]"
+        },
+        {
+          "title": "特朗普：内塔尼亚胡，你最好小心点！",
+          "url": "https://news.ifeng.com/c/8toEUKCFcdF",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "24小时惊险内幕：以色列与伊朗如何险些将特朗普拖回战争？",
@@ -378,9 +522,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "洛杉矶市长选情逆转，特朗普、马斯克发声质疑",
+          "url": "https://news.ifeng.com/c/8toKe0HelhI",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "白宫：美国总统特朗普的政府将针对“10万美元H-1B签证费政令遭法官驳回”提出上诉。",
@@ -392,6 +547,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
+        },
+        {
+          "title": "以伊军事冲突升级，特朗普：双方“正寻求”立即停火",
+          "url": "https://wallstreetcn.com/articles/3774115",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时05分 ~ 12时03分]"
         },
         {
           "title": "特朗普：伊朗最高领袖伤得很重",
@@ -453,26 +619,38 @@
           "time_info": "[05时55分 ~ 07时16分]"
         },
         {
-          "title": "以伊军事冲突升级，特朗普：双方“正寻求”立即停火",
-          "url": "https://wallstreetcn.com/articles/3774115",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时05分 ~ 07时16分]"
-        },
-        {
           "title": "特朗普“积极介入斡旋”后，伊朗宣布对以打击“告一段落”",
           "url": "https://wallstreetcn.com/articles/3774122",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时16分 ~ 12时03分]"
+        },
+        {
+          "title": "特朗普提名前私人律师，任司法部长",
+          "url": "https://news.ifeng.com/c/8toF8SZ3oLR",
+          "source": "凤凰网",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时16分"
+          "time_info": "12时03分"
+        },
+        {
+          "title": "特朗普看NBA总决赛睡着了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%9C%8BNBA%E6%80%BB%E5%86%B3%E8%B5%9B%E7%9D%A1%E7%9D%80%E4%BA%86%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "美以伊三方博弈100天：特朗普管不住局势了？",
@@ -492,7 +670,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -503,7 +681,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -555,7 +733,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "以色列回绝伊朗关于不要攻击黎巴嫩的警告",
@@ -567,6 +745,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
+        },
+        {
+          "title": "“未来两周将对伊朗全面胜利”",
+          "url": "https://news.ifeng.com/c/8to7gfqUzZi",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "伊朗官员：伊朗不排斥推进谈判 但美必须拿出诚意",
+          "url": "https://wallstreetcn.com/livenews/3116523",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "安全消息人士称，无人机袭击了位于伊拉克埃尔比勒以北的伊朗库尔德反对派营地。",
@@ -666,6 +866,17 @@
           "time_info": "[05时55分 ~ 07时16分]"
         },
         {
+          "title": "伊朗官员：伊朗不排斥推进谈判 但美必须拿出诚意",
+          "url": "https://flash.jin10.com/detail/20260609115245529800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
           "title": "欧盟以“威胁航行自由”名义制裁伊朗",
           "url": "https://wallstreetcn.com/livenews/3116257",
           "source": "华尔街见闻-快讯",
@@ -675,6 +886,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
+        },
+        {
+          "title": "伊朗开启世界杯史上最特殊参赛模式",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%BC%80%E5%90%AF%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8F%B2%E4%B8%8A%E6%9C%80%E7%89%B9%E6%AE%8A%E5%8F%82%E8%B5%9B%E6%A8%A1%E5%BC%8F",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "据CNN：伊朗官员表示，德黑兰与美国对话“没有问题”，但美方必须改变其行为。",
@@ -705,7 +927,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -716,7 +938,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -738,7 +960,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         }
@@ -746,7 +968,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "以伊战事缓和，美股高开，科技股反弹，英特尔大涨11%，美油跌破91美元",
@@ -766,20 +988,32 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时16分 ~ 12时03分]"
         },
         {
           "title": "美股收盘：芯片股反弹费城指数升超5% 存储、光通信概念齐走强",
           "url": "https://www.cls.cn/detail/2394207",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时16分 ~ 12时03分]"
+        },
+        {
+          "title": "【早报】美股芯片、光通信股全线反弹，半导体指数大涨5.6%；油价冲高回落，金银探底企稳",
+          "url": "https://www.cls.cn/detail/2394225",
+          "source": "财联社热门",
+          "ranks": [
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时16分"
+          "time_info": "12时03分"
         },
         {
           "title": "中东炮火暂歇 美股期指回血 苹果WWDC接棒登场 | 今夜看点",
@@ -806,6 +1040,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时05分 ~ 07时16分]"
+        },
+        {
+          "title": "熊市信号触发70%！美银建议获利了结，现在美股正如“2000年泡沫破灭前1个月”",
+          "url": "https://wallstreetcn.com/articles/3774155",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "新兴市场ETF收涨将近1.8%，领跑美股大类资产类ETF",
@@ -916,7 +1161,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金价下跌后郑州金店被挤爆",
@@ -942,6 +1187,29 @@
           "time_info": "[00时05分 ~ 07时16分]"
         },
         {
+          "title": "回到2025年底！国际金价跌破4300美元，短期偏弱格局还将持续多久？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33334905",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时16分 ~ 12时03分]"
+        },
+        {
+          "title": "加息警报还没解除！金价稳住只是暂时的？",
+          "url": "https://flash.jin10.com/detail/20260609115109370800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
           "title": "花旗下调未来0-3个月黄金价格目标至4000美元，之前为4300美元。 虽然短期动能偏负面，但预计金价最终将随着霍尔木兹海峡紧张局势趋于缓和而反弹。 维持未来6-12个月金价目标在5000美元不变。",
           "url": "https://wallstreetcn.com/livenews/3116245",
           "source": "华尔街见闻-快讯",
@@ -951,17 +1219,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
-        },
-        {
-          "title": "回到2025年底！国际金价跌破4300美元，短期偏弱格局还将持续多久？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33334905",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时16分"
         }
       ]
     },
