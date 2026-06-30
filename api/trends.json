@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-30T17:51:34.513970+08:00",
-  "total_titles_processed": 1032,
+  "generated_at": "2026-06-30T20:15:47.987736+08:00",
+  "total_titles_processed": 1189,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "特朗普坚称美伊周二会谈 科技板块起势反弹 | 今夜看点",
@@ -51,6 +51,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
+        },
+        {
+          "title": "“我不在乎中期选举”：特朗普惹恼共和党议员",
+          "url": "https://news.ifeng.com/c/8uNrdCXnoF5",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
         },
         {
           "title": "美国总统特朗普：由于有关邮寄投票的裁决令人有些意外，《保障美国选民资格法案》显得更加重要。",
@@ -121,6 +132,29 @@
           "time_info": "[13时10分 ~ 17时51分]"
         },
         {
+          "title": "美最高法院裁定库克暂时留任，特朗普称将确保其不影响重大货币政策决定",
+          "url": "https://wallstreetcn.com/articles/3775773",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 20时15分]"
+        },
+        {
+          "title": "遭特朗普讽刺后，英首相最热人选拒绝美国邀请",
+          "url": "https://news.ifeng.com/c/8uNYuN5imVw",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 20时15分]"
+        },
+        {
           "title": "美国总统特朗普：油价已大幅下跌。",
           "url": "https://flash.jin10.com/detail/20260630032956729800",
           "source": "金十数据",
@@ -154,17 +188,6 @@
           "time_info": "04时07分"
         },
         {
-          "title": "美最高法院裁定库克暂时留任，特朗普称将确保其不影响重大货币政策决定",
-          "url": "https://wallstreetcn.com/articles/3775773",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时51分"
-        },
-        {
           "title": "美国总统特朗普：（关于多哈会晤）这或许很重要，我们将拭目以待。",
           "url": "https://flash.jin10.com/detail/20260630032736175800",
           "source": "金十数据",
@@ -176,15 +199,15 @@
           "time_info": "04时07分"
         },
         {
-          "title": "遭特朗普讽刺后，英首相最热人选拒绝美国邀请",
-          "url": "https://news.ifeng.com/c/8uNYuN5imVw",
-          "source": "凤凰网",
+          "title": "特朗普政府收紧医疗补助 遭半数州集体起诉",
+          "url": "https://wallstreetcn.com/livenews/3126752",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时51分"
+          "time_info": "20时15分"
         },
         {
           "title": "特朗普“和粉丝吵翻了”",
@@ -355,7 +378,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 28,
       "titles": [
         {
           "title": "伊朗副外长：本周在多哈进行伊美技术性谈判不属实",
@@ -398,7 +421,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         },
@@ -439,6 +462,18 @@
           "time_info": "[01时43分 ~ 06时14分]"
         },
         {
+          "title": "凤凰女记者：伊朗对霍尔木兹海峡态度十分强硬，只能美国做出妥协",
+          "url": "https://news.ifeng.com/c/8uNZON3SysC",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 20时15分]"
+        },
+        {
           "title": "伊朗副外长：我们已告知阿曼方面，需要重新划定霍尔木兹海峡的通航航线，双方将就此举行技术性会谈。 伊朗反对任何船只通过德黑兰未指定的霍尔木兹海峡航线，并将设法阻止此类通行。",
           "url": "https://wallstreetcn.com/livenews/3126290",
           "source": "华尔街见闻-快讯",
@@ -451,15 +486,15 @@
           "time_info": "[04时07分 ~ 06时14分]"
         },
         {
-          "title": "凤凰女记者：伊朗对霍尔木兹海峡态度十分强硬，只能美国做出妥协",
-          "url": "https://news.ifeng.com/c/8uNZON3SysC",
-          "source": "凤凰网",
+          "title": "伊朗外交部：被冻结资产的解冻工作正在进行。",
+          "url": "https://wallstreetcn.com/livenews/3126758",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时51分"
+          "time_info": "20时15分"
         },
         {
           "title": "伊朗外交部发言人：美国官员访问卡塔尔与伊朗代表团访问多哈无关，未来几天不会与美国进行会谈。",
@@ -506,6 +541,17 @@
           "time_info": "01时44分"
         },
         {
+          "title": "伊朗外交部发言人巴加埃：伊朗与美国之间的沟通渠道不是军事的，而是政治的。",
+          "url": "https://flash.jin10.com/detail/20260630200854293800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        },
+        {
           "title": "据伊朗国家媒体：两名革命卫队成员在伊朗西部遭不明枪手袭击身亡。",
           "url": "https://flash.jin10.com/detail/20260630125106486800",
           "source": "金十数据",
@@ -550,6 +596,39 @@
           "time_info": "01时44分"
         },
         {
+          "title": "伊朗外交部发言人巴加埃：伊朗将继续与阿曼就霍尔木兹海峡管理进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260630200601977800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：在与美国进行最终协议谈判之前，临时协议条款需要得到落实。",
+          "url": "https://flash.jin10.com/detail/20260630200553077800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        },
+        {
+          "title": "消息称伊朗将在本周获得30亿美元被冻结资产",
+          "url": "https://flash.jin10.com/detail/20260630200542174800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        },
+        {
           "title": "伊朗副外长：根据《伊斯兰堡备忘录》，只有伊朗有权在霍尔木兹海峡开展排雷行动。警告法国不要介入相关事务，此举只会令本已十分敏感的局势进一步复杂化。",
           "url": "https://flash.jin10.com/detail/20260630005245126800",
           "source": "金十数据",
@@ -559,6 +638,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
+        },
+        {
+          "title": "伊朗革命卫队称在西北边境打击一支“敌对”武装小组",
+          "url": "https://wallstreetcn.com/livenews/3126732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
         },
         {
           "title": "伊朗称美伊会谈筹备工作尚未启动",
@@ -600,7 +690,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         }
@@ -608,7 +698,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋 AI AI AGNET",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "DeepSeek V4 正式版官宣 7 月中旬上线，引入峰谷定价机制，你怎么看？",
@@ -627,11 +717,23 @@
           "url": "https://www.zhihu.com/question/2055040930516824522",
           "source": "知乎",
           "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 20时15分]"
+        },
+        {
+          "title": "同有科技：拟定增募资不超过10亿元，用于面向AI全场景的企业级存储系统和SSD研发中心建设项目、企业级存储系统和SSD智能制造项目、营销体验中心项目、补充流动资金。",
+          "url": "https://wallstreetcn.com/livenews/3126762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时51分"
+          "time_info": "20时15分"
         },
         {
           "title": "年中盘点|站在“光”里，走进“芯”里，“存”在“PCB”里，AI上游材料通胀行情“星光璀璨”…… 一文看懂2026年上半年A股热炒题材",
@@ -696,6 +798,19 @@
           "time_info": "[01时43分 ~ 08时11分]"
         },
         {
+          "title": "“玻璃桥”冲击到底有多大？华尔街：FAU厂商面临颠覆压力，AI光模块企业暂时相对安全",
+          "url": "https://wallstreetcn.com/articles/3775770",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时10分 ~ 20时15分]"
+        },
+        {
           "title": "裁员12万还不够？美科技白领与AI展开生存赛，学者建议缩短周工时保就业",
           "url": "https://m.thepaper.cn/newsDetail_forward_33472508",
           "source": "澎湃新闻",
@@ -730,18 +845,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时43分 ~ 04时07分]"
-        },
-        {
-          "title": "“玻璃桥”冲击到底有多大？华尔街：FAU厂商面临颠覆压力，AI光模块企业暂时相对安全",
-          "url": "https://wallstreetcn.com/articles/3775770",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时10分 ~ 17时51分]"
         },
         {
           "title": "AI牛市的悬头之剑：不只是韩国，美股杠杆同样触目惊心",
@@ -780,6 +883,17 @@
           "time_info": "[08时11分 ~ 13时10分]"
         },
         {
+          "title": "港股上半年收官：三大指数均跌超10% AI硬件错配引发“流动性双轨虹吸”",
+          "url": "https://www.cls.cn/detail/2412920",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 20时15分]"
+        },
+        {
           "title": "分析师：OpenAI或于今年启动IPO 无需等到2027年",
           "url": "https://flash.jin10.com/detail/20260630055543411800",
           "source": "金十数据",
@@ -791,15 +905,26 @@
           "time_info": "06时14分"
         },
         {
-          "title": "港股上半年收官：三大指数均跌超10% AI硬件错配引发“流动性双轨虹吸”",
-          "url": "https://www.cls.cn/detail/2412920",
-          "source": "财联社热门",
+          "title": "AI时代哪些文科专业不可替代",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E5%93%AA%E4%BA%9B%E6%96%87%E7%A7%91%E4%B8%93%E4%B8%9A%E4%B8%8D%E5%8F%AF%E6%9B%BF%E4%BB%A3",
+          "source": "bilibili 热搜",
           "ranks": [
-            12
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时51分"
+          "time_info": "20时15分"
+        },
+        {
+          "title": "一口气看完2026上半年AI变局",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E5%AE%8C2026%E4%B8%8A%E5%8D%8A%E5%B9%B4AI%E5%8F%98%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
         },
         {
           "title": "城堡证券EMEA固定收益销售主管Nohshad Shah警告称：人工智能（AI）日益成为政治议题。",
@@ -811,6 +936,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
+        },
+        {
+          "title": "Token到底是什么 如何用AI更省钱",
+          "url": "https://www.toutiao.com/trending/7656218600784760356/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
         }
       ]
     },
@@ -941,7 +1077,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         },
@@ -1041,11 +1177,12 @@
           "url": "https://wallstreetcn.com/articles/3775727",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时11分 ~ 17时51分]"
+          "appearance_count": 4,
+          "time_info": "[08时11分 ~ 20时15分]"
         },
         {
           "title": "谷歌母公司支持旨在助推太空产业的金融科技公司",
