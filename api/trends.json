@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T15:13:22.759191+08:00",
-  "total_titles_processed": 993,
+  "generated_at": "2026-07-14T18:05:54.016735+08:00",
+  "total_titles_processed": 1166,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 51,
+      "match_count": 56,
       "titles": [
         {
           "title": "穆杰塔巴报复名单加剧对立，美以恐谋求颠覆伊朗现政权",
@@ -84,7 +84,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -131,6 +131,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
+        },
+        {
+          "title": "美国向全世界敲竹杠，伊朗外长嘲讽",
+          "url": "https://news.ifeng.com/c/8ukLcwiKckH",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
+        {
+          "title": "伊朗前总统内贾德被曝遭软禁，曾短暂现身哈梅内伊葬礼队伍",
+          "url": "https://news.ifeng.com/c/8ukhwi9IbW5",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗阿巴斯港防空系统已启动。",
@@ -247,6 +269,17 @@
           "time_info": "12时08分"
         },
         {
+          "title": "伊朗称布什尔市四个地区遭美军袭击",
+          "url": "https://flash.jin10.com/detail/20260714180026103800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
+        {
           "title": "伊朗媒体：阿巴斯港东部传出4声爆炸",
           "url": "https://flash.jin10.com/detail/20260714030103568800",
           "source": "金十数据",
@@ -256,6 +289,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
+        },
+        {
+          "title": "叙利亚外交部：谴责伊朗对两艘阿联酋油轮在霍尔木兹海峡的袭击。",
+          "url": "https://flash.jin10.com/detail/20260714175943361800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
         },
         {
           "title": "伊朗革命卫队：在霍尔木兹海峡击落一架美军MQ-1无人机。",
@@ -368,6 +412,17 @@
           "time_info": "07时01分"
         },
         {
+          "title": "伊朗阿巴斯港发生多起爆炸",
+          "url": "https://wallstreetcn.com/livenews/3133524",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
+        {
           "title": "安全消息人士称，导弹袭击了伊拉克埃尔比勒东部一个伊朗库尔德反对派组织的据点。",
           "url": "https://flash.jin10.com/detail/20260714061134922800",
           "source": "金十数据",
@@ -451,7 +506,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -517,7 +572,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -580,7 +635,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 49,
       "titles": [
         {
           "title": "特朗普宣称接管霍尔木兹海峡，伊朗警告战火将蔓延全区",
@@ -592,8 +647,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时00分 ~ 15时13分]"
+          "appearance_count": 12,
+          "time_info": "[02时00分 ~ 18时05分]"
         },
         {
           "title": "特朗普：恢复对伊朗封锁，将收取海峡货运两成费用",
@@ -602,11 +657,26 @@
           "ranks": [
             18,
             16,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时00分 ~ 15时13分]"
+          "appearance_count": 12,
+          "time_info": "[02时00分 ~ 18时05分]"
+        },
+        {
+          "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
+          "url": "https://wallstreetcn.com/articles/3776822",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时01分 ~ 18时05分]"
         },
         {
           "title": "特朗普以为中国还得买，等来却是“谢谢，我们不需要了”",
@@ -618,19 +688,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[02时00分 ~ 08时02分]"
-        },
-        {
-          "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
-          "url": "https://wallstreetcn.com/articles/3776822",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时01分 ~ 15时13分]"
         },
         {
           "title": "特朗普点名中东六国",
@@ -667,6 +724,18 @@
           "time_info": "05时02分"
         },
         {
+          "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
+          "url": "https://news.ifeng.com/c/8ukTbU27CpD",
+          "source": "凤凰网",
+          "ranks": [
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 18时05分]"
+        },
+        {
           "title": "特朗普称中东盟友应支付保护费",
           "url": "https://wallstreetcn.com/livenews/3133130",
           "source": "华尔街见闻-快讯",
@@ -676,18 +745,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
-        },
-        {
-          "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
-          "url": "https://news.ifeng.com/c/8ukTbU27CpD",
-          "source": "凤凰网",
-          "ranks": [
-            12,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 15时13分]"
         },
         {
           "title": "特朗普称仍可能与伊朗达成协议",
@@ -748,6 +805,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时01分 ~ 08时02分]"
+        },
+        {
+          "title": "美伊战火不停？特朗普已“知会”国会，但仍认为有望达成协议！",
+          "url": "https://www.cls.cn/detail/2425302",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 18时05分]"
         },
         {
           "title": "美国总统特朗普：今夜，我们在伊朗有大量弹药。",
@@ -814,7 +882,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -872,17 +940,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
-        },
-        {
-          "title": "美伊战火不停？特朗普已“知会”国会，但仍认为有望达成协议！",
-          "url": "https://www.cls.cn/detail/2425302",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
         },
         {
           "title": "特朗普：美国可能负责管理霍尔木兹海峡 守护航道应“收费”",
@@ -957,9 +1014,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
+        },
+        {
+          "title": "一图世界｜特朗普威胁收20%过路费，霍尔木兹海峡为何仍是冲突焦点？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33580758",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
         },
         {
           "title": "美媒：特朗普已通知国会伊朗战事重新爆发",
@@ -982,6 +1050,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "“送他人儿女上战场”，特朗普政治盟友猝死：他为何被叫“战争贩子”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33575452",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
         },
         {
           "title": "美国总统特朗普：（关于伊朗）今晚和明天将对他们进行严厉打击。",
@@ -1094,6 +1173,17 @@
           "time_info": "05时02分"
         },
         {
+          "title": "特朗普称中东盟友应支付保护费",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%AD%E4%B8%9C%E7%9B%9F%E5%8F%8B%E5%BA%94%E6%94%AF%E4%BB%98%E4%BF%9D%E6%8A%A4%E8%B4%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
+        {
           "title": "据CNN：美国总统特朗普将支持通过由已故参议员林赛·格雷厄姆牵头的两党对俄制裁方案 。",
           "url": "https://flash.jin10.com/detail/20260714033602404800",
           "source": "金十数据",
@@ -1108,7 +1198,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋 AI AI AGNET",
-      "match_count": 22,
+      "match_count": 27,
       "titles": [
         {
           "title": "手慢无、买完还得防举报：“空调羞耻”下欧洲人的AI自救",
@@ -1158,6 +1248,17 @@
           "time_info": "[02时00分 ~ 05时02分]"
         },
         {
+          "title": "疑AI照片拿了摄影比赛一等奖",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%96%91AI%E7%85%A7%E7%89%87%E6%8B%BF%E4%BA%86%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E4%B8%80%E7%AD%89%E5%A5%96%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
+        {
           "title": "QuestMobile发布AI应用市场发展半年报，豆包月活居首",
           "url": "https://wallstreetcn.com/livenews/3133308",
           "source": "华尔街见闻-快讯",
@@ -1167,17 +1268,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
-        },
-        {
-          "title": "AI预测法国vs西班牙赛果",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%A2%84%E6%B5%8B%E6%B3%95%E5%9B%BDvs%E8%A5%BF%E7%8F%AD%E7%89%99%E8%B5%9B%E6%9E%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时13分"
         },
         {
           "title": "美国总统特朗普：将摧毁“镐头山”（Pickaxe Mountain），并警告伊朗做好准备。",
@@ -1202,6 +1292,67 @@
           "time_info": "05时02分"
         },
         {
+          "title": "AI预测法国vs西班牙赛果",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%A2%84%E6%B5%8B%E6%B3%95%E5%9B%BDvs%E8%A5%BF%E7%8F%AD%E7%89%99%E8%B5%9B%E6%9E%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时13分 ~ 18时05分]"
+        },
+        {
+          "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33570712",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 18时05分]"
+        },
+        {
+          "title": "当AI穿上白大褂：谁来唤醒沉睡的医疗数据？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33524110",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 18时05分]"
+        },
+        {
+          "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
+          "url": "https://www.zhihu.com/question/2059349642496710015",
+          "source": "知乎",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时13分 ~ 18时05分]"
+        },
+        {
+          "title": "AI杀死时尚行业",
+          "url": "https://s.weibo.com/weibo?q=AI%E6%9D%80%E6%AD%BB%E6%97%B6%E5%B0%9A%E8%A1%8C%E4%B8%9A&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时13分 ~ 18时05分]"
+        },
+        {
           "title": "中国自研AI芯片取得架构突破",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%87%AA%E7%A0%94AI%E8%8A%AF%E7%89%87%E5%8F%96%E5%BE%97%E6%9E%B6%E6%9E%84%E7%AA%81%E7%A0%B4%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -1218,29 +1369,6 @@
           "source": "百度热搜",
           "ranks": [
             11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 15时13分]"
-        },
-        {
-          "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33570712",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 15时13分]"
-        },
-        {
-          "title": "当AI穿上白大褂：谁来唤醒沉睡的医疗数据？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33524110",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -1269,26 +1397,26 @@
           "time_info": "08时02分"
         },
         {
-          "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
-          "url": "https://www.zhihu.com/question/2059349642496710015",
-          "source": "知乎",
+          "title": "AI恐慌缓和，美股盘前存储芯片股普涨，韩股深V反弹，原油上涨，黄金小幅上扬",
+          "url": "https://wallstreetcn.com/articles/3776859",
+          "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时13分"
+          "time_info": "18时05分"
         },
         {
-          "title": "AI杀死时尚行业",
-          "url": "https://s.weibo.com/weibo?q=AI%E6%9D%80%E6%AD%BB%E6%97%B6%E5%B0%9A%E8%A1%8C%E4%B8%9A&t=31&band_rank=9&Refer=top",
-          "source": "微博",
+          "title": "UP主解读AI浪潮下的资本周期",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBAI%E6%B5%AA%E6%BD%AE%E4%B8%8B%E7%9A%84%E8%B5%84%E6%9C%AC%E5%91%A8%E6%9C%9F",
+          "source": "bilibili 热搜",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时13分"
+          "time_info": "18时05分"
         },
         {
           "title": "全球AI龙头股共振下跌，机构称后续关注三个信号",
@@ -1330,9 +1458,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
+        },
+        {
+          "title": "AI生成环卫工照片获摄影比赛一等奖",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E7%94%9F%E6%88%90%E7%8E%AF%E5%8D%AB%E5%B7%A5%E7%85%A7%E7%89%87%E8%8E%B7%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E4%B8%80%E7%AD%89%E5%A5%96%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
+        {
+          "title": "AI短剧为何共用一张脸",
+          "url": "https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E4%B8%BA%E4%BD%95%E5%85%B1%E7%94%A8%E4%B8%80%E5%BC%A0%E8%84%B8",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
         },
         {
           "title": "周一（7月13日），美股存储芯片与硬件供应链指数跌6.96%，报213.87点。 美股超大规模云服务商（Hyperscalers）跌1.01%，报93.03点。 信息科技指数跌4.60%，报405.46点。 人工智能（AI）赢家指数跌4.36%，报402.62点。 AI软件先驱指数涨1.04%，报111.48点。 北美科技软件股指数ETF涨0.31%，Global X网络安全ETF涨0.69%，纳斯达克网络安全ETF跌0.04%，ETFMG网络安全ETF涨0.28%。 美国科技股七巨头（Magnificent 7）指数跌0.94%，报215.76点，整体持续走低。 “超大”市值科技股指数跌1.81%，报438.29点。",
@@ -1367,11 +1517,12 @@
           "url": "https://wallstreetcn.com/articles/3776754",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时01分 ~ 15时13分]"
+          "appearance_count": 5,
+          "time_info": "[08时01分 ~ 18时05分]"
         },
         {
           "title": "美股收盘：美伊局势升级打压风险偏好 芯片股重挫纳指跌逾1.5%",
@@ -1431,6 +1582,19 @@
           "time_info": "05时02分"
         },
         {
+          "title": "高盛、美银齐发卖出警报，对冲基金却重返科技股，美股仓位信号现分歧",
+          "url": "https://wallstreetcn.com/articles/3776816",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时01分 ~ 18时05分]"
+        },
+        {
           "title": "布伦特原油日内涨幅达10.0%，特朗普在美股收盘后称美国今晚和明天将“重击”伊朗。",
           "url": "https://wallstreetcn.com/livenews/3133078",
           "source": "华尔街见闻-快讯",
@@ -1451,19 +1615,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时00分 ~ 05时02分]"
-        },
-        {
-          "title": "高盛、美银齐发卖出警报，对冲基金却重返科技股，美股仓位信号现分歧",
-          "url": "https://wallstreetcn.com/articles/3776816",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时01分 ~ 15时13分]"
         },
         {
           "title": "周一（7月13日），美股行业ETF涨跌各异，半导体ETF收跌4.16%，全球科技股指数ETF、全球航空业ETF、科技行业ETF至多跌2.88%，金融业ETF涨0.65%，能源业ETF涨3.03%。",
@@ -1640,11 +1791,12 @@
           "url": "https://wallstreetcn.com/articles/3776831",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时13分 ~ 18时05分]"
         }
       ]
     }
