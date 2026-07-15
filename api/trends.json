@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T21:54:19.812009+08:00",
-  "total_titles_processed": 1575,
+  "generated_at": "2026-07-15T23:38:04.457261+08:00",
+  "total_titles_processed": 1701,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 80,
+      "match_count": 85,
       "titles": [
         {
           "title": "以色列总理对伊朗领导人发出警告",
@@ -180,6 +180,17 @@
           "time_info": "06时03分"
         },
         {
+          "title": "伊朗外交部：我们目前专注于捍卫国家。",
+          "url": "https://flash.jin10.com/detail/20260715232826838800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
+        },
+        {
           "title": "美军对伊朗发动新一轮打击",
           "url": "https://wallstreetcn.com/livenews/3133849",
           "source": "华尔街见闻-快讯",
@@ -313,6 +324,52 @@
           "time_info": "[02时09分 ~ 04时18分]"
         },
         {
+          "title": "伊朗称美进入正式战争状态",
+          "url": "https://www.douyin.com/hot/2571461",
+          "source": "抖音",
+          "ranks": [
+            23,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时12分 ~ 23时38分]"
+        },
+        {
+          "title": "美军称对伊朗进行了90分钟打击",
+          "url": "https://www.toutiao.com/trending/7662700409185635891/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时54分 ~ 23时38分]"
+        },
+        {
+          "title": "美军宣布对伊朗开始新一波打击",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E5%AE%A3%E5%B8%83%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%BC%80%E5%A7%8B%E6%96%B0%E4%B8%80%E6%B3%A2%E6%89%93%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时54分 ~ 23时38分]"
+        },
+        {
+          "title": "上千枚导弹，要飞向伊朗？",
+          "url": "https://news.ifeng.com/c/8umrKcjjbd0",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时37分 ~ 23时38分]"
+        },
+        {
           "title": "美军宣布对伊朗开始新一波打击",
           "url": "https://www.toutiao.com/trending/7662700409185635891/",
           "source": "今日头条",
@@ -322,6 +379,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时39分 ~ 19时40分]"
+        },
+        {
+          "title": "美军称对伊朗进行了90分钟打击",
+          "url": "https://wallstreetcn.com/articles/3777022",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时37分 ~ 23时38分]"
         },
         {
           "title": "伊朗公布美第五舰队指挥中心被摧毁图",
@@ -344,17 +412,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时39分 ~ 19时40分]"
-        },
-        {
-          "title": "伊朗称美进入正式战争状态",
-          "url": "https://www.douyin.com/hot/2571461",
-          "source": "抖音",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时12分 ~ 17时13分]"
         },
         {
           "title": "美中央司令部证实已对伊朗发动新一轮打击",
@@ -445,6 +502,17 @@
           "time_info": "04时18分"
         },
         {
+          "title": "迈赫尔通讯社：伊朗称美国袭击了霍尔木兹海峡附近的亨加姆岛。",
+          "url": "https://wallstreetcn.com/livenews/3134489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
+        },
+        {
           "title": "美军确认对伊朗进行了新一轮打击",
           "url": "https://flash.jin10.com/detail/20260715033059498800",
           "source": "金十数据",
@@ -465,17 +533,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
-        },
-        {
-          "title": "美军称对伊朗进行了90分钟打击",
-          "url": "https://www.toutiao.com/trending/7662700409185635891/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时54分"
         },
         {
           "title": "据伊通社（IRNA）：伊朗亨格姆岛遭美方炮弹袭击。",
@@ -665,17 +722,6 @@
           "time_info": "07时57分"
         },
         {
-          "title": "美军宣布对伊朗开始新一波打击",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E5%AE%A3%E5%B8%83%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%BC%80%E5%A7%8B%E6%96%B0%E4%B8%80%E6%B3%A2%E6%89%93%E5%87%BB",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时54分"
-        },
-        {
           "title": "据伊朗媒体Fars News：伊朗南部胡齐斯坦省阿瓦士传出爆炸声。",
           "url": "https://flash.jin10.com/detail/20260715031033960800",
           "source": "金十数据",
@@ -819,6 +865,17 @@
           "time_info": "07时57分"
         },
         {
+          "title": "据伊朗迈赫尔通讯社：美国炮弹击中了伊朗亨加姆岛的一处地点。",
+          "url": "https://flash.jin10.com/detail/20260715231214937800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
+        },
+        {
           "title": "伊朗逾180名议员发表声明，要求“惩罚”袭击肇事者",
           "url": "https://wallstreetcn.com/livenews/3133796",
           "source": "华尔街见闻-快讯",
@@ -899,7 +956,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋 AI AI AGNET",
-      "match_count": 61,
+      "match_count": 63,
       "titles": [
         {
           "title": "全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可",
@@ -925,6 +982,22 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时22分 ~ 07时57分]"
+        },
+        {
+          "title": "AI拿冠军,摄影比赛闹笑话",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356179&amp;topic_name=AI%E6%8B%BF%E5%86%A0%E5%86%9B%2C%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E9%97%B9%E7%AC%91%E8%AF%9D",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            3,
+            10,
+            11,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时19分 ~ 23时38分]"
         },
         {
           "title": "当AI穿上白大褂：谁来唤醒沉睡的医疗数据？",
@@ -953,6 +1026,29 @@
           "time_info": "[00时22分 ~ 17时13分]"
         },
         {
+          "title": "国行苹果AI完成备案",
+          "url": "https://www.douyin.com/hot/2572485",
+          "source": "抖音",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时39分 ~ 23时38分]"
+        },
+        {
+          "title": "小浪花看WAIC丨“三地四馆”全攻略：路线、看点、隐藏玩法一次说清",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33589310",
+          "source": "澎湃新闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时39分 ~ 23时38分]"
+        },
+        {
           "title": "如何评价呼和浩特摄影比赛一等奖作品疑 AI 生成，工作人员称「的确太假了」？应该允许 AI 作品参展吗？",
           "url": "https://www.zhihu.com/question/2060385485915263811",
           "source": "知乎",
@@ -966,44 +1062,6 @@
           "time_info": "[00时22分 ~ 07时57分]"
         },
         {
-          "title": "AI拿冠军,摄影比赛闹笑话",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356179&amp;topic_name=AI%E6%8B%BF%E5%86%A0%E5%86%9B%2C%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E9%97%B9%E7%AC%91%E8%AF%9D",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            3,
-            10,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时19分 ~ 21时54分]"
-        },
-        {
-          "title": "国行苹果AI完成备案",
-          "url": "https://www.douyin.com/hot/2572485",
-          "source": "抖音",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时39分 ~ 21时54分]"
-        },
-        {
-          "title": "小浪花看WAIC丨“三地四馆”全攻略：路线、看点、隐藏玩法一次说清",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33589310",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时39分 ~ 21时54分]"
-        },
-        {
           "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
           "url": "https://www.zhihu.com/question/2060645375338180828",
           "source": "知乎",
@@ -1011,11 +1069,25 @@
             10,
             9,
             7,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时20分 ~ 21时54分]"
+          "appearance_count": 8,
+          "time_info": "[14时20分 ~ 23时38分]"
+        },
+        {
+          "title": "DeepSeek工资待遇太恐怖了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B7%A5%E8%B5%84%E5%BE%85%E9%81%87%E5%A4%AA%E6%81%90%E6%80%96%E4%BA%86&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时12分 ~ 23时38分]"
         },
         {
           "title": "AI生成环卫工照片获摄影比赛一等奖",
@@ -1032,19 +1104,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时22分 ~ 11时19分]"
-        },
-        {
-          "title": "DeepSeek工资待遇太恐怖了",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B7%A5%E8%B5%84%E5%BE%85%E9%81%87%E5%A4%AA%E6%81%90%E6%80%96%E4%BA%86&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时12分 ~ 21时54分]"
         },
         {
           "title": "美联储主席沃什国会首秀讲稿：誓言驯服通胀 看好AI投资红利",
@@ -1243,6 +1302,17 @@
           "time_info": "[17时12分 ~ 17时13分]"
         },
         {
+          "title": "AI行情降温 黄金会迎来上涨吗",
+          "url": "https://www.toutiao.com/trending/7662715895654911526/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时37分 ~ 23时38分]"
+        },
+        {
           "title": "美股开盘：AI硬件股上涨 IBM跌22%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9AAI%E7%A1%AC%E4%BB%B6%E8%82%A1%E4%B8%8A%E6%B6%A8+IBM%E8%B7%8C22%25",
           "source": "百度热搜",
@@ -1260,7 +1330,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时54分"
         },
@@ -1359,7 +1429,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时54分"
         },
@@ -1392,7 +1462,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时54分"
         },
@@ -1551,6 +1621,17 @@
           "time_info": "07时57分"
         },
         {
+          "title": "美联储主席沃什：认为大学毕业生具备应对AI所需的技能与直觉。",
+          "url": "https://wallstreetcn.com/livenews/3134476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
+        },
+        {
           "title": "AI生成图片被评摄影一等奖 官方通报",
           "url": "https://www.baidu.com/s?wd=AI%E7%94%9F%E6%88%90%E5%9B%BE%E7%89%87%E8%A2%AB%E8%AF%84%E6%91%84%E5%BD%B1%E4%B8%80%E7%AD%89%E5%A5%96+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5",
           "source": "百度热搜",
@@ -1609,7 +1690,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
         {
           "title": "沃什国会听证首秀：即使特朗普批评也会按数据行动，6月CPI降温不代表通胀“任务完成”",
@@ -1623,8 +1704,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[04时18分 ~ 21时54分]"
+          "appearance_count": 12,
+          "time_info": "[04时18分 ~ 23时38分]"
         },
         {
           "title": "才一天就改口！特朗普放弃霍尔木兹海峡货运收费20%，美油“闪跌”",
@@ -1642,6 +1723,22 @@
           "time_info": "[06时03分 ~ 21时54分]"
         },
         {
+          "title": "特朗普：用贸易投资协议取代霍尔木兹海峡货物收费",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33586641",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            13,
+            12,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时57分 ~ 23时38分]"
+        },
+        {
           "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
           "url": "https://news.ifeng.com/c/8ukTbU27CpD",
           "source": "凤凰网",
@@ -1651,6 +1748,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时22分 ~ 06时03分]"
+        },
+        {
+          "title": "利润率不足10%，特朗普硬抽20%，拦路式收费方案一天作废？",
+          "url": "https://news.ifeng.com/c/8umgsdbwja6",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时39分 ~ 23时38分]"
+        },
+        {
+          "title": "特朗普为何频频感谢中俄？",
+          "url": "https://news.ifeng.com/c/8umXJBl3ies",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时39分 ~ 23时38分]"
         },
         {
           "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
@@ -1665,30 +1784,20 @@
           "time_info": "[00时22分 ~ 04时18分]"
         },
         {
-          "title": "特朗普：用贸易投资协议取代霍尔木兹海峡货物收费",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33586641",
+          "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33583485",
           "source": "澎湃新闻",
           "ranks": [
-            18,
+            17,
             16,
-            13,
-            12,
-            8
+            14,
+            15,
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时57分 ~ 21时54分]"
-        },
-        {
-          "title": "利润率不足10%，特朗普硬抽20%，拦路式收费方案一天作废？",
-          "url": "https://news.ifeng.com/c/8umgsdbwja6",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时39分 ~ 21时54分]"
+          "appearance_count": 9,
+          "time_info": "[11时19分 ~ 23时38分]"
         },
         {
           "title": "一图世界｜特朗普威胁收20%过路费，霍尔木兹海峡为何仍是冲突焦点？",
@@ -1704,30 +1813,15 @@
           "time_info": "[00时22分 ~ 11时19分]"
         },
         {
-          "title": "特朗普为何频频感谢中俄？",
-          "url": "https://news.ifeng.com/c/8umXJBl3ies",
+          "title": "对抗情绪升温，伊朗人又拿“特朗普”出气",
+          "url": "https://news.ifeng.com/c/8umustJIuDD",
           "source": "凤凰网",
           "ranks": [
-            5
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时39分 ~ 21时54分]"
-        },
-        {
-          "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33583485",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16,
-            14,
-            15,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时19分 ~ 21时54分]"
+          "appearance_count": 2,
+          "time_info": "[23时37分 ~ 23时38分]"
         },
         {
           "title": "不到24小时，特朗普态度大转弯",
@@ -1815,6 +1909,18 @@
           "time_info": "[04时18分 ~ 14时20分]"
         },
         {
+          "title": "伊拉克总理到访白宫，特朗普：他年轻又帅，这我就不高兴了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33588226",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时12分 ~ 23时38分]"
+        },
+        {
           "title": "沃什货币政策听证首秀：即使特朗普批评也会按数据行动，美联储有工具实现价格稳定",
           "url": "https://wallstreetcn.com/articles/3776932",
           "source": "华尔街见闻",
@@ -1825,6 +1931,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时22分 ~ 02时09分]"
+        },
+        {
+          "title": "白宫战情室紧急开会！特朗普讨论对伊朗发动大规模进攻计划",
+          "url": "https://wallstreetcn.com/articles/3776989",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时54分 ~ 23时38分]"
         },
         {
           "title": "国际空间站运行拟于2030年底结束 特朗普放弃霍尔木兹海峡收费计划 | 环球市场",
@@ -1851,16 +1969,16 @@
           "time_info": "[19时39分 ~ 21时54分]"
         },
         {
-          "title": "伊拉克总理到访白宫，特朗普：他年轻又帅，这我就不高兴了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33588226",
+          "title": "性侵案败诉，特朗普赔付女作家逾560万美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33590389",
           "source": "澎湃新闻",
           "ranks": [
-            17,
-            18
+            16,
+            14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时12分 ~ 21时54分]"
+          "time_info": "[21时54分 ~ 23时38分]"
         },
         {
           "title": "特朗普转变态度力挺乌克兰有何意图",
@@ -1899,17 +2017,6 @@
           "time_info": "[17时12分 ~ 17时13分]"
         },
         {
-          "title": "白宫战情室紧急开会！特朗普讨论对伊朗发动大规模进攻计划",
-          "url": "https://wallstreetcn.com/articles/3776989",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时54分"
-        },
-        {
           "title": "特朗普：伊朗就像“伟大的拳击手”，以为他败了，突然来一重拳",
           "url": "https://v.ifeng.com/c/8uitzwbrrp3",
           "source": "凤凰网",
@@ -1941,6 +2048,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
+        },
+        {
+          "title": "沃什拒绝向国会山透露其与特朗普的沟通情况，重申美联储独立性",
+          "url": "https://wallstreetcn.com/livenews/3134486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
         },
         {
           "title": "伊朗总统佩泽希齐扬：我们将以实际行动回应特朗普的叫嚣，并将捍卫祖国的每一寸土地。特朗普的无礼言论，只配留给美国人自己。",
@@ -1976,17 +2094,6 @@
           "time_info": "02时09分"
         },
         {
-          "title": "性侵案败诉，特朗普赔付女作家逾560万美元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33590389",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时54分"
-        },
-        {
           "title": "美媒：特朗普要求内塔尼亚胡从叙利亚、黎巴嫩撤军",
           "url": "https://flash.jin10.com/detail/20260715010957773800",
           "source": "金十数据",
@@ -2004,7 +2111,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时54分"
         },
@@ -2133,7 +2240,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
@@ -2145,8 +2252,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时19分 ~ 21时54分]"
+          "appearance_count": 9,
+          "time_info": "[11时19分 ~ 23时38分]"
         },
         {
           "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
@@ -2195,6 +2302,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时57分 ~ 14时20分]"
+        },
+        {
+          "title": "美国通胀降温提振美股，存储跌幅扩大，戴尔重挫13%，油价转跌",
+          "url": "https://wallstreetcn.com/articles/3776964",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时37分 ~ 23时38分]"
         },
         {
           "title": "美国通胀降温，美股指全线反弹，存储芯片股大涨，IBM暴跌25%，油金齐涨",
@@ -2247,29 +2365,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时54分"
-        },
-        {
-          "title": "美股盘初：纳指涨0.6%，阿斯麦涨约3%，阿里巴巴涨约4%，SK海力士跌约7%",
-          "url": "https://wallstreetcn.com/livenews/3134397",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时54分"
-        },
-        {
-          "title": "SK海力士美股单日暴涨27%，较韩股溢价超50%！期权上市刺激交投，资金押注短期看涨",
-          "url": "https://wallstreetcn.com/articles/3776944",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时54分"
         },
@@ -2280,7 +2376,41 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时54分 ~ 23时38分]"
+        },
+        {
+          "title": "SK海力士美股单日暴涨27%，较韩股溢价超50%！期权上市刺激交投，资金押注短期看涨",
+          "url": "https://wallstreetcn.com/articles/3776944",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时54分 ~ 23时38分]"
+        },
+        {
+          "title": "美股中概股大涨 阿里巴巴涨超7%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%AD%E6%A6%82%E8%82%A1%E5%A4%A7%E6%B6%A8+%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%B6%A8%E8%B6%857%25",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时37分 ~ 23时38分]"
+        },
+        {
+          "title": "美股盘初：纳指涨0.6%，阿斯麦涨约3%，阿里巴巴涨约4%，SK海力士跌约7%",
+          "url": "https://wallstreetcn.com/livenews/3134397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时54分"
         },
@@ -2346,7 +2476,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时54分"
         },
@@ -2379,7 +2509,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时54分"
         },
