@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T07:35:16.676453+08:00",
-  "total_titles_processed": 482,
+  "generated_at": "2026-08-09T10:07:22.581041+08:00",
+  "total_titles_processed": 614,
   "failed_sources": [],
   "trends": [
     {
@@ -9,25 +9,14 @@
       "titles": [
         {
           "title": "伊媒发布伊朗最高领袖视频",
-          "url": "https://www.toutiao.com/trending/7671613890689502783/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 07时35分]"
-        },
-        {
-          "title": "伊媒发布伊朗最高领袖视频",
           "url": "https://news.ifeng.com/c/8vQYDcdSi9T",
           "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 07时35分]"
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 10时07分]"
         },
         {
           "title": "伊朗战事打不下去了？美军参联会主席力主“翻篇”",
@@ -37,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 07时35分]"
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 10时07分]"
         },
         {
           "title": "伊朗媒体发布“被击落美以战机残骸”画面",
@@ -48,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 07时35分]"
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 10时07分]"
         },
         {
           "title": "伊总统：伊朗要学中国做好自己的事",
@@ -64,15 +53,28 @@
           "time_info": "[00时40分 ~ 07时35分]"
         },
         {
+          "title": "伊媒发布伊朗最高领袖视频",
+          "url": "https://www.toutiao.com/trending/7671613890689502783/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 10时07分]"
+        },
+        {
           "title": "以媒称伊朗最高领袖被紧急送医，真实性如何？会怎样影响当前局势？",
           "url": "https://www.zhihu.com/question/2069421184177763676",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 07时35分]"
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 10时07分]"
         },
         {
           "title": "伊朗媒体发布伊朗最高领袖视频",
@@ -81,11 +83,12 @@
           "ranks": [
             14,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 07时35分]"
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 10时07分]"
         },
         {
           "title": "万斯：过去几天在伊朗谈判方面取得了一些进展，对方不会征收海峡过境费",
@@ -94,11 +97,12 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 10时07分]"
         },
         {
           "title": "伊官员：有证据显示美军使用磷弹轰炸伊朗多地",
@@ -107,11 +111,12 @@
           "ranks": [
             16,
             17,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 10时07分]"
         },
         {
           "title": "伊朗：与阿曼“接近”达成协议，但并不意味重开海峡",
@@ -369,7 +374,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋 AI AI AGNET",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "爆仓之后，资本反而扑向\"AI股神\"",
@@ -392,8 +397,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 07时35分]"
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 10时07分]"
         },
         {
           "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
@@ -416,11 +421,12 @@
             9,
             8,
             7,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 07时35分]"
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 10时07分]"
         },
         {
           "title": "AI硬件涨价潮传导3C租赁：需求翻倍，租赁商拆售显卡内存|一线",
@@ -430,11 +436,12 @@
             9,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 07时35分]"
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 10时07分]"
         },
         {
           "title": "马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系",
@@ -443,11 +450,12 @@
           "ranks": [
             16,
             18,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 07时35分]"
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 10时07分]"
         },
         {
           "title": "当AI反过来问你问题",
@@ -478,6 +486,17 @@
           "time_info": "[04时36分 ~ 07时35分]"
         },
         {
+          "title": "大爷听AI洒农药 150亩苗一夜枯萎",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E5%90%ACAI%E6%B4%92%E5%86%9C%E8%8D%AF+150%E4%BA%A9%E8%8B%97%E4%B8%80%E5%A4%9C%E6%9E%AF%E8%90%8E",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
           "title": "如何看待 OpenCode Go 订阅中 DeepSeek v4 Flash 开启限时双倍活动？",
           "url": "https://www.zhihu.com/question/2069133357099832441",
           "source": "知乎",
@@ -503,22 +522,34 @@
           "time_info": "[06时35分 ~ 07时35分]"
         },
         {
+          "title": "AI应用公司毛利故事遭遇首次\"体检\"：Canva主动降速、Figma自吞推理成本",
+          "url": "https://wallstreetcn.com/articles/3778990",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时34分 ~ 10时07分]"
+        },
+        {
+          "title": "AI帮你开发以前要花钱的功能",
+          "url": "https://s.weibo.com/weibo?q=AI%E5%B8%AE%E4%BD%A0%E5%BC%80%E5%8F%91%E4%BB%A5%E5%89%8D%E8%A6%81%E8%8A%B1%E9%92%B1%E7%9A%84%E5%8A%9F%E8%83%BD&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时34分 ~ 10时07分]"
+        },
+        {
           "title": "“AI应用龙头”归来！Palantir创2024年以来“最强单周表现”",
           "url": "https://wallstreetcn.com/articles/3778983",
           "source": "华尔街见闻",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时34分 ~ 07时35分]"
-        },
-        {
-          "title": "AI应用公司毛利故事遭遇首次\"体检\"：Canva主动降速、Figma自吞推理成本",
-          "url": "https://wallstreetcn.com/articles/3778990",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -536,15 +567,37 @@
           "time_info": "[00时40分 ~ 00时41分]"
         },
         {
-          "title": "AI帮你开发以前要花钱的功能",
-          "url": "https://s.weibo.com/weibo?q=AI%E5%B8%AE%E4%BD%A0%E5%BC%80%E5%8F%91%E4%BB%A5%E5%89%8D%E8%A6%81%E8%8A%B1%E9%92%B1%E7%9A%84%E5%8A%9F%E8%83%BD&t=31&band_rank=20&Refer=top",
-          "source": "微博",
+          "title": "Agentic AI新趋势：亚马逊AWS出现“CPU短缺”",
+          "url": "https://wallstreetcn.com/articles/3778989",
+          "source": "华尔街见闻",
           "ranks": [
-            20
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时34分 ~ 07时35分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "T1 官宣上调二队打野 Painter 首战 HLE，Oner 替补，如何评价此次换人？",
+          "url": "https://www.zhihu.com/question/2069446019272724909",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
+          "url": "https://wallstreetcn.com/articles/3778996",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
         },
         {
           "title": "苹果与阿里巴巴合作，千问AI功能上线Mac",
@@ -561,7 +614,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -571,8 +624,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 07时35分]"
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 10时07分]"
         },
         {
           "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
@@ -582,8 +635,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 07时35分]"
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 10时07分]"
         },
         {
           "title": "加拿大已经在贸易磋商中向美国做出让步。 加方希望，阻止特朗普在不到两周的时间内加征50%关税的计划。 加拿大要求与美国达成一项全面协议。（纽约时报）",
@@ -592,22 +645,24 @@
           "ranks": [
             2,
             3,
-            4
+            4,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 10时07分]"
         },
         {
           "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
           "url": "https://news.ifeng.com/c/8vQSbJyuyMk",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 07时35分]"
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 10时07分]"
         },
         {
           "title": "美议员讽刺特朗普对伊政策：他总在股市开盘前说不打了",
@@ -616,11 +671,12 @@
           "ranks": [
             7,
             8,
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 10时07分]"
         },
         {
           "title": "特朗普再出手！正式重启罢免美联储理事库克程序，美联储独立性再遭冲击",
@@ -659,6 +715,17 @@
           "time_info": "[01时36分 ~ 02时46分]"
         },
         {
+          "title": "美上诉法院叫停白宫宴会厅施工，特朗普怒了：国家耻辱！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33744455",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
           "title": "消息人士：若民主党赢得众议院，他们计划对特朗普进行调查而非弹劾",
           "url": "https://flash.jin10.com/detail/20260808205550359800",
           "source": "金十数据",
@@ -668,12 +735,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "如何看待特朗普加沙和平计划陷僵局",
+          "url": "https://www.toutiao.com/trending/7671678765432311334/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
@@ -683,8 +761,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 07时35分]"
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 10时07分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -695,8 +773,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 07时35分]"
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 10时07分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -709,6 +787,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时40分 ~ 07时35分]"
+        },
+        {
+          "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
+          "url": "https://www.cls.cn/detail/2449177",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
         }
       ]
     },
@@ -725,11 +814,12 @@
             8,
             7,
             5,
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 07时35分]"
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 10时07分]"
         },
         {
           "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
@@ -738,11 +828,12 @@
           "ranks": [
             18,
             19,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 10时07分]"
         }
       ]
     },
