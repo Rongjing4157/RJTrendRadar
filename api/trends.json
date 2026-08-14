@@ -1,23 +1,48 @@
 {
-  "generated_at": "2026-08-14T10:23:25.239429+08:00",
-  "total_titles_processed": 668,
+  "generated_at": "2026-08-14T12:54:06.127385+08:00",
+  "total_titles_processed": 841,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 AI AI AGNET",
-      "match_count": 40,
+      "match_count": 49,
       "titles": [
+        {
+          "title": "俱往矣!DeepSeek大幅涨价",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时03分 ~ 12时54分]"
+        },
+        {
+          "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
+          "url": "https://wallstreetcn.com/articles/3779377",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时03分 ~ 12时54分]"
+        },
         {
           "title": "如何评价在 8 月 13 日发布的 DeepSeek Harness？",
           "url": "https://www.zhihu.com/question/2071335529577239335",
           "source": "知乎",
           "ranks": [
             2,
-            1
+            1,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时03分 ~ 10时23分]"
+          "appearance_count": 8,
+          "time_info": "[02时03分 ~ 12时54分]"
         },
         {
           "title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗？",
@@ -32,38 +57,16 @@
           "time_info": "[02时03分 ~ 10时23分]"
         },
         {
-          "title": "俱往矣!DeepSeek大幅涨价",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时03分 ~ 10时23分]"
-        },
-        {
-          "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
-          "url": "https://wallstreetcn.com/articles/3779377",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时03分 ~ 10时23分]"
-        },
-        {
           "title": "AI给假网,吧友中招银狐病毒",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357340&amp;topic_name=AI%E7%BB%99%E5%81%87%E7%BD%91%2C%E5%90%A7%E5%8F%8B%E4%B8%AD%E6%8B%9B%E9%93%B6%E7%8B%90%E7%97%85%E6%AF%92",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时03分 ~ 10时23分]"
+          "appearance_count": 8,
+          "time_info": "[02时03分 ~ 12时54分]"
         },
         {
           "title": "DeepSeek发布调价公告",
@@ -75,8 +78,71 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时03分 ~ 10时23分]"
+          "appearance_count": 7,
+          "time_info": "[02时03分 ~ 12时54分]"
+        },
+        {
+          "title": "用AI给小时候的自己做头像",
+          "url": "https://www.douyin.com/hot/2608882",
+          "source": "抖音",
+          "ranks": [
+            13,
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时03分 ~ 12时54分]"
+        },
+        {
+          "title": "受益AI需求外溢，中芯国际Q2营收突破30亿美元，净利暴增近4倍，Q3收入环比预增2%至4%｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779371",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时03分 ~ 12时54分]"
+        },
+        {
+          "title": "用AI给朋友做个专属小游戏",
+          "url": "https://www.douyin.com/hot/2608715",
+          "source": "抖音",
+          "ranks": [
+            21,
+            19,
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时03分 ~ 12时54分]"
+        },
+        {
+          "title": "光速关服,AI虚拟歌姬停运",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
+          "source": "贴吧",
+          "ranks": [
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时03分 ~ 12时54分]"
+        },
+        {
+          "title": "DeepSeek Harness是什么",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E6%98%AF%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 12时54分]"
         },
         {
           "title": "DeepSeek API确认涨价",
@@ -105,30 +171,15 @@
           "time_info": "[02时03分 ~ 06时50分]"
         },
         {
-          "title": "用AI给小时候的自己做头像",
-          "url": "https://www.douyin.com/hot/2608882",
-          "source": "抖音",
+          "title": "下黑手！特朗普政府开发AI工具打击贸易伙伴：让你们帮中国",
+          "url": "https://news.ifeng.com/c/8vYz7iCdmvg",
+          "source": "凤凰网",
           "ranks": [
-            13,
-            11,
-            7
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时03分 ~ 10时23分]"
-        },
-        {
-          "title": "受益AI需求外溢，中芯国际Q2营收突破30亿美元，净利暴增近4倍，Q3收入环比预增2%至4%｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779371",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时03分 ~ 10时23分]"
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 12时54分]"
         },
         {
           "title": "铜铝需求逻辑正在从地产转向AI、电网和电气化",
@@ -137,7 +188,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
         },
@@ -149,31 +200,6 @@
             18,
             21,
             19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时03分 ~ 10时23分]"
-        },
-        {
-          "title": "用AI给朋友做个专属小游戏",
-          "url": "https://www.douyin.com/hot/2608715",
-          "source": "抖音",
-          "ranks": [
-            21,
-            19,
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时03分 ~ 10时23分]"
-        },
-        {
-          "title": "光速关服,AI虚拟歌姬停运",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
-          "source": "贴吧",
-          "ranks": [
-            26
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -197,7 +223,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
         },
@@ -208,9 +234,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
+        },
+        {
+          "title": "高盛据悉正洽谈参与英伟达5000亿美元AI融资计划",
+          "url": "https://flash.jin10.com/detail/20260814121555341800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
         },
         {
           "title": "DeepSeek智能体曝光！人人用得起的Agent？",
@@ -230,7 +267,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
         },
@@ -297,24 +334,69 @@
           "time_info": "[02时03分 ~ 03时59分]"
         },
         {
-          "title": "A股AI应用方向开盘拉升，理工能科2连板，石基信息、久其软件直线涨停，大恒科技、合合信息、达梦数据跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3149415",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时23分"
-        },
-        {
           "title": "DeepSeek Harness 开发者预览版：一切皆插件",
           "url": "https://wallstreetcn.com/articles/3779385",
           "source": "华尔街见闻",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时23分 ~ 12时54分]"
+        },
+        {
+          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
+          "url": "https://wallstreetcn.com/articles/3779390",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时23分 ~ 12时54分]"
+        },
+        {
+          "title": "戚薇推出数字分身，成为首位内娱开放 AI 授权的艺人，明星拥抱数字分身将带来哪些新变化？",
+          "url": "https://www.zhihu.com/question/2068993919958742400",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 12时54分]"
+        },
+        {
+          "title": "梁文锋打新宇树科技",
+          "url": "https://s.weibo.com/weibo?q=%E6%A2%81%E6%96%87%E9%94%8B%E6%89%93%E6%96%B0%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 12时54分]"
+        },
+        {
+          "title": "AI革命拐点：岗位压缩跑赢岗位创造",
+          "url": "https://www.toutiao.com/trending/7673650830444072494/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 12时54分]"
+        },
+        {
+          "title": "A股AI应用方向开盘拉升，理工能科2连板，石基信息、久其软件直线涨停，大恒科技、合合信息、达梦数据跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3149415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
         },
@@ -341,15 +423,15 @@
           "time_info": "02时04分"
         },
         {
-          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
-          "url": "https://wallstreetcn.com/articles/3779390",
-          "source": "华尔街见闻",
+          "title": "苹果未来几个月将在中国发布一套AI工具，该AI模型的训练得到阿里巴巴的支持。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3149477",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时23分"
+          "time_info": "12时54分"
         },
         {
           "title": "OpenAI 上市前年化营收突破 400 亿美元",
@@ -369,7 +451,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
         },
@@ -407,6 +489,17 @@
           "time_info": "03时59分"
         },
         {
+          "title": "金山办公“灵犀”接入DeepSeek-V4-Pro正式版，已向用户开放",
+          "url": "https://wallstreetcn.com/livenews/3149467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
           "title": "苹果在休斯顿开设先进制造中心，宣布将在今年开始在休斯顿生产Mac Mini。 苹果在休斯顿投资数亿美元，首批先进AI服务器已发货。",
           "url": "https://wallstreetcn.com/livenews/3149278",
           "source": "华尔街见闻-快讯",
@@ -440,6 +533,17 @@
           "time_info": "06时50分"
         },
         {
+          "title": "AMD完成历史最大债券发行！47.5亿美元融资瞄准AI基础设施扩张",
+          "url": "https://flash.jin10.com/detail/20260814114429385800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
           "title": "OpenAI在不到一年内任命新首席营收官",
           "url": "https://wallstreetcn.com/livenews/3149247",
           "source": "华尔街见闻-快讯",
@@ -457,7 +561,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
         },
@@ -476,7 +580,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
@@ -529,11 +633,23 @@
           "url": "https://news.ifeng.com/c/8vYmNSHdxQv",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时23分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时23分 ~ 12时54分]"
+        },
+        {
+          "title": "最年轻新闻秘书，“弃特朗普而去”",
+          "url": "https://news.ifeng.com/c/8vYyzBPe3bZ",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时23分 ~ 12时54分]"
         },
         {
           "title": "美新闻机构起诉特朗普",
@@ -548,15 +664,15 @@
           "time_info": "[02时03分 ~ 06时50分]"
         },
         {
-          "title": "最年轻新闻秘书，“弃特朗普而去”",
-          "url": "https://news.ifeng.com/c/8vYyzBPe3bZ",
-          "source": "凤凰网",
+          "title": "特朗普允许美海军海外建造舰船",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%81%E8%AE%B8%E7%BE%8E%E6%B5%B7%E5%86%9B%E6%B5%B7%E5%A4%96%E5%BB%BA%E9%80%A0%E8%88%B0%E8%88%B9%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
           "ranks": [
-            11
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 12时54分]"
         },
         {
           "title": "澳大利亚总理阿尔巴尼斯：美国总统特朗普同意考虑关于关税的请求。",
@@ -669,6 +785,17 @@
           "time_info": "06时50分"
         },
         {
+          "title": "特朗普与马斯克重修旧好：私人恩怨退场，政治利益重新把两人绑在一起",
+          "url": "https://flash.jin10.com/detail/20260814114351665800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
           "title": "白宫：美国总统特朗普已签署一份国家安全总统备忘录，旨在解决海军舰船建造与维修计划中长期存在的关键问题。",
           "url": "https://flash.jin10.com/detail/20260814052911469800",
           "source": "金十数据",
@@ -697,15 +824,26 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
+        },
+        {
+          "title": "美媒：特朗普下令美海军弃用电磁弹射系统，改回蒸汽弹射",
+          "url": "https://wallstreetcn.com/livenews/3149448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "被伊朗打成外交收缩？美驻中东使馆拟长期精简人员",
@@ -741,6 +879,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时03分 ~ 03时59分]"
+        },
+        {
+          "title": "伊朗最高领袖顾问：若条件得不到满足，或升级冲突",
+          "url": "https://news.ifeng.com/c/8vZAGoGTmeG",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 12时54分]"
         },
         {
           "title": "美国能源部长赖特：美国知道每天有多少艘船只进出霍尔木兹海峡。 每天有800万至900万桶石油经由霍尔木兹海峡运输。 伊朗正试图以全球经济为要挟。 美国护送和运送货物的能力正在增强。 霍尔木兹海峡石油运输量将继续增加。",
@@ -788,26 +937,39 @@
           "time_info": "[02时04分 ~ 03时59分]"
         },
         {
-          "title": "伊朗：美若敢用核弹 全球基地将成靶子",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%BE%8E%E8%8B%A5%E6%95%A2%E7%94%A8%E6%A0%B8%E5%BC%B9+%E5%85%A8%E7%90%83%E5%9F%BA%E5%9C%B0%E5%B0%86%E6%88%90%E9%9D%B6%E5%AD%90",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时23分"
-        },
-        {
           "title": "美防长称可无限期封锁伊朗 美联储官员重申现在必须加息 | 环球市场",
           "url": "https://www.cls.cn/detail/2454017",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时23分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时23分 ~ 12时54分]"
+        },
+        {
+          "title": "伊朗：美若敢用核弹 全球基地将成靶子",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%BE%8E%E8%8B%A5%E6%95%A2%E7%94%A8%E6%A0%B8%E5%BC%B9+%E5%85%A8%E7%90%83%E5%9F%BA%E5%9C%B0%E5%B0%86%E6%88%90%E9%9D%B6%E5%AD%90",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时23分 ~ 12时54分]"
+        },
+        {
+          "title": "美防长称可“无限期”对伊朗进行海上封锁",
+          "url": "https://news.ifeng.com/c/8vZaxoRoYIe",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 12时54分]"
         },
         {
           "title": "伊朗外交部再次谴责美以违反国际人道法",
@@ -941,8 +1103,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时50分 ~ 10时23分]"
+          "appearance_count": 4,
+          "time_info": "[06时50分 ~ 12时54分]"
         },
         {
           "title": "Reddit(RDDT.N)美股盘后涨超12%。",
@@ -959,7 +1121,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "特朗普或迎新“纪录”：30年期美债融资成本恐创2001年来最高",
@@ -984,6 +1146,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时58分 ~ 06时50分]"
+        },
+        {
+          "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
+          "url": "https://wallstreetcn.com/articles/3779403",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 12时54分]"
         }
       ]
     },
@@ -1026,7 +1199,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
         }
@@ -1043,7 +1216,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
         }
