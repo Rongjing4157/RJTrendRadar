@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-10-21T17:57:00.545966+08:00",
-  "total_titles_processed": 973,
+  "generated_at": "2026-10-21T23:01:26.456625+08:00",
+  "total_titles_processed": 1164,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 AI AI AGNET",
-      "match_count": 49,
+      "match_count": 60,
       "titles": [
+        {
+          "title": "SpaceX Q3 AI业务大爆发、收入暴增830%，利润碾压预期，资本支出近200亿｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3784066",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时08分 ~ 23时01分]"
+        },
         {
           "title": "众声丨AI“苦命男孩小海”收割老人，平台审核不能总是被动响应",
           "url": "https://m.thepaper.cn/newsDetail_forward_34288055",
@@ -32,6 +44,19 @@
           "time_info": "[00时39分 ~ 12时08分]"
         },
         {
+          "title": "网友高铁偶遇自称 114 岁老人，能熟练使用智能手机，年龄真实性如何？横跨民国到 AI 时代的人生会是怎样的？",
+          "url": "https://www.zhihu.com/question/2095844033167716971",
+          "source": "知乎",
+          "ranks": [
+            5,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时08分 ~ 23时01分]"
+        },
+        {
           "title": "半导体业绩浪来了！多家龙头净利倍增 AI红利成主要推力",
           "url": "https://www.cls.cn/detail/2510147",
           "source": "财联社热门",
@@ -42,6 +67,34 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时39分 ~ 07时43分]"
+        },
+        {
+          "title": "外网评最烂AI命名榜,DS夺冠",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367763&amp;topic_name=%E5%A4%96%E7%BD%91%E8%AF%84%E6%9C%80%E7%83%82AI%E5%91%BD%E5%90%8D%E6%A6%9C%2CDS%E5%A4%BA%E5%86%A0",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            17,
+            19,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 23时01分]"
+        },
+        {
+          "title": "AI画大肥鱼翻车,鲸鱼娘遭殃",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367596&amp;topic_name=AI%E7%94%BB%E5%A4%A7%E8%82%A5%E9%B1%BC%E7%BF%BB%E8%BD%A6%2C%E9%B2%B8%E9%B1%BC%E5%A8%98%E9%81%AD%E6%AE%83",
+          "source": "贴吧",
+          "ranks": [
+            22,
+            26,
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 23时01分]"
         },
         {
           "title": "怎么看 DeepSeek 官宣单集群日均吞吐达 155 万亿 Token，单卡每小时收入 38 美金？",
@@ -66,17 +119,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时39分 ~ 07时43分]"
-        },
-        {
-          "title": "SpaceX Q3 AI业务大爆发、收入暴增830%，利润碾压预期，资本支出近200亿｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3784066",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 17时57分]"
         },
         {
           "title": "【焦点复盘】沪指日线3连涨收复5日线，物理AI概念火热依旧，大金融板块逆势走弱",
@@ -114,6 +156,28 @@
           "time_info": "[00时39分 ~ 04时22分]"
         },
         {
+          "title": "低价共享AI付费权益靠谱吗",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BD%8E%E4%BB%B7%E5%85%B1%E4%BA%ABAI%E4%BB%98%E8%B4%B9%E6%9D%83%E7%9B%8A%E9%9D%A0%E8%B0%B1%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时00分 ~ 23时01分]"
+        },
+        {
+          "title": "黄仁勋GTC柏林演讲：AI工厂部署最快缩至14天 智能体与物理AI加速落地",
+          "url": "https://www.cls.cn/detail/2511348",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时00分 ~ 23时01分]"
+        },
+        {
           "title": "美国政府指示各机构停用DeepSeek，外交部：反对将科技经贸问题政治化",
           "url": "https://www.cls.cn/detail/2509748",
           "source": "财联社热门",
@@ -125,19 +189,6 @@
           "time_info": "00时39分"
         },
         {
-          "title": "外网评最烂AI命名榜,DS夺冠",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367763&amp;topic_name=%E5%A4%96%E7%BD%91%E8%AF%84%E6%9C%80%E7%83%82AI%E5%91%BD%E5%90%8D%E6%A6%9C%2CDS%E5%A4%BA%E5%86%A0",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 17时57分]"
-        },
-        {
           "title": "UP主拆解爆款AI代码动画",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8B%86%E8%A7%A3%E7%88%86%E6%AC%BEAI%E4%BB%A3%E7%A0%81%E5%8A%A8%E7%94%BB",
           "source": "bilibili 热搜",
@@ -146,19 +197,6 @@
             16,
             17,
             27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 17时57分]"
-        },
-        {
-          "title": "AI画大肥鱼翻车,鲸鱼娘遭殃",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367596&amp;topic_name=AI%E7%94%BB%E5%A4%A7%E8%82%A5%E9%B1%BC%E7%BF%BB%E8%BD%A6%2C%E9%B2%B8%E9%B1%BC%E5%A8%98%E9%81%AD%E6%AE%83",
-          "source": "贴吧",
-          "ranks": [
-            22,
-            26,
-            28
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -187,16 +225,27 @@
           "time_info": "04时22分"
         },
         {
-          "title": "网友高铁偶遇自称 114 岁老人，能熟练使用智能手机，年龄真实性如何？横跨民国到 AI 时代的人生会是怎样的？",
-          "url": "https://www.zhihu.com/question/2095844033167716971",
-          "source": "知乎",
+          "title": "超微电脑业绩远超预期，“AI交易”应声反弹，“服务器巨头”戴尔、慧与科技大涨",
+          "url": "https://wallstreetcn.com/articles/3784079",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
-            8
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 17时57分]"
+          "appearance_count": 4,
+          "time_info": "[17时56分 ~ 23时01分]"
+        },
+        {
+          "title": "【焦点复盘】创指失守2700点续创年内新低，“宁王”市值单日“蒸发”近1500亿，端侧AI概念活跃依旧",
+          "url": "https://www.cls.cn/detail/2511149",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时56分 ~ 23时01分]"
         },
         {
           "title": "韩国最大IPO首日暴跌32%：盈利的\"新云\"公司也难逃AI数据中心寒冬",
@@ -221,6 +270,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时39分 ~ 12时08分]"
+        },
+        {
+          "title": "吴越等人被AI盗用带货，经济日报：识别AI仿冒平台需担起责任",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34296636",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时56分 ~ 23时01分]"
         },
         {
           "title": "为什么目前 AI 的设备是用 Mac 为主，而不是熟知的 Windows？",
@@ -293,15 +354,37 @@
           "time_info": "[17时56分 ~ 17时57分]"
         },
         {
-          "title": "超微电脑业绩远超预期，“AI交易”应声反弹，“服务器巨头”戴尔、慧与科技大涨",
-          "url": "https://wallstreetcn.com/articles/3784079",
+          "title": "英伟达GTC柏林：电信基站有望变身AI算力节点，黄仁勋力推欧洲全行业拥抱AI",
+          "url": "https://wallstreetcn.com/articles/3784122",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时56分 ~ 17时57分]"
+          "time_info": "[23时00分 ~ 23时01分]"
+        },
+        {
+          "title": "强劲季报提振AI交易，美股开盘走高，SpaceX涨幅扩大至10%，英伟达涨约2%，油价再度走高",
+          "url": "https://wallstreetcn.com/articles/3784116",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时00分 ~ 23时01分]"
+        },
+        {
+          "title": "连英伟达都承认消费级显卡已超出其控制，AI 显卡内存涨价狂潮何时结束?",
+          "url": "https://www.zhihu.com/question/2095674841978488596",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时00分 ~ 23时01分]"
         },
         {
           "title": "现在 AI 短剧满天飞，怎么没见影视行业人员发声？",
@@ -338,26 +421,26 @@
           "time_info": "[17时56分 ~ 17时57分]"
         },
         {
-          "title": "【焦点复盘】创指失守2700点续创年内新低，“宁王”市值单日“蒸发”近1500亿，端侧AI概念活跃依旧",
-          "url": "https://www.cls.cn/detail/2511149",
-          "source": "财联社热门",
+          "title": "陶哲轩和邓煜的对谈《数学与 AI 究竟是什么关系？》，如何理解他们各自的观点？",
+          "url": "https://www.zhihu.com/question/2095840244973004152",
+          "source": "知乎",
           "ranks": [
-            13
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时56分 ~ 17时57分]"
+          "time_info": "[23时00分 ~ 23时01分]"
         },
         {
-          "title": "吴越等人被AI盗用带货，经济日报：识别AI仿冒平台需担起责任",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34296636",
-          "source": "澎湃新闻",
+          "title": "日本独立游戏开发者称发出去就被 AI 抄走，你觉得独立开发者该怎么办？",
+          "url": "https://www.zhihu.com/question/2095491583533658157",
+          "source": "知乎",
           "ranks": [
-            18
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时56分 ~ 17时57分]"
+          "time_info": "[23时00分 ~ 23时01分]"
         },
         {
           "title": "SpaceX(SPCX.O)2026年Q3 AI资本支出164.4亿美元，市场预期169亿美元。",
@@ -437,6 +520,17 @@
           "time_info": "07时43分"
         },
         {
+          "title": "OpenAI：已承诺投入10亿美元，通过Daybreak项目向一线网络安全防御人员提供补贴支持的Daybreak使用权限。",
+          "url": "https://flash.jin10.com/detail/20261021223211711800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时01分"
+        },
+        {
           "title": "英特尔：AMD和英特尔合作，使用PyTorch简化X86 CPU上的AI开发。 AMD与英特尔已达成一致，将oneDNN作为PyTorch中x86加速的默认开源库。 AMD加入UXL基金会成为指导成员，以推进oneDNN PyTorch工作。",
           "url": "https://wallstreetcn.com/livenews/3182046",
           "source": "华尔街见闻-快讯",
@@ -448,6 +542,17 @@
           "time_info": "00时39分"
         },
         {
+          "title": "OpenAI：（就PHP安全漏洞问题）据我们所知，前沿人工智能模型先于攻击者发现了这些漏洞。",
+          "url": "https://flash.jin10.com/detail/20261021223158698800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时01分"
+        },
+        {
           "title": "城堡证券CEO警告：AI泡沫几乎已成定局，类比互联网泡沫破裂前夕",
           "url": "https://flash.jin10.com/detail/20261021064615368800",
           "source": "金十数据",
@@ -457,6 +562,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
+        },
+        {
+          "title": "OpenAI：（就PHP安全漏洞问题）鉴于这些漏洞的严重程度以及PHP的广泛应用，公司认为这是近年来影响最为重大的安全漏洞之一。",
+          "url": "https://flash.jin10.com/detail/20261021223109494800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时01分"
+        },
+        {
+          "title": "OpenAI：（就PHP安全漏洞问题）鉴于这些漏洞的严重程度以及PHP的广泛应用，公司认为这是近年来影响最为重大的安全漏洞之一。",
+          "url": "https://wallstreetcn.com/livenews/3182816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时01分"
         },
         {
           "title": "系统性变革遇上AI大爆发：报业如何面向未来再出发？业界共话破局新路径",
@@ -553,7 +680,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
@@ -572,7 +699,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普：也许泽连斯基是时候找别人来谈判了",
@@ -606,6 +733,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时39分 ~ 07时43分]"
+        },
+        {
+          "title": "泽连斯基和特朗普，彻底决裂了？",
+          "url": "https://news.ifeng.com/c/8xPKsnXuGn8",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时00分 ~ 23时01分]"
         },
         {
           "title": "美国总统特朗普刚刚抵达北卡罗来纳州，稍后其将在一场集会上发表讲话。",
@@ -824,7 +962,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "据伊朗迈赫尔通讯社：伊朗议会议长卡利巴夫称美国只有执行伊朗在纽约提出的七项条件，才能赢得伊方信任。",
@@ -887,11 +1025,23 @@
           "source": "知乎",
           "ranks": [
             20,
-            19
+            19,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 17时57分]"
+          "appearance_count": 5,
+          "time_info": "[12时08分 ~ 23时01分]"
+        },
+        {
+          "title": "国乒男团亚锦赛3-0战胜伊朗男团",
+          "url": "https://www.toutiao.com/trending/7698625662931910697/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时00分 ~ 23时01分]"
         },
         {
           "title": "伊朗总统称谈判前提是美方解除施压、威胁和制裁 | 环球市场",
@@ -1002,6 +1152,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
+        },
+        {
+          "title": "伊朗外长：不相信美方诚意 几无理由期待进展",
+          "url": "https://wallstreetcn.com/livenews/3182804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时01分"
         },
         {
           "title": "以色列总理下令推翻伊朗政权",
@@ -1159,6 +1320,34 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌：Claude Opus 5.5和Claude Sonnet 5.5现已在Google Antigravity上线。",
+          "url": "https://wallstreetcn.com/livenews/3182120",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "谷歌公司回应PHP核心漏洞CVE-2026-109618与CVE-2026-109619。 谷歌云平台本身不受这两个漏洞影响，但在谷歌云上运行PHP的用户可能受影响。 Gemini 4 Argon参与了漏洞发现、利用开发、攻击检测以及补丁验证工作。 谷歌云正在为所有受支持的PHP版本推出更新后的无服务器基础镜像。 敦促客户立即升级到PHP 8.2或更新版本，并使用已修补版本重新部署服务。",
+          "url": "https://wallstreetcn.com/livenews/3182800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时01分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -1179,23 +1368,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌：Claude Opus 5.5和Claude Sonnet 5.5现已在Google Antigravity上线。",
-          "url": "https://wallstreetcn.com/livenews/3182120",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
           ],
           "is_new": false,
           "appearance_count": 1,
