@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-10-22T12:09:18.328420+08:00",
-  "total_titles_processed": 634,
+  "generated_at": "2026-10-22T18:03:56.406811+08:00",
+  "total_titles_processed": 861,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 AI AI AGNET",
-      "match_count": 34,
+      "match_count": 45,
       "titles": [
+        {
+          "title": "英伟达GTC柏林：电信基站有望变身AI算力节点，黄仁勋力推欧洲全行业拥抱AI",
+          "url": "https://wallstreetcn.com/articles/3784122",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时15分 ~ 18时03分]"
+        },
         {
           "title": "黄仁勋GTC柏林演讲：AI工厂部署最快缩至14天 智能体与物理AI加速落地",
           "url": "https://www.cls.cn/detail/2511348",
@@ -31,28 +44,15 @@
           "time_info": "[03时15分 ~ 07时09分]"
         },
         {
-          "title": "英伟达GTC柏林：电信基站有望变身AI算力节点，黄仁勋力推欧洲全行业拥抱AI",
-          "url": "https://wallstreetcn.com/articles/3784122",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时15分 ~ 12时09分]"
-        },
-        {
           "title": "强劲季报提振AI交易，纳指反弹超1%，绩优SpaceX涨近8%、Meta盘后走高，原油高位震荡",
           "url": "https://wallstreetcn.com/articles/3784116",
           "source": "华尔街见闻",
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 18时03分]"
         },
         {
           "title": "Meta Q3营收与Q4指引双超预期，上调AI资本开支下限，拟发行无投票权新股｜财报见闻",
@@ -61,9 +61,31 @@
           "ranks": [
             3
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 18时03分]"
+        },
+        {
+          "title": "“DeepSeek才是真正的OpenAI”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9CDeepSeek%E6%89%8D%E6%98%AF%E7%9C%9F%E6%AD%A3%E7%9A%84OpenAI%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时09分"
+          "time_info": "18时03分"
+        },
+        {
+          "title": "物理AI进入爆发前夜？王兴兴、黄仁勋齐发声 机器人成重要落地场景",
+          "url": "https://www.cls.cn/detail/2511957",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "AI加速漏洞挖掘 网络安全应对时间或缩至数小时",
@@ -72,7 +94,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -106,7 +128,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -117,7 +139,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -132,6 +154,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时15分 ~ 07时09分]"
+        },
+        {
+          "title": "多款 3A 老游戏被 AI 光速反编译并移植网页端，将对游戏行业带来哪些冲击？",
+          "url": "https://www.zhihu.com/question/2094620721343481537",
+          "source": "知乎",
+          "ranks": [
+            9,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 18时03分]"
+        },
+        {
+          "title": "AI发现PHP严重漏洞！全球75%网站面临威胁，欧洲多国政府网站紧急下线",
+          "url": "https://wallstreetcn.com/articles/3784140",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 18时03分]"
         },
         {
           "title": "腾讯姚顺雨想把DeepSeek卷到加班",
@@ -228,6 +274,18 @@
           "time_info": "[03时15分 ~ 07时09分]"
         },
         {
+          "title": "黄仁勋“教育”英德：发展AI别想太多 ，“你们光动口不动手”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34300727",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 18时03分]"
+        },
+        {
           "title": "第一批用AI裁员的老板后悔了",
           "url": "https://www.toutiao.com/trending/7698965729365724691/",
           "source": "今日头条",
@@ -250,15 +308,15 @@
           "time_info": "[07时08分 ~ 07时09分]"
         },
         {
-          "title": "AI发现PHP严重漏洞！全球75%网站面临威胁，欧洲多国政府网站紧急下线",
-          "url": "https://wallstreetcn.com/articles/3784140",
+          "title": "AI交易熄火、中东局势恶化，全球股市遭遇“黑色星期四”！",
+          "url": "https://wallstreetcn.com/articles/3784189",
           "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时09分"
+          "time_info": "18时03分"
         },
         {
           "title": "原来用AI写论文是会有痕迹的",
@@ -267,20 +325,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
         {
-          "title": "多款 3A 老游戏被 AI 光速反编译并移植网页端，将对游戏行业带来哪些冲击？",
-          "url": "https://www.zhihu.com/question/2094620721343481537",
-          "source": "知乎",
+          "title": "AI短剧走强，制作不再稀缺，钱到底谁赚？券商吵起来了",
+          "url": "https://www.cls.cn/detail/2512263",
+          "source": "财联社热门",
           "ranks": [
-            9
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时09分"
+          "time_info": "18时03分"
         },
         {
           "title": "张益唐的数学难题被AI化为习题",
@@ -292,6 +350,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "物理AI与世界模型大会有何看点",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%A9%E7%90%86AI%E4%B8%8E%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B%E5%A4%A7%E4%BC%9A%E6%9C%89%E4%BD%95%E7%9C%8B%E7%82%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
+          "title": "Muse点燃AI增长新叙事！Meta财报会：一年内算力效率将提升十倍 数年内实现高额盈利",
+          "url": "https://www.cls.cn/detail/2511691",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "Meta个人AI智能体Muse上线一个月用户突破1000万",
@@ -311,7 +391,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -327,26 +407,48 @@
           "time_info": "07时09分"
         },
         {
+          "title": "AI汽车开始招募人类朋友了",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E6%B1%BD%E8%BD%A6%E5%BC%80%E5%A7%8B%E6%8B%9B%E5%8B%9F%E4%BA%BA%E7%B1%BB%E6%9C%8B%E5%8F%8B%E4%BA%86%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
           "title": "报道：DeepSeek完成1000亿元融资 宁德时代和腾讯参投",
           "url": "https://wallstreetcn.com/livenews/3183128",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
         {
-          "title": "黄仁勋“教育”英德：发展AI别想太多 ，“你们光动口不动手”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34300727",
-          "source": "澎湃新闻",
+          "title": "美国政府指示各机构停用 DeepSeek ，外交部表示反对将科技经贸问题政治化，美国此举有何意图？",
+          "url": "https://www.zhihu.com/question/2095898196539073291",
+          "source": "知乎",
           "ranks": [
-            20
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时09分"
+          "time_info": "18时03分"
+        },
+        {
+          "title": "但斌称A股要灵活高抛低吸 AI产业链还在坚守",
+          "url": "https://flash.jin10.com/detail/20261022172233012800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "OpenAI：更新我们的使用政策，自11月20日起生效，以明确安全模型开发和人工智能敏感用途的相关规则。 正在努力引入安全ID，客户可以提供该ID，以帮助我们在调查中区分各个最终用户。",
@@ -358,6 +460,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
+        },
+        {
+          "title": "伊朗：将美方AI设施列为潜在打击目标",
+          "url": "https://flash.jin10.com/detail/20261022171734000800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "OpenAI：更新后的使用政策要求，模型路由器和AI网关在提供访问权限前，必须获得OpenAI的审核和批准。",
@@ -391,139 +504,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "泽连斯基和特朗普，彻底决裂了？",
-          "url": "https://news.ifeng.com/c/8xPKsnXuGn8",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 07时09分]"
         },
         {
-          "title": "亚马逊向数百万美国消费者退款 支票写上特朗普的名字",
-          "url": "https://flash.jin10.com/detail/20261022115916290800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时09分"
-        },
-        {
-          "title": "普京：不排除与特朗普赴华会晤可能性",
-          "url": "https://www.toutiao.com/trending/7698752765752868873/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时09分"
-        },
-        {
-          "title": "加拿大总理卡尼：周三与美国总统特朗普进行了相当长时间的交谈。",
-          "url": "https://flash.jin10.com/detail/20261022030459344800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "加拿大总理卡尼：与美国总统特朗普讨论了广泛议题，包括伊朗问题。",
-          "url": "https://flash.jin10.com/detail/20261022030449083800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "加拿大总理卡尼：周三与美国总统特朗普进行了长时间通话。 与特朗普讨论了包括伊朗在内的广泛议题。",
-          "url": "https://wallstreetcn.com/livenews/3182914",
+          "title": "摩根大通策略师：投资者大幅降仓后 AI股抛售料将缓和",
+          "url": "https://wallstreetcn.com/livenews/3183353",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "特朗普施压泽连斯基能否推动俄乌停战",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%BD%E5%8E%8B%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E8%83%BD%E5%90%A6%E6%8E%A8%E5%8A%A8%E4%BF%84%E4%B9%8C%E5%81%9C%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
+            30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时09分"
-        },
-        {
-          "title": "马克龙点名抨击特朗普",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%85%8B%E9%BE%99%E7%82%B9%E5%90%8D%E6%8A%A8%E5%87%BB%E7%89%B9%E6%9C%97%E6%99%AE%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时09分"
-        },
-        {
-          "title": "据NewsNation：特朗普已抵达南卡罗来纳州。",
-          "url": "https://flash.jin10.com/detail/20261022061709840800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时09分"
-        },
-        {
-          "title": "据国会山报：共和党全国委员会宣布，美国特朗普总统将于当地时间10月28日在俄亥俄州奇利科西参加集会活动。",
-          "url": "https://flash.jin10.com/detail/20261022022413260800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "美国总统特朗普：我们在对抗伊朗方面非常顺利。",
-          "url": "https://wallstreetcn.com/livenews/3183119",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时09分"
+          "time_info": "18时03分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 18,
       "titles": [
         {
           "title": "美以制定伊朗新一轮打击计划，或于美国中期选举后行动",
@@ -581,6 +578,28 @@
           "time_info": "03时15分"
         },
         {
+          "title": "美国中期选举后伊朗将遭新一轮打击？美以据称已制定具体计划",
+          "url": "https://www.cls.cn/detail/2511788",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
+          "title": "伊朗官员：已做好应对全面战争准备",
+          "url": "https://www.toutiao.com/trending/7699092788410860083/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
           "title": "伊朗方面称锡里克地区传出数次爆炸声",
           "url": "https://flash.jin10.com/detail/20261022024533877800",
           "source": "金十数据",
@@ -592,6 +611,17 @@
           "time_info": "03时15分"
         },
         {
+          "title": "以防长：伊朗若袭击以色列将灭了伊朗",
+          "url": "https://www.cls.cn/detail/2512075",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
           "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊朗外长阿拉格齐表示，伊朗正积极开展经济外交，并致力于解决出口商面临的障碍。邻国是伊朗最重要的出口目的地之一，伊朗希望改善与邻国的关系。",
           "url": "https://flash.jin10.com/detail/20261022023828577800",
           "source": "金十数据",
@@ -601,6 +631,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "伊朗官员：如对伊采取行动 美国将付出代价",
+          "url": "https://wallstreetcn.com/livenews/3183459",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
+          "title": "若美国继续鼓励船只使用海峡“非法”航线 伊朗威胁打击该地区美国基地",
+          "url": "https://wallstreetcn.com/livenews/3183457",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "伊朗指责美国在军事行动中使用进攻性太空能力",
@@ -645,6 +697,188 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：以色列在伊朗的任务已完成90%。",
+          "url": "https://flash.jin10.com/detail/20261022171535865800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
+          "title": "伊朗警告称如果美国继续护航，伊朗可能袭击美国基地。霍尔木兹海峡“非法”通行事件或将扩大冲突范围。",
+          "url": "https://wallstreetcn.com/livenews/3183384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "泽连斯基和特朗普，彻底决裂了？",
+          "url": "https://news.ifeng.com/c/8xPKsnXuGn8",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时15分 ~ 07时09分]"
+        },
+        {
+          "title": "亚马逊向数百万美国消费者退款 支票写上特朗普的名字",
+          "url": "https://flash.jin10.com/detail/20261022115916290800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
+          "title": "普京：不排除与特朗普赴华会晤可能性",
+          "url": "https://www.toutiao.com/trending/7698752765752868873/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
+          "title": "加拿大总理卡尼：周三与美国总统特朗普进行了相当长时间的交谈。",
+          "url": "https://flash.jin10.com/detail/20261022030459344800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "加拿大总理卡尼：与美国总统特朗普讨论了广泛议题，包括伊朗问题。",
+          "url": "https://flash.jin10.com/detail/20261022030449083800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "加拿大总理卡尼：周三与美国总统特朗普进行了长时间通话。 与特朗普讨论了包括伊朗在内的广泛议题。",
+          "url": "https://wallstreetcn.com/livenews/3182914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "特朗普施压泽连斯基能否推动俄乌停战",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%BD%E5%8E%8B%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E8%83%BD%E5%90%A6%E6%8E%A8%E5%8A%A8%E4%BF%84%E4%B9%8C%E5%81%9C%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
+          "title": "默茨：对华政策，我们跟特朗普不一样",
+          "url": "https://news.ifeng.com/c/8xQF4vpHREI",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
+          "title": "马克龙点名抨击特朗普",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%85%8B%E9%BE%99%E7%82%B9%E5%90%8D%E6%8A%A8%E5%87%BB%E7%89%B9%E6%9C%97%E6%99%AE%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
+          "title": "特朗普仍在进行地缘豪赌：乌克兰危局正是其中一环！",
+          "url": "https://flash.jin10.com/detail/20261022172930511800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
+          "title": "据NewsNation：特朗普已抵达南卡罗来纳州。",
+          "url": "https://flash.jin10.com/detail/20261022061709840800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时09分"
+        },
+        {
+          "title": "克林顿嘲讽特朗普诺贝尔奖言论",
+          "url": "https://www.douyin.com/hot/2707583",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
+          "title": "据国会山报：共和党全国委员会宣布，美国特朗普总统将于当地时间10月28日在俄亥俄州奇利科西参加集会活动。",
+          "url": "https://flash.jin10.com/detail/20261022022413260800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "美国总统特朗普：我们在对抗伊朗方面非常顺利。",
+          "url": "https://wallstreetcn.com/livenews/3183119",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时09分"
         }
       ]
     },
@@ -659,7 +893,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -710,7 +944,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         }
