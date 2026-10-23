@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-23T17:51:56.778338+08:00",
-  "total_titles_processed": 852,
+  "generated_at": "2026-10-23T22:49:39.581770+08:00",
+  "total_titles_processed": 1064,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 AI AI AGNET",
-      "match_count": 39,
+      "match_count": 43,
       "titles": [
         {
           "title": "AI融资担忧重创科技股，纳指跌超2%，10年期美债收益率跌破5%，黄金重挫，原油大涨",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时08分 ~ 17时51分]"
+          "appearance_count": 5,
+          "time_info": "[07时08分 ~ 22时49分]"
         },
         {
           "title": "曝DeepSeek完成千亿融资",
@@ -25,11 +25,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时12分 ~ 17时51分]"
+          "appearance_count": 4,
+          "time_info": "[12时12分 ~ 22时49分]"
         },
         {
           "title": "黄仁勋：AI算力需求极其旺盛 但资本短缺制约“新云”扩张",
@@ -132,13 +133,26 @@
           "time_info": "12时13分"
         },
         {
+          "title": "AI崩了，法债爆了，急需美债“避险”！10年期美债收益率创“硅谷银行危机”来最大跌幅",
+          "url": "https://wallstreetcn.com/articles/3784249",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时12分 ~ 22时49分]"
+        },
+        {
           "title": "全球AI股惨遭拋售？摩根大通：不要慌，本轮抛售可能已近尾声",
           "url": "https://www.cls.cn/detail/2513145",
           "source": "财联社热门",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         },
@@ -152,6 +166,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
+        },
+        {
+          "title": "DeepSeek 据悉完成千亿元融资，腾讯与宁德时代为何重金押注？",
+          "url": "https://www.zhihu.com/question/2096564979164095426",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "DeepSeek 拟新融资 1000 亿元，腾讯、宁德时代出资最多，这会不会改写国内大模型的竞争格局？",
+          "url": "https://www.zhihu.com/question/2096713518582179306",
+          "source": "知乎",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 22时49分]"
         },
         {
           "title": "野村警告：当前AI信用风险与互联网泡沫、雷曼危机前惊人相似，一切都取决于油价",
@@ -188,18 +225,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时08分 ~ 17时51分]"
-        },
-        {
-          "title": "AI崩了，法债爆了，急需美债“避险”！10年期美债收益率创“硅谷银行危机”来最大跌幅",
-          "url": "https://wallstreetcn.com/articles/3784249",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时12分 ~ 17时51分]"
         },
         {
           "title": "AI短剧走强，制作不再稀缺，钱到底谁赚？券商吵起来了",
@@ -288,20 +313,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         },
         {
-          "title": "DeepSeek 拟新融资 1000 亿元，腾讯、宁德时代出资最多，这会不会改写国内大模型的竞争格局？",
-          "url": "https://www.zhihu.com/question/2096713518582179306",
-          "source": "知乎",
+          "title": "用AI再现长征路",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%86%8D%E7%8E%B0%E9%95%BF%E5%BE%81%E8%B7%AF",
+          "source": "bilibili 热搜",
           "ranks": [
-            8
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时51分"
+          "time_info": "22时49分"
+        },
+        {
+          "title": "投资者不买账？OpenAI下调估值目标至1.25万亿，拟在IPO前完成300亿美元融资",
+          "url": "https://wallstreetcn.com/articles/3784256",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "纳斯达克100指数跌幅扩大至3%，半导体指数跌6.5%，存储芯片指数跌超8.1%，AI赢家指数跌超6.5%、AI软件先驱指数重新跌1.3%，标普跌1.5%。",
@@ -354,9 +390,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
+        },
+        {
+          "title": "AI攻防战升级！亚马逊加码AI网络安全服务：自动找漏洞、打补丁",
+          "url": "https://flash.jin10.com/detail/20261023221747101800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "加拿大皇家银行：民主党若中期选举横扫两院，AI监管风险或推动美债上涨",
@@ -376,7 +423,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         },
@@ -398,7 +445,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         },
@@ -450,7 +497,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "泽连斯基：我跟特朗普没有私人恩怨",
@@ -497,6 +544,17 @@
           "time_info": "03时11分"
         },
         {
+          "title": "美国财长贝森特：随着特朗普总统采取其前任长期推迟的行动，美国不再只是应对伊朗威胁，而是要彻底消除这一威胁。",
+          "url": "https://flash.jin10.com/detail/20261023223717028800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "特朗普与加密公司被诉，遭指从外国政府获利",
           "url": "https://wallstreetcn.com/livenews/3184003",
           "source": "华尔街见闻-快讯",
@@ -516,30 +574,54 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时12分 ~ 17时51分]"
+          "appearance_count": 4,
+          "time_info": "[12时12分 ~ 22时49分]"
         },
         {
           "title": "特朗普怒喷詹姆斯不尊重美国",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367970&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E5%96%B7%E8%A9%B9%E5%A7%86%E6%96%AF%E4%B8%8D%E5%B0%8A%E9%87%8D%E7%BE%8E%E5%9B%BD",
           "source": "贴吧",
           "ranks": [
-            7
+            7,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 22时49分]"
         },
         {
           "title": "特朗普怒骂NBA球星詹姆斯：我早就说过他不行，简直是个耻辱",
           "url": "https://news.ifeng.com/c/8xS2bhN07ef",
           "source": "凤凰网",
           "ranks": [
-            9
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 22时49分]"
+        },
+        {
+          "title": "特朗普谈到法国骚乱没忍住笑：还有人想去法国吗？",
+          "url": "https://news.ifeng.com/c/8xSeHafFCKO",
+          "source": "凤凰网",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时51分"
+          "time_info": "22时49分"
+        },
+        {
+          "title": "比起特朗普，美国年轻人更喜欢美式“社会主义”？",
+          "url": "https://news.ifeng.com/c/8xStQ7mt6Rr",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "特朗普：就业岗位和制造业正在回归美国",
@@ -641,6 +723,17 @@
           "time_info": "07时08分"
         },
         {
+          "title": "泽连斯基：和特朗普之间没有个人恩怨",
+          "url": "https://www.toutiao.com/trending/7699682763926061619/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "美国总统特朗普向美国国防部长赫格塞思发送了一份关于《国防生产法》及石油问题的备忘录。",
           "url": "https://flash.jin10.com/detail/20261023044659683800",
           "source": "金十数据",
@@ -658,7 +751,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         },
@@ -677,7 +770,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 14,
       "titles": [
         {
           "title": "叫板美国“炸弹之母”，伊朗军方准备推出“炸弹之父”",
@@ -702,6 +795,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时12分 ~ 12时13分]"
+        },
+        {
+          "title": "贝森特：美国对伊朗经济封锁取得重大进展",
+          "url": "https://flash.jin10.com/detail/20261023223754765800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "伊朗战机紧急升空巡逻，紧盯美以F-35战机敌对动向",
+          "url": "https://original.ifeng.com/c/8xSRQpqdPtX",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "美国财长贝森特：我们已重创伊朗石油收入命脉的各个环节。其影子油轮船队已遭严重削弱，主要石油出口终端空空如也，海上石油储备也已耗尽。",
+          "url": "https://flash.jin10.com/detail/20261023223704851800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "美以密谋新一轮打击？伊朗最高领袖罕见露面，军方警告祭出“炸弹之父”，海底电缆也可能是反击目标",
@@ -753,6 +879,17 @@
           "time_info": "03时11分"
         },
         {
+          "title": "消息称伊朗革命卫队正在伊朗多个城市进行大规模弹道导弹试射。部分导弹似乎从伊朗东部的军事基地发射，这些基地此前已长期未被使用。",
+          "url": "https://flash.jin10.com/detail/20261023222009512800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "伊朗：不存在所谓“伊朗冲突” 这是美以对伊朗发动的侵略战争",
           "url": "https://flash.jin10.com/detail/20261023023154536800",
           "source": "金十数据",
@@ -770,9 +907,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）主席迈克尔·塞利格（Michael Selig）：CFTC正在审查伊朗战争期间发生的3月份石油交易问题。 CFTC执法部门一直在调查3月份以来的交易活动。 CFTC非常严肃认真地监管石油交易市场。",
+          "url": "https://wallstreetcn.com/livenews/3184882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "伊朗革命卫队发言人穆赫比：敌人原本企图推翻伊朗政权并分裂伊朗，随后将目标拆分为13个较小目标，但最终没有实现其中任何一个。",
@@ -781,7 +929,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         }
@@ -886,8 +1034,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "道指跌超800点，中东局势紧张，宣布裁员的成分股美国运通目前跌超3.7%，家得宝跌3%，Salesforce、卡特彼勒、SHW、3M、耐克、Merck、麦当劳、可口可乐等跌超2%，目前仅仅谷歌A、英伟达、思科、雪佛龙上涨。 费城银行指数跌1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3184906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
         {
           "title": "周四（10月22日），标普500指数的11个板块涨跌各异，电信板块收跌3.01%——21只成分股中有七只收跌（回声星通信跌7.39%、Meta跌6.98%、谷歌A跌3.15%跌幅第三大），信息技术/科技板块跌3%，可选消费板块跌1.71%，能源板块跌0.74%，公用事业板块则涨1.98%，日用消费品板块涨3.11%。",
           "url": "https://wallstreetcn.com/livenews/3183995",
@@ -936,7 +1095,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "Meta成“最后一根稻草”，纳指“终于”崩了，美债应声大涨",
@@ -946,8 +1105,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时12分 ~ 17时51分]"
+          "appearance_count": 4,
+          "time_info": "[12时12分 ~ 22时49分]"
         },
         {
           "title": "黑天鹅序幕？上一次美债收益率这样跌 正是硅谷银行“爆雷日”",
@@ -960,6 +1119,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时12分 ~ 17时51分]"
+        },
+        {
+          "title": "油价走高压制美债表现，美股低开，半导体股涨跌互现，西部数据跌约3%，布油涨破115",
+          "url": "https://wallstreetcn.com/articles/3784279",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "瑞银资产管理表示，从较长远的投资视野来看，美债正展现吸引力，10年期美债收益率在未来12个月内料将走低；认真考虑分批进场布局美债。",
@@ -976,8 +1146,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "国际金价暴跌因获利了结",
+          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%9B%A0%E8%8E%B7%E5%88%A9%E4%BA%86%E7%BB%93&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
         {
           "title": "国际金价跌2.7%，逼近4000美元整数位心理关口",
           "url": "https://wallstreetcn.com/livenews/3183987",
