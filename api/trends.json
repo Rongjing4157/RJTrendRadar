@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-23T12:13:11.941890+08:00",
-  "total_titles_processed": 636,
+  "generated_at": "2026-10-23T17:51:56.778338+08:00",
+  "total_titles_processed": 852,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 AI AI AGNET",
-      "match_count": 33,
+      "match_count": 39,
       "titles": [
         {
           "title": "AI融资担忧重创科技股，纳指跌超2%，10年期美债收益率跌破5%，黄金重挫，原油大涨",
@@ -16,8 +16,20 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时08分 ~ 17时51分]"
+        },
+        {
+          "title": "曝DeepSeek完成千亿融资",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367960&amp;topic_name=%E6%9B%9DDeepSeek%E5%AE%8C%E6%88%90%E5%8D%83%E4%BA%BF%E8%9E%8D%E8%B5%84",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时08分 ~ 12时13分]"
+          "time_info": "[12时12分 ~ 17时51分]"
         },
         {
           "title": "黄仁勋：AI算力需求极其旺盛 但资本短缺制约“新云”扩张",
@@ -76,17 +88,6 @@
           "time_info": "[03时11分 ~ 07时08分]"
         },
         {
-          "title": "曝DeepSeek完成千亿融资",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367960&amp;topic_name=%E6%9B%9DDeepSeek%E5%AE%8C%E6%88%90%E5%8D%83%E4%BA%BF%E8%9E%8D%E8%B5%84",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时12分 ~ 12时13分]"
-        },
-        {
           "title": "强劲季报提振AI交易，纳指反弹超1%，绩优SpaceX涨近8%、Meta盘后走高，原油高位震荡",
           "url": "https://wallstreetcn.com/articles/3784116",
           "source": "华尔街见闻",
@@ -126,9 +127,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
+        },
+        {
+          "title": "全球AI股惨遭拋售？摩根大通：不要慌，本轮抛售可能已近尾声",
+          "url": "https://www.cls.cn/detail/2513145",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
         },
         {
           "title": "AI发现PHP严重漏洞！全球75%网站面临威胁，欧洲多国政府网站紧急下线",
@@ -170,11 +182,24 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            20
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时08分 ~ 17时51分]"
+        },
+        {
+          "title": "AI崩了，法债爆了，急需美债“避险”！10年期美债收益率创“硅谷银行危机”来最大跌幅",
+          "url": "https://wallstreetcn.com/articles/3784249",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时08分 ~ 12时13分]"
+          "time_info": "[12时12分 ~ 17时51分]"
         },
         {
           "title": "AI短剧走强，制作不再稀缺，钱到底谁赚？券商吵起来了",
@@ -199,17 +224,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时11分 ~ 07时08分]"
-        },
-        {
-          "title": "AI崩了，法债爆了，急需美债“避险”！10年期美债收益率创“硅谷银行危机”来最大跌幅",
-          "url": "https://wallstreetcn.com/articles/3784249",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时12分 ~ 12时13分]"
         },
         {
           "title": "DeepSeek完成1000亿融资",
@@ -268,6 +282,28 @@
           "time_info": "[12时12分 ~ 12时13分]"
         },
         {
+          "title": "Meta引爆雷管！AI军备竞赛的烧钱“账单” 又成了市场的“催命符”？",
+          "url": "https://www.cls.cn/detail/2513031",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
+        },
+        {
+          "title": "DeepSeek 拟新融资 1000 亿元，腾讯、宁德时代出资最多，这会不会改写国内大模型的竞争格局？",
+          "url": "https://www.zhihu.com/question/2096713518582179306",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
+        },
+        {
           "title": "纳斯达克100指数跌幅扩大至3%，半导体指数跌6.5%，存储芯片指数跌超8.1%，AI赢家指数跌超6.5%、AI软件先驱指数重新跌1.3%，标普跌1.5%。",
           "url": "https://wallstreetcn.com/livenews/3183915",
           "source": "华尔街见闻-快讯",
@@ -312,6 +348,17 @@
           "time_info": "03时11分"
         },
         {
+          "title": "AI让学历不值钱",
+          "url": "https://s.weibo.com/weibo?q=AI%E8%AE%A9%E5%AD%A6%E5%8E%86%E4%B8%8D%E5%80%BC%E9%92%B1&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
+        },
+        {
           "title": "加拿大皇家银行：民主党若中期选举横扫两院，AI监管风险或推动美债上涨",
           "url": "https://wallstreetcn.com/livenews/3183910",
           "source": "华尔街见闻-快讯",
@@ -321,6 +368,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
+        },
+        {
+          "title": "AI短片妖怪衙门",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%E5%A6%96%E6%80%AA%E8%A1%99%E9%97%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
         },
         {
           "title": "美股市场重新评估AI热潮的可持续性，纳指创6月以来最大跌幅",
@@ -334,13 +392,24 @@
           "time_info": "07时08分"
         },
         {
+          "title": "人类会被自己创造的AI困住吗",
+          "url": "https://www.toutiao.com/trending/7699302226761695274/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
+        },
+        {
           "title": "联想系入局DeepSeek新一轮融资",
           "url": "https://wallstreetcn.com/livenews/3184111",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
         },
@@ -373,7 +442,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
         }
@@ -381,7 +450,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "泽连斯基：我跟特朗普没有私人恩怨",
@@ -391,8 +460,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时12分 ~ 12时13分]"
+          "appearance_count": 3,
+          "time_info": "[12时12分 ~ 17时51分]"
         },
         {
           "title": "阿克曼敦促特朗普政府放行房利美、房地美",
@@ -412,7 +481,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
         },
@@ -443,11 +512,34 @@
           "url": "https://www.zhihu.com/question/2096894678494884280",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时12分 ~ 12时13分]"
+          "appearance_count": 3,
+          "time_info": "[12时12分 ~ 17时51分]"
+        },
+        {
+          "title": "特朗普怒喷詹姆斯不尊重美国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367970&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E5%96%B7%E8%A9%B9%E5%A7%86%E6%96%AF%E4%B8%8D%E5%B0%8A%E9%87%8D%E7%BE%8E%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
+        },
+        {
+          "title": "特朗普怒骂NBA球星詹姆斯：我早就说过他不行，简直是个耻辱",
+          "url": "https://news.ifeng.com/c/8xS2bhN07ef",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
         },
         {
           "title": "特朗普：就业岗位和制造业正在回归美国",
@@ -456,7 +548,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
         },
@@ -478,7 +570,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
         },
@@ -560,15 +652,138 @@
           "time_info": "07时08分"
         },
         {
+          "title": "市场消息：特朗普政府暂停一项奖励盟友配合实施出口管制的计划。",
+          "url": "https://flash.jin10.com/detail/20261023172255351800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
+        },
+        {
           "title": "特朗普：《纽约时报》使用的民调是虚假的",
           "url": "https://flash.jin10.com/detail/20261023112319026800",
           "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "叫板美国“炸弹之母”，伊朗军方准备推出“炸弹之父”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34309586",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时11分 ~ 17时51分]"
+        },
+        {
+          "title": "伊朗议会议长：若与伊开战 美国将承担苦涩后果 | 环球市场",
+          "url": "https://www.cls.cn/detail/2512918",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 12时13分]"
+        },
+        {
+          "title": "美以密谋新一轮打击？伊朗最高领袖罕见露面，军方警告祭出“炸弹之父”，海底电缆也可能是反击目标",
+          "url": "https://wallstreetcn.com/articles/3784215",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时08分 ~ 17时51分]"
+        },
+        {
+          "title": "新闻蒸馏器｜美以被曝制定中期选举后再袭伊朗计划，以战机飞近边境模拟打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34306120",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时11分 ~ 12时13分]"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队发言人：我们准备推出有史以来威力最大炸弹——“炸弹之父”",
+          "url": "https://www.cls.cn/detail/2512367",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时11分 ~ 07时08分]"
+        },
+        {
+          "title": "伊朗：不存在所谓“伊朗冲突”，这是美以对伊朗发动的侵略战争",
+          "url": "https://wallstreetcn.com/livenews/3183923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        },
+        {
+          "title": "伊朗：不存在所谓“伊朗冲突” 这是美以对伊朗发动的侵略战争",
+          "url": "https://flash.jin10.com/detail/20261023023154536800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        },
+        {
+          "title": "伊朗：伊朗已是超级大国 美国已经信誉大损",
+          "url": "https://flash.jin10.com/detail/20261023172540118800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
+        },
+        {
+          "title": "伊朗革命卫队发言人穆赫比：敌人原本企图推翻伊朗政权并分裂伊朗，随后将目标拆分为13个较小目标，但最终没有实现其中任何一个。",
+          "url": "https://flash.jin10.com/detail/20261023172305485800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
         }
       ]
     },
@@ -670,95 +885,6 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "叫板美国“炸弹之母”，伊朗军方准备推出“炸弹之父”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34309586",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时11分 ~ 12时13分]"
-        },
-        {
-          "title": "伊朗议会议长：若与伊开战 美国将承担苦涩后果 | 环球市场",
-          "url": "https://www.cls.cn/detail/2512918",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时12分 ~ 12时13分]"
-        },
-        {
-          "title": "新闻蒸馏器｜美以被曝制定中期选举后再袭伊朗计划，以战机飞近边境模拟打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34306120",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时11分 ~ 12时13分]"
-        },
-        {
-          "title": "美以密谋新一轮打击？伊朗最高领袖罕见露面，军方警告祭出“炸弹之父”，海底电缆也可能是反击目标",
-          "url": "https://wallstreetcn.com/articles/3784215",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时08分 ~ 12时13分]"
-        },
-        {
-          "title": "伊朗伊斯兰革命卫队发言人：我们准备推出有史以来威力最大炸弹——“炸弹之父”",
-          "url": "https://www.cls.cn/detail/2512367",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时11分 ~ 07时08分]"
-        },
-        {
-          "title": "伊朗：不存在所谓“伊朗冲突”，这是美以对伊朗发动的侵略战争",
-          "url": "https://wallstreetcn.com/livenews/3183923",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时11分"
-        },
-        {
-          "title": "伊朗：不存在所谓“伊朗冲突” 这是美以对伊朗发动的侵略战争",
-          "url": "https://flash.jin10.com/detail/20261023023154536800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时11分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 4,
       "titles": [
@@ -820,19 +946,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时12分 ~ 12时13分]"
+          "appearance_count": 3,
+          "time_info": "[12时12分 ~ 17时51分]"
         },
         {
           "title": "黑天鹅序幕？上一次美债收益率这样跌 正是硅谷银行“爆雷日”",
           "url": "https://www.cls.cn/detail/2512977",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时12分 ~ 12时13分]"
+          "appearance_count": 3,
+          "time_info": "[12时12分 ~ 17时51分]"
         },
         {
           "title": "瑞银资产管理表示，从较长远的投资视野来看，美债正展现吸引力，10年期美债收益率在未来12个月内料将走低；认真考虑分批进场布局美债。",
@@ -841,7 +968,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
         }
@@ -869,7 +996,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
         }
