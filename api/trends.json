@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-25T17:41:13.541657+08:00",
-  "total_titles_processed": 800,
+  "generated_at": "2026-10-25T22:13:40.719396+08:00",
+  "total_titles_processed": 988,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 43,
       "titles": [
         {
           "title": "【早报】特朗普：或对伊发动小规模“史诗怒火”；证监会：核准设立花旗证券（中国）有限公司；A股多家龙头公司发布三季报",
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时01分 ~ 17时41分]"
+          "appearance_count": 7,
+          "time_info": "[02时01分 ~ 22时13分]"
         },
         {
           "title": "“多管齐下！特朗普政府暗中助选，要帮博索纳罗家族夺权”",
@@ -27,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 17时41分]"
+          "appearance_count": 3,
+          "time_info": "[17时40分 ~ 22时13分]"
         },
         {
           "title": "美伊“风向”生变？特朗普暗示或再打击伊朗，美方已做好长期对峙准备！",
@@ -40,8 +41,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时01分 ~ 17时41分]"
+          "appearance_count": 7,
+          "time_info": "[02时01分 ~ 22时13分]"
+        },
+        {
+          "title": "奥巴马中期选举首秀抨击特朗普",
+          "url": "https://www.douyin.com/hot/2712071",
+          "source": "抖音",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时40分 ~ 22时13分]"
         },
         {
           "title": "特朗普将于10月30日前往佛罗里达。",
@@ -53,6 +66,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
+        },
+        {
+          "title": "美国众议院议长迈克·约翰逊：周六与特朗普讨论了俄罗斯问题。 周末与鲁比奥就俄罗斯问题进行了交谈。 鲁比奥表示美国将进行三方谈判。",
+          "url": "https://wallstreetcn.com/livenews/3185224",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
         },
         {
           "title": "美国总统特朗普：伊朗人是坏人，领导层非常糟糕。",
@@ -161,6 +185,17 @@
           "time_info": "[02时01分 ~ 07时04分]"
         },
         {
+          "title": "特朗普力挺内塔尼亚胡，身边人却另有打算",
+          "url": "https://news.ifeng.com/c/8xVWZftoNZG",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时40分 ~ 22时13分]"
+        },
+        {
           "title": "泽连斯基谈与美国关系：我做不到时刻感恩特朗普，感恩几次真够了",
           "url": "https://m.thepaper.cn/newsDetail_forward_34325177",
           "source": "澎湃新闻",
@@ -184,17 +219,6 @@
           "time_info": "[02时01分 ~ 07时04分]"
         },
         {
-          "title": "奥巴马中期选举首秀抨击特朗普",
-          "url": "https://www.douyin.com/hot/2712071",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 17时41分]"
-        },
-        {
           "title": "美国总统特朗普：接连不断的竞选集会让我嗓子吃不消。",
           "url": "https://flash.jin10.com/detail/20261025042555088800",
           "source": "金十数据",
@@ -207,24 +231,13 @@
           "time_info": "[04时41分 ~ 07时04分]"
         },
         {
-          "title": "特朗普力挺内塔尼亚胡，身边人却另有打算",
-          "url": "https://news.ifeng.com/c/8xVWZftoNZG",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 17时41分]"
-        },
-        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-10-25）",
           "url": "https://flash.jin10.com/detail/20261025170414475800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         },
@@ -246,9 +259,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
+        },
+        {
+          "title": "奥巴马怒喷特朗普所为何事",
+          "url": "https://www.toutiao.com/trending/7700572569123966502/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
         },
         {
           "title": "美国总统特朗普：一旦俄罗斯与乌克兰达成协议，美国就能够与两国开展商业往来。",
@@ -260,6 +284,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        },
+        {
+          "title": "特朗普和泽连斯基怎么了",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%80%8E%E4%B9%88%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
         },
         {
           "title": "特朗普完成中期选举提前投票，批洛杉矶选票造假",
@@ -463,7 +498,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 30,
+      "match_count": 34,
       "titles": [
         {
           "title": "美航母重填弹药，或再袭伊朗",
@@ -473,8 +508,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时06分 ~ 17时41分]"
+          "appearance_count": 4,
+          "time_info": "[12时06分 ~ 22时13分]"
         },
         {
           "title": "伊总统：伊朗人正为一日三餐苦苦挣扎，应结束“不战不和”",
@@ -485,8 +520,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时06分 ~ 17时41分]"
+          "appearance_count": 4,
+          "time_info": "[12时06分 ~ 22时13分]"
         },
         {
           "title": "八国外长“史无前例”齐聚土耳其，反对对伊朗采取军事行动",
@@ -530,9 +565,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
+        },
+        {
+          "title": "报道：伊朗并未通过巴基斯坦向美国提交新方案",
+          "url": "https://wallstreetcn.com/livenews/3185226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
         },
         {
           "title": "伊朗议会议长卡利巴夫：持续上涨的基本商品价格加重了人民的负担。",
@@ -541,7 +587,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         },
@@ -585,7 +631,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         },
@@ -651,7 +697,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         },
@@ -678,6 +724,17 @@
           "time_info": "04时41分"
         },
         {
+          "title": "收到“伊朗策划袭击”情报后：美国对中东13国更新旅行警告，多国使馆限制运行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34328105",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
           "title": "伊朗外交部发言人巴加埃：呼吁欧洲国家遵守国际法，放弃对伊朗采取强制性措施和非法制裁，以证明其推动外交解决问题的诚意。",
           "url": "https://flash.jin10.com/detail/20261025033115259800",
           "source": "金十数据",
@@ -687,6 +744,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        },
+        {
+          "title": "伊朗外长：霍尔木兹海峡“不会与过去相同”",
+          "url": "https://wallstreetcn.com/livenews/3185205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
         },
         {
           "title": "伊朗外交部发言人巴加埃：地区会议有必要深入探讨波斯湾和霍尔木兹海峡不安全局势的根本原因。",
@@ -744,6 +812,17 @@
           "time_info": "02时01分"
         },
         {
+          "title": "伊朗军方称击落美军无人机",
+          "url": "https://wallstreetcn.com/livenews/3185200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
           "title": "伊朗据悉向美国提出谈判方案 愿开放霍尔木兹海峡",
           "url": "https://flash.jin10.com/detail/20261025025123863800",
           "source": "金十数据",
@@ -794,7 +873,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         }
@@ -802,7 +881,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋 AI AI AGNET",
-      "match_count": 26,
+      "match_count": 33,
       "titles": [
         {
           "title": "又一AI医药“卖水人”股价新高：干湿闭环后 产业迈向下一命题",
@@ -813,8 +892,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时01分 ~ 17时41分]"
+          "appearance_count": 7,
+          "time_info": "[02时01分 ~ 22时13分]"
         },
         {
           "title": "亚马逊CEO：AI业务年化收入超250亿美元，增速是AWS初期的数百倍，砸2200亿美元仍无法满足需求",
@@ -831,6 +910,20 @@
           "time_info": "[02时01分 ~ 12时06分]"
         },
         {
+          "title": "B站肥鱼成灾,AI评论泛滥",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368005&amp;topic_name=B%E7%AB%99%E8%82%A5%E9%B1%BC%E6%88%90%E7%81%BE%2CAI%E8%AF%84%E8%AE%BA%E6%B3%9B%E6%BB%A5",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            8,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时01分 ~ 22时13分]"
+        },
+        {
           "title": "AI“跌倒”，美债“吃饱”！全球“资本争夺战”，市场给出答案",
           "url": "https://wallstreetcn.com/articles/3784376",
           "source": "华尔街见闻",
@@ -840,19 +933,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时01分 ~ 07时04分]"
-        },
-        {
-          "title": "B站肥鱼成灾,AI评论泛滥",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368005&amp;topic_name=B%E7%AB%99%E8%82%A5%E9%B1%BC%E6%88%90%E7%81%BE%2CAI%E8%AF%84%E8%AE%BA%E6%B3%9B%E6%BB%A5",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时01分 ~ 17时41分]"
         },
         {
           "title": "“共识交易”的瓦解和新共识的诞生！高盛解答：为何机构当下都在大幅减仓AI",
@@ -869,6 +949,20 @@
           "time_info": "[02时01分 ~ 12时06分]"
         },
         {
+          "title": "“黑色十月”席卷全球互联网！AI正彻底掀翻网络安全牌桌？",
+          "url": "https://www.cls.cn/detail/2514247",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时01分 ~ 22时13分]"
+        },
+        {
           "title": "从“稳赚不赔”到“两害相权”，AI投资逻辑彻底变了！",
           "url": "https://wallstreetcn.com/articles/3784381",
           "source": "华尔街见闻",
@@ -883,31 +977,6 @@
           "time_info": "[04时41分 ~ 17时41分]"
         },
         {
-          "title": "“黑色十月”席卷全球互联网！AI正彻底掀翻网络安全牌桌？",
-          "url": "https://www.cls.cn/detail/2514247",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时01分 ~ 17时41分]"
-        },
-        {
-          "title": "央视批AI魔改经典名著",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368017&amp;topic_name=%E5%A4%AE%E8%A7%86%E6%89%B9AI%E9%AD%94%E6%94%B9%E7%BB%8F%E5%85%B8%E5%90%8D%E8%91%97",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 17时41分]"
-        },
-        {
           "title": "OpenAI、Anthropic齐参与！全球首个AI生物安全实验室将问世",
           "url": "https://www.cls.cn/detail/2514203",
           "source": "财联社热门",
@@ -918,6 +987,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时01分 ~ 17时41分]"
+        },
+        {
+          "title": "下周重磅日程：最重要的美联储决议和科技巨头财报都来了，这次AI交易能否自救？",
+          "url": "https://wallstreetcn.com/articles/3784282",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
         },
         {
           "title": "38美元，DeepSeek算了一笔赚钱的账",
@@ -946,15 +1026,62 @@
           "time_info": "[02时01分 ~ 07时04分]"
         },
         {
+          "title": "沙特民防部门：也门胡塞武装发射的两枚弹道导弹在被拦截后，其碎片落入哈米斯穆沙伊特（Khamis Mushait）和阿哈德拉菲达（Ahad Rafidah）地区，造成两人受伤。",
+          "url": "https://flash.jin10.com/detail/20261025212403229800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
+          "title": "央视批AI魔改经典名著",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368017&amp;topic_name=%E5%A4%AE%E8%A7%86%E6%89%B9AI%E9%AD%94%E6%94%B9%E7%BB%8F%E5%85%B8%E5%90%8D%E8%91%97",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时40分 ~ 22时13分]"
+        },
+        {
           "title": "AI新突破：通过面部照片预测癌症患者生存情况",
           "url": "https://flash.jin10.com/detail/20261025170444280800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
+        },
+        {
+          "title": "2026全球治理论坛（雄安）丨如何应对AI安全风险？中外专家给出了答案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34326151",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时40分 ~ 22时13分]"
+        },
+        {
+          "title": "环球下周看点：AI巨头财报密集揭晓 美联储议息或为利率定调",
+          "url": "https://www.cls.cn/detail/2514275",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时06分 ~ 22时13分]"
         },
         {
           "title": "曝DeepSeek完成千亿融资",
@@ -967,6 +1094,29 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时01分 ~ 12时06分]"
+        },
+        {
+          "title": "AI交易何时止跌？市场盯着Meta“天量发债”背后的“囚徒困境”",
+          "url": "https://wallstreetcn.com/articles/3784405",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时40分 ~ 22时13分]"
+        },
+        {
+          "title": "野村：AI军备竞赛有75%的概率继续，2027年存储芯片短缺已基本锁定",
+          "url": "https://wallstreetcn.com/articles/3784406",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时40分 ~ 22时13分]"
         },
         {
           "title": "警告“下调评级”数据中心，标普要给AI债务危机“火上浇油”",
@@ -982,18 +1132,6 @@
           "time_info": "[02时01分 ~ 07时04分]"
         },
         {
-          "title": "环球下周看点：AI巨头财报密集揭晓 美联储议息或为利率定调",
-          "url": "https://www.cls.cn/detail/2514275",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时06分 ~ 17时41分]"
-        },
-        {
           "title": "“AI缺钱”重构产业叙事 市场不再相信“烧钱就能赢”",
           "url": "https://www.cls.cn/detail/2513542",
           "source": "财联社热门",
@@ -1003,6 +1141,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时01分 ~ 07时04分]"
+        },
+        {
+          "title": "央视曝AI人哭着卖惨带货",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9DAI%E4%BA%BA%E5%93%AD%E7%9D%80%E5%8D%96%E6%83%A8%E5%B8%A6%E8%B4%A7%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时40分 ~ 22时13分]"
         },
         {
           "title": "字节AI应用再整合：小云雀并入即梦",
@@ -1016,55 +1166,11 @@
           "time_info": "[02时01分 ~ 07时04分]"
         },
         {
-          "title": "AI交易何时止跌？市场盯着Meta“天量发债”背后的“囚徒困境”",
-          "url": "https://wallstreetcn.com/articles/3784405",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 17时41分]"
-        },
-        {
-          "title": "野村：AI军备竞赛有75%的概率继续，2027年存储芯片短缺已基本锁定",
-          "url": "https://wallstreetcn.com/articles/3784406",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 17时41分]"
-        },
-        {
-          "title": "2026全球治理论坛（雄安）丨如何应对AI安全风险？中外专家给出了答案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34326151",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 17时41分]"
-        },
-        {
           "title": "DeepSeek、MiniMax完成AI模型出海登记 合规路径落地提振国内AI“出海”信心",
           "url": "https://www.cls.cn/detail/2514315",
           "source": "财联社热门",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 17时41分]"
-        },
-        {
-          "title": "央视曝AI人哭着卖惨带货",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9DAI%E4%BA%BA%E5%93%AD%E7%9D%80%E5%8D%96%E6%83%A8%E5%B8%A6%E8%B4%A7%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -1082,6 +1188,17 @@
           "time_info": "[17时40分 ~ 17时41分]"
         },
         {
+          "title": "首部AI院线电影，票房过百万",
+          "url": "https://wallstreetcn.com/livenews/3185220",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
           "title": "陶哲轩称 AI 的数学成果称把解题当基准测试，犹如抛出「有毒废料」，如何看待这一评价？",
           "url": "https://www.zhihu.com/question/2096913276739367170",
           "source": "知乎",
@@ -1091,6 +1208,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
+        },
+        {
+          "title": "上海国家会计学院：AI时代企业更需要将技术与财务有机结合",
+          "url": "https://wallstreetcn.com/livenews/3185219",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
+          "title": "SemiAnalysis创始人深度解析：AI投资还能撑多久？英伟达护城河还能守住吗？内存荒何时结束？",
+          "url": "https://wallstreetcn.com/articles/3784410",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
         },
         {
           "title": "AI交易崩盘，Anthropic会推迟\"超级IPO\"吗？距离11月中旬\"预定上市日期\"不远了",
@@ -1104,6 +1243,17 @@
           "time_info": "07时04分"
         },
         {
+          "title": "7家科创板公司同日亮成绩单：AI产业链业绩高增，创新药械接力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34328097",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
           "title": "《过来人》和Yuri：两场AI音乐试验都在守“人味”",
           "url": "https://m.thepaper.cn/newsDetail_forward_34317944",
           "source": "澎湃新闻",
@@ -1113,24 +1263,24 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "肖战清唱Allezaimez",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%B8%85%E5%94%B1Allezaimez%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "人造黄金会不会击穿金价",
-          "url": "https://www.toutiao.com/trending/7699776708773249067/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 17时41分]"
-        },
         {
           "title": "人造黄金会不会击穿金价",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E9%80%A0%E9%BB%84%E9%87%91%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%87%BB%E7%A9%BF%E9%87%91%E4%BB%B7%23&t=31&band_rank=5&Refer=top",
@@ -1155,6 +1305,29 @@
           "time_info": "[02时01分 ~ 17时41分]"
         },
         {
+          "title": "人造黄金会不会击穿金价",
+          "url": "https://www.toutiao.com/trending/7699776708773249067/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时40分 ~ 22时13分]"
+        },
+        {
+          "title": "人造黄金会不会击穿金价",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E9%80%A0%E9%BB%84%E9%87%91%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%87%BB%E7%A9%BF%E9%87%91%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
           "title": "金价大跌催热水贝黄金市场消费",
           "url": "https://www.toutiao.com/trending/7700375465819406858/",
           "source": "今日头条",
@@ -1177,13 +1350,24 @@
           "time_info": "12时06分"
         },
         {
+          "title": "三大因素致国际金价走低",
+          "url": "https://www.douyin.com/hot/2712115",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
           "title": "金价下跌背后有三大推手",
           "url": "https://flash.jin10.com/detail/20261025161138030800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         }
@@ -1238,8 +1422,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时01分 ~ 17时41分]"
+          "appearance_count": 7,
+          "time_info": "[02时01分 ~ 22时13分]"
         }
       ]
     }
