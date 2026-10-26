@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-26T08:01:01.374453+08:00",
-  "total_titles_processed": 521,
+  "generated_at": "2026-10-26T12:39:09.408178+08:00",
+  "total_titles_processed": 741,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
         {
           "title": "“多管齐下！特朗普政府暗中助选，要帮博索纳罗家族夺权”",
@@ -30,6 +30,17 @@
           "time_info": "[02时18分 ~ 05时35分]"
         },
         {
+          "title": "特朗普再次给内塔尼亚胡背书",
+          "url": "https://news.ifeng.com/c/8xWtiDBWMKf",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时38分 ~ 12时39分]"
+        },
+        {
           "title": "美国总统特朗普：5000美元红利将在中期选举后不久发放。",
           "url": "https://flash.jin10.com/detail/20261026045757543800",
           "source": "金十数据",
@@ -47,7 +58,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
         },
@@ -129,6 +140,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时18分 ~ 05时35分]"
+        },
+        {
+          "title": "梅德韦杰夫喊话特朗普“教训”乌总统",
+          "url": "https://www.toutiao.com/trending/7700578970949075465/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时38分 ~ 12时39分]"
         },
         {
           "title": "美伊“风向”生变？特朗普暗示或再打击伊朗，美方已做好长期对峙准备！",
@@ -260,7 +282,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
         },
@@ -293,7 +315,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
         },
@@ -458,7 +480,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
         },
@@ -491,7 +513,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
         }
@@ -499,7 +521,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋 AI AI AGNET",
-      "match_count": 20,
+      "match_count": 32,
       "titles": [
         {
           "title": "下周重磅日程：最重要的美联储决议和科技巨头财报都来了，这次AI交易能否自救？",
@@ -535,6 +557,77 @@
           "time_info": "[02时18分 ~ 08时01分]"
         },
         {
+          "title": "本周重磅日程：最重要的美联储决议和科技巨头财报都来了，这次AI交易能否自救？",
+          "url": "https://wallstreetcn.com/articles/3784282",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时38分 ~ 12时39分]"
+        },
+        {
+          "title": "首部AI院线电影《三星堆·未来往事》遇冷，上映3天收获115万票房",
+          "url": "https://www.cls.cn/detail/2514471",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时35分 ~ 12时39分]"
+        },
+        {
+          "title": "SemiAnalysis创始人深度解析：AI投资还能撑多久？英伟达护城河还能守住吗？内存荒何时结束？",
+          "url": "https://wallstreetcn.com/articles/3784410",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时18分 ~ 12时39分]"
+        },
+        {
+          "title": "多家科创板龙头企业晒账本：AI产业链景气正变成利润",
+          "url": "https://www.cls.cn/detail/2514496",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时38分 ~ 12时39分]"
+        },
+        {
+          "title": "央视批AI魔改经典名著",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368017&amp;topic_name=%E5%A4%AE%E8%A7%86%E6%89%B9AI%E9%AD%94%E6%94%B9%E7%BB%8F%E5%85%B8%E5%90%8D%E8%91%97",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时18分 ~ 12时39分]"
+        },
+        {
+          "title": "B站肥鱼成灾,AI评论泛滥",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368005&amp;topic_name=B%E7%AB%99%E8%82%A5%E9%B1%BC%E6%88%90%E7%81%BE%2CAI%E8%AF%84%E8%AE%BA%E6%B3%9B%E6%BB%A5",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时18分 ~ 12时39分]"
+        },
+        {
           "title": "“黑色十月”席卷全球互联网！AI正彻底掀翻网络安全牌桌？",
           "url": "https://www.cls.cn/detail/2514247",
           "source": "财联社热门",
@@ -546,15 +639,16 @@
           "time_info": "[02时18分 ~ 08时01分]"
         },
         {
-          "title": "SemiAnalysis创始人深度解析：AI投资还能撑多久？英伟达护城河还能守住吗？内存荒何时结束？",
-          "url": "https://wallstreetcn.com/articles/3784410",
-          "source": "华尔街见闻",
+          "title": "S16进入大AI时代",
+          "url": "https://www.douyin.com/hot/2712181",
+          "source": "抖音",
           "ranks": [
-            8
+            6,
+            23
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[02时18分 ~ 08时01分]"
+          "time_info": "[08时00分 ~ 12时39分]"
         },
         {
           "title": "2026全球治理论坛（雄安）丨如何应对AI安全风险？中外专家给出了答案",
@@ -605,17 +699,6 @@
           "time_info": "[02时18分 ~ 08时01分]"
         },
         {
-          "title": "央视批AI魔改经典名著",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368017&amp;topic_name=%E5%A4%AE%E8%A7%86%E6%89%B9AI%E9%AD%94%E6%94%B9%E7%BB%8F%E5%85%B8%E5%90%8D%E8%91%97",
-          "source": "贴吧",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时18分 ~ 08时01分]"
-        },
-        {
           "title": "DeepSeek、MiniMax完成AI模型出海登记 合规路径落地提振国内AI“出海”信心",
           "url": "https://www.cls.cn/detail/2514315",
           "source": "财联社热门",
@@ -628,38 +711,15 @@
           "time_info": "[02时18分 ~ 08时01分]"
         },
         {
-          "title": "B站肥鱼成灾,AI评论泛滥",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368005&amp;topic_name=B%E7%AB%99%E8%82%A5%E9%B1%BC%E6%88%90%E7%81%BE%2CAI%E8%AF%84%E8%AE%BA%E6%B3%9B%E6%BB%A5",
-          "source": "贴吧",
+          "title": "周末，物理AI“刷屏”",
+          "url": "https://wallstreetcn.com/articles/3784428",
+          "source": "华尔街见闻",
           "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时18分 ~ 08时01分]"
-        },
-        {
-          "title": "首部AI院线电影《三星堆·未来往事》遇冷，上映3天收获115万票房",
-          "url": "https://www.cls.cn/detail/2514471",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时35分 ~ 08时01分]"
-        },
-        {
-          "title": "S16进入大AI时代",
-          "url": "https://www.douyin.com/hot/2712181",
-          "source": "抖音",
-          "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时00分 ~ 08时01分]"
+          "time_info": "[12时38分 ~ 12时39分]"
         },
         {
           "title": "日本软银计划计划在马来西亚投资500亿美元发展人工智能（AI）。",
@@ -686,6 +746,39 @@
           "time_info": "[02时18分 ~ 05时35分]"
         },
         {
+          "title": "比尔·盖茨谈AI对人类工作的冲击",
+          "url": "https://www.toutiao.com/trending/7700200466793267236/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时38分 ~ 12时39分]"
+        },
+        {
+          "title": "老干妈AI裁员传闻引争议",
+          "url": "https://s.weibo.com/weibo?q=%E8%80%81%E5%B9%B2%E5%A6%88AI%E8%A3%81%E5%91%98%E4%BC%A0%E9%97%BB%E5%BC%95%E4%BA%89%E8%AE%AE&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时38分 ~ 12时39分]"
+        },
+        {
+          "title": "AI生成视频已经能逃过人脸识别系统",
+          "url": "https://www.toutiao.com/trending/7700611070783881755/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时38分 ~ 12时39分]"
+        },
+        {
           "title": "丈母娘也开始抢AI人了",
           "url": "https://www.baidu.com/s?wd=%E4%B8%88%E6%AF%8D%E5%A8%98%E4%B9%9F%E5%BC%80%E5%A7%8B%E6%8A%A2AI%E4%BA%BA%E4%BA%86",
           "source": "百度热搜",
@@ -698,6 +791,39 @@
           "time_info": "[02时18分 ~ 05时35分]"
         },
         {
+          "title": "“AI税”落到普通人头上了吗",
+          "url": "https://www.toutiao.com/trending/7700798359413460543/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时38分 ~ 12时39分]"
+        },
+        {
+          "title": "媒体：让AI与骗子周旋值得借鉴",
+          "url": "https://www.toutiao.com/trending/7700775322890829833/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时38分 ~ 12时39分]"
+        },
+        {
+          "title": "AI基建把保险业逼进新战场！数据中心晚交付一天，罚款500万美元",
+          "url": "https://flash.jin10.com/detail/20261026120249406800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
           "title": "OpenAI、Anthropic齐参与！全球首个AI生物安全实验室将问世",
           "url": "https://www.cls.cn/detail/2514203",
           "source": "财联社热门",
@@ -707,6 +833,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "创业板指跌超3%，沪指跌0.58%，深成指跌1.89%，算力硬件、半导体芯片、贵金属、AI漫剧等方向跌幅居前，沪深京三市下跌个股超3600只。",
+          "url": "https://wallstreetcn.com/livenews/3185346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
         },
         {
           "title": "首部AI院线电影，票房过百万",
@@ -729,12 +866,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "创业板指跌超2%，沪指跌0.44%，深成指跌1.09%，贵金属、AI漫剧、算力硬件、半导体芯片等方向跌幅居前，沪深京三市下跌个股近2900只。",
+          "url": "https://wallstreetcn.com/livenews/3185326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
+          "title": "AI漫剧概念盘初调整，慈文传媒、博纳影业触及跌停，果麦文化跌超10%，上海电影、欢瑞世纪、横店影视跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3185322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "美航母重填弹药，或再袭伊朗",
@@ -744,8 +903,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时18分 ~ 08时01分]"
+          "appearance_count": 6,
+          "time_info": "[02时18分 ~ 12时39分]"
         },
         {
           "title": "伊朗总统佩泽希齐扬：1月份全国性的反政府抗议主要由社会问题引发。如果民众信任我们，知道我们想要帮助他们、解决他们的问题，他们肯定会与我们合作。",
@@ -768,6 +927,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "外媒：“麦加协议”三国高官将与伊朗官员会晤",
+          "url": "https://wallstreetcn.com/livenews/3185379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
         },
         {
           "title": "斯里兰卡：在近海国际水域救起40名伊朗船员",
@@ -815,6 +985,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
+        },
+        {
+          "title": "美军已准备好对伊朗发动新一轮大规模行动，接令后96小时内可出击",
+          "url": "https://flash.jin10.com/detail/20261026120551529800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
         },
         {
           "title": "伊朗电力行业发言人：国家工业用电供应的限制已完全解除。",
@@ -897,8 +1078,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "金价创纪录 俄罗斯矿企财务状况改善",
+          "url": "https://www.toutiao.com/trending/7700744756238663723/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时38分 ~ 12时39分]"
+        },
         {
           "title": "人造黄金会不会击穿金价",
           "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E9%80%A0%E9%BB%84%E9%87%91%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%87%BB%E7%A9%BF%E9%87%91%E4%BB%B7",
@@ -936,6 +1128,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时18分 ~ 08时01分]"
+        },
+        {
+          "title": "金价连日大跌 多地水贝市场被挤爆",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%BF%9E%E6%97%A5%E5%A4%A7%E8%B7%8C+%E5%A4%9A%E5%9C%B0%E6%B0%B4%E8%B4%9D%E5%B8%82%E5%9C%BA%E8%A2%AB%E6%8C%A4%E7%88%86",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时38分 ~ 12时39分]"
+        },
+        {
+          "title": "金十图示：2026年10月26日（周一）上海金早盘价为858.32元/克，较国际金价(859.97元/克)低1.65元/克",
+          "url": "https://flash.jin10.com/detail/20261026115521300800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
         }
       ]
     },
@@ -950,7 +1164,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
         }
