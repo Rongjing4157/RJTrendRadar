@@ -1,12 +1,57 @@
 {
-  "generated_at": "2026-10-28T07:42:49.786773+08:00",
-  "total_titles_processed": 441,
+  "generated_at": "2026-10-28T13:01:17.827473+08:00",
+  "total_titles_processed": 666,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 AI AI AGNET",
-      "match_count": 26,
+      "match_count": 31,
       "titles": [
+        {
+          "title": "美联储决议前夕，AI热情驱动科技股反弹，CoreWeave涨8%，油价续跌，金价涨1%",
+          "url": "https://wallstreetcn.com/articles/3784535",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时42分 ~ 13时01分]"
+        },
+        {
+          "title": "美股收盘：AI反弹行情延续 费城半导体指数大涨3.6% 纳指涨超1%",
+          "url": "https://www.cls.cn/detail/2517192",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时42分 ~ 13时01分]"
+        },
+        {
+          "title": "DeepSeek 新版模型单周调用量登顶全球首位，环比暴增 801%，该模型为什么能实现登顶？意味着什么？",
+          "url": "https://www.zhihu.com/question/2098096577525172086",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时00分 ~ 13时01分]"
+        },
+        {
+          "title": "罗翔用AI做了个视频",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BD%97%E7%BF%94%E7%94%A8AI%E5%81%9A%E4%BA%86%E4%B8%AA%E8%A7%86%E9%A2%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时00分 ~ 13时01分]"
+        },
         {
           "title": "张坤还是笃信科技：独管产品十大重仓半数押注全球AI半导体",
           "url": "https://www.cls.cn/detail/2516819",
@@ -20,15 +65,17 @@
           "time_info": "[03时59分 ~ 07时42分]"
         },
         {
-          "title": "美联储决议前夕，AI热情驱动科技股反弹，CoreWeave涨8%，油价续跌，金价涨1%",
-          "url": "https://wallstreetcn.com/articles/3784535",
+          "title": "“这种模式我们见过！”大空头交易员详解：为何做空AI新贵CoreWeave",
+          "url": "https://wallstreetcn.com/articles/3784579",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            8,
+            3,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时42分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时59分 ~ 13时01分]"
         },
         {
           "title": "17岁AI研究员被曝获700万年薪邀约",
@@ -64,27 +111,28 @@
           "time_info": "03时59分"
         },
         {
-          "title": "美股收盘：AI反弹行情延续 费城半导体指数大涨3.6% 纳指涨超1%",
-          "url": "https://www.cls.cn/detail/2517192",
-          "source": "财联社热门",
+          "title": "AI被当真人,大肥鱼遭网恋哥骚扰",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368128&amp;topic_name=AI%E8%A2%AB%E5%BD%93%E7%9C%9F%E4%BA%BA%2C%E5%A4%A7%E8%82%A5%E9%B1%BC%E9%81%AD%E7%BD%91%E6%81%8B%E5%93%A5%E9%AA%9A%E6%89%B0",
+          "source": "贴吧",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时42分"
-        },
-        {
-          "title": "“这种模式我们见过！”大空头交易员详解：为何做空AI新贵CoreWeave",
-          "url": "https://wallstreetcn.com/articles/3784579",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            3
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时59分 ~ 07时42分]"
+          "appearance_count": 4,
+          "time_info": "[03时59分 ~ 13时01分]"
+        },
+        {
+          "title": "DeepSeek七款工具同题实测",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%83%E6%AC%BE%E5%B7%A5%E5%85%B7%E5%90%8C%E9%A2%98%E5%AE%9E%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时42分 ~ 13时01分]"
         },
         {
           "title": "AI概念股有望延续反弹 红利龙头业绩强劲 | 今夜看点",
@@ -97,6 +145,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时59分 ~ 07时42分]"
+        },
+        {
+          "title": "2026胡润百富榜出炉，每10位上榜者就有1位靠AI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34309375",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时00分 ~ 13时01分]"
         },
         {
           "title": "“纯垃圾”“毫无品味”，马斯克的AI电影被喷爆了",
@@ -123,15 +182,15 @@
           "time_info": "[03时59分 ~ 07时42分]"
         },
         {
-          "title": "AI被当真人,大肥鱼遭网恋哥骚扰",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368128&amp;topic_name=AI%E8%A2%AB%E5%BD%93%E7%9C%9F%E4%BA%BA%2C%E5%A4%A7%E8%82%A5%E9%B1%BC%E9%81%AD%E7%BD%91%E6%81%8B%E5%93%A5%E9%AA%9A%E6%89%B0",
-          "source": "贴吧",
+          "title": "男子借助AI买彩票中508万",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%80%9F%E5%8A%A9AI%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD508%E4%B8%87",
+          "source": "百度热搜",
           "ranks": [
-            17
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时59分 ~ 07时42分]"
+          "time_info": "[13时00分 ~ 13时01分]"
         },
         {
           "title": "为什么 OpenAi 和 Anthropic 不用自己的顶级 AI 去炒股？就像幻方量化一样？",
@@ -173,7 +232,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -222,24 +281,13 @@
           "time_info": "03时59分"
         },
         {
-          "title": "DeepSeek七款工具同题实测",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%83%E6%AC%BE%E5%B7%A5%E5%85%B7%E5%90%8C%E9%A2%98%E5%AE%9E%E6%B5%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时42分"
-        },
-        {
           "title": "物理AI迎落地拐点，产业链公司抢抓机遇",
           "url": "https://wallstreetcn.com/livenews/3187946",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -266,13 +314,24 @@
           "time_info": "03时59分"
         },
         {
+          "title": "创业板指涨超3%，沪指涨0.72%，深成指涨2.03%，机器人、半导体芯片、算力硬件、AI漫剧等方向涨幅居前，沪深京三市上涨个股近4500只。",
+          "url": "https://wallstreetcn.com/livenews/3188089",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
           "title": "加皇银行封堵第三方AI代理 称可能带来客户风险",
           "url": "https://flash.jin10.com/detail/20261028063228758800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -294,7 +353,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         }
@@ -302,8 +361,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "特朗普：委内瑞拉或成为美国第51个州",
+          "url": "https://news.ifeng.com/c/8xaJYjqF2cZ",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时00分 ~ 13时01分]"
+        },
         {
           "title": "美国总统特朗普：委内瑞拉可能成为美国第51个州。",
           "url": "https://flash.jin10.com/detail/20261028034833070800",
@@ -314,6 +384,62 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
+        },
+        {
+          "title": "特朗普：将很快安排与普京、泽连斯基举行会晤。",
+          "url": "https://wallstreetcn.com/livenews/3188117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "特朗普：由于我对内塔尼亚胡的力挺 选情出现逆转",
+          "url": "https://flash.jin10.com/detail/20261028124142069800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "美国总统特朗普：（被问及中期选举后是否会对伊朗发动更多打击）任何事都有可能发生。",
+          "url": "https://flash.jin10.com/detail/20261028123729031800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "美国总统特朗普：对于巴西大选，华府没有选边站队。 会赞成博索纳罗前往美国。",
+          "url": "https://wallstreetcn.com/livenews/3188114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "美国消费者信心10月意外大幅反弹 中期选举前特朗普仍难摆脱高物价困局",
+          "url": "https://www.cls.cn/detail/2517100",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时42分 ~ 13时01分]"
         },
         {
           "title": "美国两位主教与特朗普同框后，懊悔了",
@@ -328,6 +454,17 @@
           "time_info": "[03时59分 ~ 07时42分]"
         },
         {
+          "title": "美国总统特朗普：将在亚洲之行期间举行一次关于核裁军的会议。",
+          "url": "https://flash.jin10.com/detail/20261028123400041800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
           "title": "据华盛顿邮报：美国总统特朗普将宣布放宽石油公司甲烷泄漏相关规定。",
           "url": "https://flash.jin10.com/detail/20261028031517828800",
           "source": "金十数据",
@@ -339,15 +476,26 @@
           "time_info": "03时59分"
         },
         {
-          "title": "美国消费者信心10月意外大幅反弹 中期选举前特朗普仍难摆脱高物价困局",
-          "url": "https://www.cls.cn/detail/2517100",
-          "source": "财联社热门",
+          "title": "美国总统特朗普：在乌克兰问题上正取得大量进展，希望能很快与普京和泽连斯基会面。",
+          "url": "https://flash.jin10.com/detail/20261028123052337800",
+          "source": "金十数据",
           "ranks": [
-            12
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时42分"
+          "time_info": "13时01分"
+        },
+        {
+          "title": "美国总统特朗普：本来会批准弗拉维奥·博索纳罗前来美国。",
+          "url": "https://flash.jin10.com/detail/20261028122900465800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         },
         {
           "title": "据CNN：博索纳罗盟友称特朗普政府已发出庇护信号。",
@@ -370,23 +518,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
+        },
+        {
+          "title": "美国亚裔选民对共和党信任度下滑，特朗普经济支持率骤降",
+          "url": "https://flash.jin10.com/detail/20261028120743833800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "特朗普拟放宽油气行业甲烷管制！声称可省450亿美元、增产2.1亿桶石油",
+          "url": "https://flash.jin10.com/detail/20261028115718533800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "普京会晤伊朗总统讨论中东局势",
+          "url": "https://www.douyin.com/hot/2716809",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时00分 ~ 13时01分]"
+        },
         {
           "title": "伊朗最高领袖重申结束战争须满足伊方条件 博索纳罗之子被曝赴美“流亡” | 环球市场",
           "url": "https://www.cls.cn/detail/2517209",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时42分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时42分 ~ 13时01分]"
         },
         {
           "title": "市场消息：伊朗总统佩泽希齐扬已离开俄罗斯。",
@@ -439,6 +621,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "【早报】深夜发力，美股半导体指数大涨超3%；国际油价，继续回落；PCB产业链上市公司集中披露三季报",
+          "url": "https://www.cls.cn/detail/2517219",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时42分 ~ 13时01分]"
+        },
+        {
           "title": "美股费城半导体指数日内涨4.00%，英伟达涨1.13%，博通涨4.61%，美光涨3.52%，英特尔涨4.05%，AMD涨6.03%，高通涨2.02%，台积电涨3.33%，阿斯麦涨3.38%。标普目前涨约0.8%，纳指涨1.4%，纳斯达克100指数涨1.5%。",
           "url": "https://wallstreetcn.com/livenews/3187895",
           "source": "华尔街见闻-快讯",
@@ -456,18 +650,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时42分"
-        },
-        {
-          "title": "【早报】深夜发力，美股半导体指数大涨超3%；国际油价，继续回落；PCB产业链上市公司集中披露三季报",
-          "url": "https://www.cls.cn/detail/2517219",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -478,7 +661,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         }
@@ -521,11 +704,12 @@
           "url": "https://www.cls.cn/detail/2517161",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时42分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时42分 ~ 13时01分]"
         }
       ]
     },
