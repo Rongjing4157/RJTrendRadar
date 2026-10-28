@@ -1,426 +1,221 @@
 {
-  "generated_at": "2026-10-28T19:16:16.168182+08:00",
-  "total_titles_processed": 913,
+  "generated_at": "2026-10-29T02:13:58.412290+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 AI AI AGNET",
-      "match_count": 36,
+      "match_count": 13,
       "titles": [
         {
           "title": "美联储决议前夕，AI热情驱动科技股反弹，CoreWeave涨8%，油价续跌，金价涨1%",
           "url": "https://wallstreetcn.com/articles/3784535",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时42分 ~ 19时16分]"
+          "appearance_count": 1,
+          "time_info": "02时13分"
         },
         {
-          "title": "“这种模式我们见过！”大空头交易员详解：为何做空AI新贵CoreWeave",
-          "url": "https://wallstreetcn.com/articles/3784579",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            3,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时59分 ~ 19时16分]"
-        },
-        {
-          "title": "美股收盘：AI反弹行情延续 费城半导体指数大涨3.6% 纳指涨超1%",
-          "url": "https://www.cls.cn/detail/2517192",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时42分 ~ 13时01分]"
-        },
-        {
-          "title": "DeepSeek 新版模型单周调用量登顶全球首位，环比暴增 801%，该模型为什么能实现登顶？意味着什么？",
-          "url": "https://www.zhihu.com/question/2098096577525172086",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时00分 ~ 13时01分]"
-        },
-        {
-          "title": "张坤还是笃信科技：独管产品十大重仓半数押注全球AI半导体",
-          "url": "https://www.cls.cn/detail/2516819",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时59分 ~ 07时42分]"
-        },
-        {
-          "title": "罗翔用AI做了个视频",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BD%97%E7%BF%94%E7%94%A8AI%E5%81%9A%E4%BA%86%E4%B8%AA%E8%A7%86%E9%A2%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时00分 ~ 19时16分]"
-        },
-        {
-          "title": "2026胡润百富榜出炉，每10位上榜者就有1位靠AI",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34309375",
+          "title": "31岁亚马逊前华人女工程师听GPT建议自行停药后死亡，父母起诉OpenAI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34351416",
           "source": "澎湃新闻",
           "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时00分 ~ 19时16分]"
-        },
-        {
-          "title": "17岁AI研究员被曝获700万年薪邀约",
-          "url": "https://www.toutiao.com/trending/7701221553450598938/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
-          "title": "Anthropic IPO重燃AI情绪，美股指反弹，芯片指数涨近3%，美债、油价齐回落",
-          "url": "https://wallstreetcn.com/articles/3784464",
-          "source": "华尔街见闻",
-          "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时59分"
+          "time_info": "02时13分"
         },
         {
-          "title": "AI交易热情重燃，美股小幅高开，纳指涨0.47%，油价续跌，金价再跌破4000",
-          "url": "https://wallstreetcn.com/articles/3784535",
-          "source": "华尔街见闻",
+          "title": "男子回应借助AI买彩票中508万",
+          "url": "https://www.toutiao.com/trending/7701562501992824874/",
+          "source": "今日头条",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时59分"
+          "time_info": "02时13分"
         },
         {
-          "title": "男子借助AI买彩票中508万",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%80%9F%E5%8A%A9AI%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD508%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时00分 ~ 19时16分]"
-        },
-        {
-          "title": "AI被当真人,大肥鱼遭网恋哥骚扰",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368128&amp;topic_name=AI%E8%A2%AB%E5%BD%93%E7%9C%9F%E4%BA%BA%2C%E5%A4%A7%E8%82%A5%E9%B1%BC%E9%81%AD%E7%BD%91%E6%81%8B%E5%93%A5%E9%AA%9A%E6%89%B0",
-          "source": "贴吧",
-          "ranks": [
-            17,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时59分 ~ 13时01分]"
-        },
-        {
-          "title": "DeepSeek七款工具同题实测",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%83%E6%AC%BE%E5%B7%A5%E5%85%B7%E5%90%8C%E9%A2%98%E5%AE%9E%E6%B5%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时42分 ~ 13时01分]"
-        },
-        {
-          "title": "【焦点复盘】沪指、创业板指放量收复5日线，AI制药概念卷土重来，机器人概念午后现批量炸板",
-          "url": "https://www.cls.cn/detail/2517952",
+          "title": "【明日主题前瞻】物理AI稀缺的底层资源，真实数据面临巨大的缺口",
+          "url": "https://www.cls.cn/detail/2517890",
           "source": "财联社热门",
           "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 19时16分]"
-        },
-        {
-          "title": "AI概念股有望延续反弹 红利龙头业绩强劲 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2516945",
-          "source": "财联社热门",
-          "ranks": [
-            6,
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时59分 ~ 07时42分]"
+          "appearance_count": 1,
+          "time_info": "02时13分"
         },
         {
-          "title": "特朗普炮轰：“AI”一词糟糕且不准确 将很快禁用！",
-          "url": "https://www.cls.cn/detail/2517911",
+          "title": "AI烧钱潮撞上融资瓶颈，华尔街买家开始退缩了",
+          "url": "https://www.cls.cn/detail/2518352",
           "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 19时16分]"
+          "appearance_count": 1,
+          "time_info": "02时13分"
         },
         {
-          "title": "“纯垃圾”“毫无品味”，马斯克的AI电影被喷爆了",
-          "url": "https://news.ifeng.com/c/8xZM7R9oqpX",
-          "source": "凤凰网",
+          "title": "谷歌推出Gemini 4 Carbon前沿AI模型",
+          "url": "https://wallstreetcn.com/livenews/3189317",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时59分 ~ 07时42分]"
-        },
-        {
-          "title": "基金经理重仓 AI 巨亏公开致歉，称没必要低位离场，等流动性恢复，当基金经理也靠信仰持股，算不算风险信号？",
-          "url": "https://www.zhihu.com/question/2096884168970061409",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时59分 ~ 07时42分]"
-        },
-        {
-          "title": "男子借助AI买彩票中508万",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%80%9F%E5%8A%A9AI%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD508%E4%B8%87%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 19时16分]"
-        },
-        {
-          "title": "为什么 OpenAi 和 Anthropic 不用自己的顶级 AI 去炒股？就像幻方量化一样？",
-          "url": "https://www.zhihu.com/question/2096860633161545316",
-          "source": "知乎",
-          "ranks": [
-            6
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时59分"
+          "time_info": "02时13分"
         },
         {
-          "title": "马上评｜老干妈用AI把600名拣椒工裁到48人？宣传AI降本也别忘了人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34336116",
-          "source": "澎湃新闻",
+          "title": "据知情人士透露，Anthropic正努力通过投资平台RetailBook向英国散户投资者们推销其股票。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3189316",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时59分"
+          "time_info": "02时13分"
         },
         {
-          "title": "英伟达拟出资30亿美元认购Meta新股 双方深化AI智能体合作",
-          "url": "https://www.cls.cn/detail/2516726",
+          "title": "Anthropic招股书解析：OpenAI两大潜在优势浮现",
+          "url": "https://www.cls.cn/detail/2518311",
           "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
-          "title": "如何评价 OpenAI 公布调和分析四大猜想的证明？这套证明的突破在哪里？",
-          "url": "https://www.zhihu.com/question/2098323920147559381",
-          "source": "知乎",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时42分"
+          "time_info": "02时13分"
         },
         {
-          "title": "AI制药走到哪一步了？多位基金经理把脉",
-          "url": "https://www.cls.cn/detail/2516897",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
-          "title": "打了马赛克的二维码被 AI 完整复原，原理是什么？什么样的遮挡才真的防 AI 破解？",
-          "url": "https://www.zhihu.com/question/2097626035961455067",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
-          "title": "OpenAI 10 月 26 日宣布证明所有维度局部光滑猜想，一举推平调和分析四大猜想，如何理解这一事件？",
-          "url": "https://www.zhihu.com/question/2098331248469062137",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
-          "title": "如果程序员可以用AI写代码，作者为什么不能用AI写文章？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34273979",
+          "title": "明查｜网传“皇马发布《关于姆巴佩相关言论的说明》截图”由AI生成",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34350138",
           "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
-          "title": "物理AI迎落地拐点，产业链公司抢抓机遇",
-          "url": "https://wallstreetcn.com/livenews/3187946",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时42分"
-        },
-        {
-          "title": "樱井政博怒斥 AI 游戏只是「无法游玩的抄袭品」，为什么 AI 能生成完美代码和美术，却很难做得「好玩」？",
-          "url": "https://www.zhihu.com/question/2096639617629939625",
-          "source": "知乎",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时59分"
+          "time_info": "02时13分"
         },
         {
-          "title": "分析师：如果民主党大幅增加国会席位，美国明年可能加强对AI的监管",
-          "url": "https://wallstreetcn.com/livenews/3187873",
-          "source": "华尔街见闻-快讯",
+          "title": "市场消息：Anthropic计划通过RetailBook进行英国股票发行。",
+          "url": "https://flash.jin10.com/detail/20261029012519485800",
+          "source": "金十数据",
           "ranks": [
-            19
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时59分"
+          "time_info": "02时13分"
         },
         {
-          "title": "创业板指涨超3%，沪指涨0.72%，深成指涨2.03%，机器人、半导体芯片、算力硬件、AI漫剧等方向涨幅居前，沪深京三市上涨个股近4500只。",
-          "url": "https://wallstreetcn.com/livenews/3188089",
-          "source": "华尔街见闻-快讯",
+          "title": "OpenAI与ServiceNow将提供联合安全解决方案。",
+          "url": "https://flash.jin10.com/detail/20261029012018163800",
+          "source": "金十数据",
           "ranks": [
-            19
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时01分"
+          "time_info": "02时13分"
         },
         {
-          "title": "一博科技：全资子公司拟投资约10亿元建设AI算力高端PCB制造项目",
-          "url": "https://wallstreetcn.com/livenews/3188932",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
-          "title": "奥迪创新技术中心（AITC）召开了成立后的首次员工大会",
-          "url": "https://wallstreetcn.com/livenews/3188901",
-          "source": "华尔街见闻-快讯",
+          "title": "OpenAI与ServiceNow扩大企业工作流合作。",
+          "url": "https://flash.jin10.com/detail/20261029011815755800",
+          "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时16分"
+          "time_info": "02时13分"
         },
         {
-          "title": "加皇银行封堵第三方AI代理 称可能带来客户风险",
-          "url": "https://flash.jin10.com/detail/20261028063228758800",
+          "title": "OpenAI与ServiceNow扩大合作伙伴关系。",
+          "url": "https://flash.jin10.com/detail/20261029011759886800",
           "source": "金十数据",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时42分"
-        },
+          "time_info": "02时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 5,
+      "titles": [
         {
-          "title": "胡润百富榜每10位上榜者就有1位靠AI",
-          "url": "https://www.baidu.com/s?wd=%E8%83%A1%E6%B6%A6%E7%99%BE%E5%AF%8C%E6%A6%9C%E6%AF%8F10%E4%BD%8D%E4%B8%8A%E6%A6%9C%E8%80%85%E5%B0%B1%E6%9C%891%E4%BD%8D%E9%9D%A0AI",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
-          "title": "AI小狗男主进入白切黑时代",
-          "url": "https://www.douyin.com/hot/2716263",
+          "title": "普京会晤伊朗总统讨论中东局势",
+          "url": "https://www.douyin.com/hot/2716809",
           "source": "抖音",
           "ranks": [
-            28
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时42分"
+          "time_info": "02时13分"
+        },
+        {
+          "title": "伊朗国家安全委员会主席：退出《不扩散核武器条约》的议会方案已经准备就绪。 从立法层面来说，只要国内形成统一的全国共识，我们就可以采取行动。",
+          "url": "https://wallstreetcn.com/livenews/3189320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时13分"
+        },
+        {
+          "title": "伊朗外长：将继续与调解人探讨如何成功实施“7日计划”",
+          "url": "https://wallstreetcn.com/livenews/3189319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时13分"
+        },
+        {
+          "title": "伊朗议会国家安全委员会主席阿齐兹：议会退出《不扩散核武器条约》的计划已准备就绪。只要国家层面形成全面共识，伊朗议会随时可以从立法层面采取行动。",
+          "url": "https://flash.jin10.com/detail/20261029013905372800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时13分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：伊朗武装部队已做好充分准备，随时保卫国家，但伊朗仍在给予外交努力成功的机会。 伊朗正与斡旋方保持密切、持续的沟通，研究相关方案，争取在不到一周的时间内落实“七日计划”。",
+          "url": "https://wallstreetcn.com/livenews/3189306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时13分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 4,
       "titles": [
         {
           "title": "如果共和党中期选举输了怎么办？特朗普回应",
@@ -430,8 +225,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 19时16分]"
+          "appearance_count": 1,
+          "time_info": "02时13分"
+        },
+        {
+          "title": "美媒：美国司法部加大对特朗普政敌的打击力度",
+          "url": "https://flash.jin10.com/detail/20261029014457752800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时13分"
         },
         {
           "title": "特朗普力挺内塔尼亚胡，万斯为何不跟？",
@@ -441,19 +247,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 19时16分]"
-        },
-        {
-          "title": "特朗普：委内瑞拉或成为美国第51个州",
-          "url": "https://news.ifeng.com/c/8xaJYjqF2cZ",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时00分 ~ 13时01分]"
+          "appearance_count": 1,
+          "time_info": "02时13分"
         },
         {
           "title": "特朗普：很快将安排普京与泽连斯基的会晤",
@@ -463,408 +258,75 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 19时16分]"
-        },
-        {
-          "title": "美国总统特朗普：委内瑞拉可能成为美国第51个州。",
-          "url": "https://flash.jin10.com/detail/20261028034833070800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时59分"
-        },
+          "time_info": "02时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
         {
-          "title": "特朗普：将很快安排与普京、泽连斯基举行会晤。",
-          "url": "https://wallstreetcn.com/livenews/3188117",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "特朗普：由于我对内塔尼亚胡的力挺 选情出现逆转",
-          "url": "https://flash.jin10.com/detail/20261028124142069800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "美国总统特朗普：（被问及中期选举后是否会对伊朗发动更多打击）任何事都有可能发生。",
-          "url": "https://flash.jin10.com/detail/20261028123729031800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "美国总统特朗普：对于巴西大选，华府没有选边站队。 会赞成博索纳罗前往美国。",
-          "url": "https://wallstreetcn.com/livenews/3188114",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "美国消费者信心10月意外大幅反弹 中期选举前特朗普仍难摆脱高物价困局",
-          "url": "https://www.cls.cn/detail/2517100",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时42分 ~ 13时01分]"
-        },
-        {
-          "title": "美国两位主教与特朗普同框后，懊悔了",
-          "url": "https://news.ifeng.com/c/8xZRUzsoyDA",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时59分 ~ 07时42分]"
-        },
-        {
-          "title": "国台办回应特朗普涉台言论",
-          "url": "https://www.toutiao.com/trending/7701604359507608091/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 19时16分]"
-        },
-        {
-          "title": "国台办回应特朗普最新涉台表态",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%80%E6%96%B0%E6%B6%89%E5%8F%B0%E8%A1%A8%E6%80%81",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 19时16分]"
-        },
-        {
-          "title": "美国总统特朗普：将在亚洲之行期间举行一次关于核裁军的会议。",
-          "url": "https://flash.jin10.com/detail/20261028123400041800",
-          "source": "金十数据",
+          "title": "美联储决议考验市场，美股小幅高开，SK海力士涨约8%，油价止跌",
+          "url": "https://wallstreetcn.com/articles/3784634",
+          "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时01分"
+          "time_info": "02时13分"
         },
         {
-          "title": "据华盛顿邮报：美国总统特朗普将宣布放宽石油公司甲烷泄漏相关规定。",
-          "url": "https://flash.jin10.com/detail/20261028031517828800",
-          "source": "金十数据",
+          "title": "美股最可靠的警报灯亮了！历史两次闪烁后，都迎来大熊市",
+          "url": "https://wallstreetcn.com/articles/3784679",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时59分"
+          "time_info": "02时13分"
         },
         {
-          "title": "美国总统特朗普：在乌克兰问题上正取得大量进展，希望能很快与普京和泽连斯基会面。",
-          "url": "https://flash.jin10.com/detail/20261028123052337800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "美国总统特朗普：本来会批准弗拉维奥·博索纳罗前来美国。",
-          "url": "https://flash.jin10.com/detail/20261028122900465800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "据CNN：博索纳罗盟友称特朗普政府已发出庇护信号。",
-          "url": "https://flash.jin10.com/detail/20261028025934496800",
+          "title": "金十整理：沃什历次表态牵动市场神经，美股与黄金波动频频",
+          "url": "https://flash.jin10.com/detail/20261029013357628800",
           "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
-          "title": "特朗普的夫人：俄乌奥列什基停火提前生效，范围已扩大",
-          "url": "https://wallstreetcn.com/livenews/3187874",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
-          "title": "美国亚裔选民对共和党信任度下滑，特朗普经济支持率骤降",
-          "url": "https://flash.jin10.com/detail/20261028120743833800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "特朗普拟放宽油气行业甲烷管制！声称可省450亿美元、增产2.1亿桶石油",
-          "url": "https://flash.jin10.com/detail/20261028115718533800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "普京会晤伊朗总统讨论中东局势",
-          "url": "https://www.douyin.com/hot/2716809",
-          "source": "抖音",
-          "ranks": [
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时00分 ~ 19时16分]"
-        },
-        {
-          "title": "伊朗最高领袖重申结束战争须满足伊方条件 博索纳罗之子被曝赴美“流亡” | 环球市场",
-          "url": "https://www.cls.cn/detail/2517209",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时42分 ~ 13时01分]"
-        },
-        {
-          "title": "美媒爆料美国告知多个海湾国家：中期选举后或对伊朗实施“短暂而激烈”的打击",
-          "url": "https://www.cls.cn/detail/2517715",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 19时16分]"
-        },
-        {
-          "title": "市场消息：伊朗总统佩泽希齐扬已离开俄罗斯。",
-          "url": "https://flash.jin10.com/detail/20261028025336139800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
-          "title": "美国能源部长赖特：与伊朗的战争时机不幸。",
-          "url": "https://flash.jin10.com/detail/20261028024744551800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
-          "title": "据福克斯新闻：美国能源部长赖特：伊朗战争已付出代价。",
-          "url": "https://flash.jin10.com/detail/20261028024425539800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
-          "title": "伊朗外交部：伊朗外长与巴西外长通电话",
-          "url": "https://wallstreetcn.com/livenews/3187860",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "【早报】深夜发力，美股半导体指数大涨超3%；国际油价，继续回落；PCB产业链上市公司集中披露三季报",
-          "url": "https://www.cls.cn/detail/2517219",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时42分 ~ 13时01分]"
-        },
-        {
-          "title": "美股费城半导体指数日内涨4.00%，英伟达涨1.13%，博通涨4.61%，美光涨3.52%，英特尔涨4.05%，AMD涨6.03%，高通涨2.02%，台积电涨3.33%，阿斯麦涨3.38%。标普目前涨约0.8%，纳指涨1.4%，纳斯达克100指数涨1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3187895",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
-          "title": "SK海力士(SKHY.O)美股盘后涨1.4%。",
-          "url": "https://flash.jin10.com/detail/20261028073105835800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时42分"
-        },
-        {
-          "title": "美股收盘：特斯拉涨4.04%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E7%89%B9%E6%96%AF%E6%8B%89%E6%B6%A84.04%25",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时42分"
-        },
-        {
-          "title": "Ge Vernova第三季度营收126.4亿美元，预期为119.9亿美元。 第三季度每股收益4.81美元，去年同期为1.64美元。 第三季度调整后息税折旧摊销前利润（EBITDA）为19.4亿美元，预期为16.8亿美元。 Ge Vernova预计全年营收为465亿至475亿美元，此前预期为455亿至465亿美元。 Ge Vernova美股盘前涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/3188882",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美元指数27日上涨",
-          "url": "https://flash.jin10.com/detail/20261028032406190800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
-          "title": "周二（10月27日）纽约尾盘，ICE美元指数涨0.3%，报102.302点，日内交投区间为101.986-102.331点，整体持续上涨。 彭博美元指数涨0.24%，报1225.23点，日内交投区间为1222.04-1225.55点，北京时间12:00以来也持续上涨。",
-          "url": "https://wallstreetcn.com/livenews/3187887",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时59分"
+          "time_info": "02时13分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
-          "title": "谷歌Genie 4亮相：一句话创造虚拟世界、敲键盘自由探索",
-          "url": "https://www.cls.cn/detail/2517161",
-          "source": "财联社热门",
+          "title": "谷歌发布前沿模型Gemini 4 Carbon 编程与网络安全能力显著提升",
+          "url": "https://flash.jin10.com/detail/20261029013641195800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            7
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时42分 ~ 13时01分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
+          "appearance_count": 1,
+          "time_info": "02时13分"
+        },
         {
-          "title": "男子趁金价下跌给媳妇买金镯子",
-          "url": "https://www.toutiao.com/trending/7700881630416093220/",
-          "source": "今日头条",
+          "title": "谷歌公司称，公司与XREAL发布XREAL AURA有线XR眼镜，由安卓XR支持。 11月2日，美国、加拿大、韩国、日本可以下单。 面向开发者发布Connected APPs Platforms。",
+          "url": "https://wallstreetcn.com/livenews/3189312",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            6
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时59分 ~ 07时42分]"
+          "appearance_count": 1,
+          "time_info": "02时13分"
         }
       ]
     }
