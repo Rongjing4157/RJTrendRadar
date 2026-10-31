@@ -1,44 +1,46 @@
 {
-  "generated_at": "2026-11-01T03:50:34.383366+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-11-01T07:15:59.089559+08:00",
+  "total_titles_processed": 372,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
+        {
+          "title": "伊朗军方称已制定新的“敌方目标与资产清单”",
+          "url": "https://flash.jin10.com/detail/20261101050124640800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
         {
           "title": "伊朗最高国家安全委员会秘书雷扎伊：我呼吁民众不要理会制造对立的说法，所有政府官员立场一致，坚定支持最高领袖。",
           "url": "https://flash.jin10.com/detail/20261101034259361800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 07时15分]"
         },
         {
           "title": "伊朗最高国家安全委员会秘书雷扎伊：美国提出了一项更好的提议，华盛顿在其中表示愿意接受伊朗提出的七项条件，这些条件与谅解备忘录中的条款不同。",
           "url": "https://flash.jin10.com/detail/20261101030628462800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
-        },
-        {
-          "title": "伊朗最高国家安全委员会秘书雷扎伊：如果后续阶段举行核谈判，伊朗依据《不扩散核武器条约》享有的核权利应得到尊重。",
-          "url": "https://flash.jin10.com/detail/20261101025919924800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 07时15分]"
         },
         {
           "title": "中东媒体：伊朗正在研究万斯来信中的提议",
@@ -48,41 +50,44 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 07时15分]"
+        },
+        {
+          "title": "伊朗最高国家安全委员会秘书雷扎伊：如果后续阶段举行核谈判，伊朗依据《不扩散核武器条约》享有的核权利应得到尊重。",
+          "url": "https://flash.jin10.com/detail/20261101025919924800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 07时15分]"
         },
         {
           "title": "伊朗最高国家安全委员会秘书雷扎伊：我们将打掉美国的嚣张气焰。如果敌人再次犯错，就等着迎接一场极为光荣的防御，以及一次沉重打击。",
           "url": "https://flash.jin10.com/detail/20261101025849134800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 07时15分]"
         },
         {
           "title": "伊朗最高国家安全委员会秘书雷扎伊：在伊朗的七项条件得到满足之前，不会进行谈判，也不会开放霍尔木兹海峡。",
           "url": "https://flash.jin10.com/detail/20261101025622961800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
-        },
-        {
-          "title": "伊朗武装部队总参谋长：一旦确认敌方有采取敌对行动的迹象，伊朗武装部队在选择回应的时间和方式时，不会坐等对方先采取行动。",
-          "url": "https://flash.jin10.com/detail/20261101025531658800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 07时15分]"
         },
         {
           "title": "伊朗外长：伊方暂无与美方会谈的计划",
@@ -92,30 +97,44 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 07时15分]"
+        },
+        {
+          "title": "伊朗武装部队总参谋长：一旦确认敌方有采取敌对行动的迹象，伊朗武装部队在选择回应的时间和方式时，不会坐等对方先采取行动。",
+          "url": "https://flash.jin10.com/detail/20261101025531658800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 07时15分]"
         },
         {
           "title": "伊朗最高国家安全委员会秘书雷扎伊：战争应永久结束，不应再有任何国家“胆敢”对伊朗发动攻击。",
           "url": "https://flash.jin10.com/detail/20261101025431365800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 07时15分]"
         },
         {
           "title": "伊朗最高国家安全委员会秘书雷扎伊：我们认真对待外交，但不会放弃伊朗人民的权利。",
           "url": "https://flash.jin10.com/detail/20261101025307728800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 07时15分]"
         },
         {
           "title": "伊朗外长：目前没有与美国官员会面的计划",
@@ -125,41 +144,44 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 07时15分]"
         },
         {
           "title": "伊朗最高国家安全委员会秘书雷扎伊：在德黑兰的四方会议上，没有提到麦加协议，也没有讨论也门问题；所有的讨论都是关于未来地区的安排应该如何进行。",
           "url": "https://flash.jin10.com/detail/20261101025158452800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 07时15分]"
         },
         {
           "title": "伊朗最高军事指挥官警告称，任何重新出现的美以侵略将引发比以往更为严厉的反应。",
           "url": "https://flash.jin10.com/detail/20261101025107666800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 07时15分]"
         },
         {
           "title": "伊朗最高国家安全委员会秘书雷扎伊：美国对伊朗发动战争之初，法国总统和德国总理曾表现得十分兴奋，但如今他们已开始担忧这场战争带来的经济问题及其后果。",
           "url": "https://flash.jin10.com/detail/20261101025012397800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 07时15分]"
         },
         {
           "title": "伊朗外长阿拉格齐：美国的信函是“积极一步”",
@@ -169,19 +191,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 07时15分]"
         },
         {
           "title": "伊朗最高国家安全委员会秘书雷扎伊：只有在美国满足伊朗的要求之后，才可以讨论伊朗核问题。",
           "url": "https://flash.jin10.com/detail/20261101022723577800",
           "source": "金十数据",
           "ranks": [
-            16
+            16,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 07时15分]"
         },
         {
           "title": "伊朗代表团前往多哈，与卡塔尔举行会谈",
@@ -191,8 +214,30 @@
             16
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 07时15分]"
+        },
+        {
+          "title": "UKMTO：10月霍尔木兹海峡周边商船遇袭事件创伊朗战争以来月度新高",
+          "url": "https://flash.jin10.com/detail/20261101040047345800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时50分"
+          "time_info": "07时15分"
+        },
+        {
+          "title": "伊朗：若遭攻击 最高领袖指示将落实",
+          "url": "https://flash.jin10.com/detail/20261101034620838800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
         },
         {
           "title": "伊朗官员：伊方目前尚未作出任何新的修改核战略的决定",
@@ -285,8 +330,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 07时15分]"
         },
         {
           "title": "这届进博会出行有了AI助手",
@@ -296,19 +341,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 07时15分]"
         },
         {
-          "title": "CRO或成最大赢家？AI重构药企组织范式：“一人管线”横空出世",
-          "url": "https://www.cls.cn/detail/2520513",
-          "source": "财联社热门",
+          "title": "如何看待「三年内，扩散模型将全面替代大语言模型」的说法？这会给 AI Infra 带来哪些变化？",
+          "url": "https://www.zhihu.com/question/2098823323752690341",
+          "source": "知乎",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 07时15分]"
         },
         {
           "title": "美股AI暴跌,万亿市值蒸发",
@@ -318,19 +364,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 07时15分]"
         },
         {
-          "title": "如何看待「三年内，扩散模型将全面替代大语言模型」的说法？这会给 AI Infra 带来哪些变化？",
-          "url": "https://www.zhihu.com/question/2098823323752690341",
-          "source": "知乎",
+          "title": "CRO或成最大赢家？AI重构药企组织范式：“一人管线”横空出世",
+          "url": "https://www.cls.cn/detail/2520513",
+          "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 07时15分]"
         },
         {
           "title": "当前AI最紧迫的瓶颈：廉价资金正在枯竭！",
@@ -340,8 +387,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 07时15分]"
         },
         {
           "title": "2008再现！一文读懂华尔街最热门交易：AI CDS",
@@ -351,8 +398,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 07时15分]"
         },
         {
           "title": "AI短片邪修润魂子",
@@ -362,8 +409,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 07时15分]"
         },
         {
           "title": "Anthropic冲刺IPO：一场与OpenAI的估值、营收和算力竞赛",
@@ -373,8 +420,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 07时15分]"
         },
         {
           "title": "DeepSeek重磅发布：AI开始指挥AI干活",
@@ -384,8 +431,32 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 07时15分]"
+        },
+        {
+          "title": "「豆包们」正在成为医患之间的「第三人」，大量 AI 问诊对门诊医生造成了什么影响？会有哪些困扰？",
+          "url": "https://www.zhihu.com/question/2096595801644299451",
+          "source": "知乎",
+          "ranks": [
+            17,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 07时15分]"
+        },
+        {
+          "title": "人民锐评发文驳斥「中国 AI 跑偏论」，如何看待中美在 AI 落地路径上的差异？",
+          "url": "https://www.zhihu.com/question/2099418216976102291",
+          "source": "知乎",
+          "ranks": [
+            16,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 07时15分]"
         },
         {
           "title": "DeepSeek重磅开源：Agent底座架构！",
@@ -395,30 +466,53 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 07时15分]"
         },
         {
           "title": "首部AI电影成本千万周票房不到150万",
           "url": "https://www.baidu.com/s?wd=%E9%A6%96%E9%83%A8AI%E7%94%B5%E5%BD%B1%E6%88%90%E6%9C%AC%E5%8D%83%E4%B8%87%E5%91%A8%E7%A5%A8%E6%88%BF%E4%B8%8D%E5%88%B0150%E4%B8%87",
           "source": "百度热搜",
           "ranks": [
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 07时15分]"
         },
         {
-          "title": "人民锐评发文驳斥「中国 AI 跑偏论」，如何看待中美在 AI 落地路径上的差异？",
-          "url": "https://www.zhihu.com/question/2099418216976102291",
-          "source": "知乎",
+          "title": "AI写文被扒,榜一转头开团榜二",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368606&amp;topic_name=AI%E5%86%99%E6%96%87%E8%A2%AB%E6%89%92%2C%E6%A6%9C%E4%B8%80%E8%BD%AC%E5%A4%B4%E5%BC%80%E5%9B%A2%E6%A6%9C%E4%BA%8C",
+          "source": "贴吧",
           "ranks": [
-            16
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 07时15分]"
+        },
+        {
+          "title": "DeepSeek发布全新Agent架构",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%8F%91%E5%B8%83%E5%85%A8%E6%96%B0Agent%E6%9E%B6%E6%9E%84",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 07时15分]"
+        },
+        {
+          "title": "AI回答不合意,老外杠上Grok",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368500&amp;topic_name=AI%E5%9B%9E%E7%AD%94%E4%B8%8D%E5%90%88%E6%84%8F%2C%E8%80%81%E5%A4%96%E6%9D%A0%E4%B8%8AGrok",
+          "source": "贴吧",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 07时15分]"
         },
         {
           "title": "DeepSeek联手华为能否击穿英伟达CUDA",
@@ -430,122 +524,83 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
-        },
-        {
-          "title": "「豆包们」正在成为医患之间的「第三人」，大量 AI 问诊对门诊医生造成了什么影响？会有哪些困扰？",
-          "url": "https://www.zhihu.com/question/2096595801644299451",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
-        },
-        {
-          "title": "AI写文被扒,榜一转头开团榜二",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368606&amp;topic_name=AI%E5%86%99%E6%96%87%E8%A2%AB%E6%89%92%2C%E6%A6%9C%E4%B8%80%E8%BD%AC%E5%A4%B4%E5%BC%80%E5%9B%A2%E6%A6%9C%E4%BA%8C",
-          "source": "贴吧",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
-        },
-        {
-          "title": "DeepSeek发布全新Agent架构",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%8F%91%E5%B8%83%E5%85%A8%E6%96%B0Agent%E6%9E%B6%E6%9E%84",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
-        },
-        {
-          "title": "AI回答不合意,老外杠上Grok",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368500&amp;topic_name=AI%E5%9B%9E%E7%AD%94%E4%B8%8D%E5%90%88%E6%84%8F%2C%E8%80%81%E5%A4%96%E6%9D%A0%E4%B8%8AGrok",
-          "source": "贴吧",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "伊朗最高国家安全委员会秘书雷扎伊：如果美国和特朗普不为此次行动付出代价，其他国家明天就可能受到鼓动，进而攻击伊朗，因为没有任何事情能阻止他们。",
-          "url": "https://flash.jin10.com/detail/20261101033115815800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
-        },
         {
           "title": "消息人士透露：特朗普正计划在美国中期选举之后恢复对伊朗的打击，打击最快可能会发生在11月4日",
           "url": "https://www.cls.cn/detail/2521560",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 07时15分]"
         },
         {
-          "title": "美国总统特朗普表示，其将在美国东部时间周六下午3点30分（北京时间周日凌晨3点30分）举行一场电话集会，届时将进行现场直播。",
-          "url": "https://flash.jin10.com/detail/20261101031729946800",
+          "title": "法官驳回了特朗普就《华尔街日报》关于爱泼斯坦的报道提起诉讼的请求",
+          "url": "https://flash.jin10.com/detail/20261101045802870800",
           "source": "金十数据",
           "ranks": [
-            3
+            5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时50分"
-        },
-        {
-          "title": "特朗普据悉计划在中期选举次日恢复对伊朗的打击 | 环球市场",
-          "url": "https://www.cls.cn/detail/2521415",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
+          "time_info": "07时15分"
         },
         {
           "title": "如何看待台湾地区外事发言人回应特朗普言论：「他这是挫折和羡慕我们」？",
           "url": "https://www.zhihu.com/question/2098805525668537881",
           "source": "知乎",
           "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 07时15分]"
+        },
+        {
+          "title": "伊朗最高国家安全委员会秘书雷扎伊：如果美国和特朗普不为此次行动付出代价，其他国家明天就可能受到鼓动，进而攻击伊朗，因为没有任何事情能阻止他们。",
+          "url": "https://flash.jin10.com/detail/20261101033115815800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 07时15分]"
+        },
+        {
+          "title": "美国总统特朗普表示，其将在美国东部时间周六下午3点30分（北京时间周日凌晨3点30分）举行一场电话集会，届时将进行现场直播。",
+          "url": "https://flash.jin10.com/detail/20261101031729946800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 07时15分]"
+        },
+        {
+          "title": "特朗普据悉计划在中期选举次日恢复对伊朗的打击 | 环球市场",
+          "url": "https://www.cls.cn/detail/2521415",
+          "source": "财联社热门",
+          "ranks": [
+            6,
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
-        },
-        {
-          "title": "王骁谈特朗普中期选举处境",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E9%AA%81%E8%B0%88%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%A4%84%E5%A2%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 07时15分]"
         },
         {
           "title": "特朗普抱怨：28天连轴转，真是够了",
@@ -553,6 +608,17 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 07时15分]"
+        },
+        {
+          "title": "王骁谈特朗普中期选举处境",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E9%AA%81%E8%B0%88%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%A4%84%E5%A2%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -572,8 +638,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 07时15分]"
         }
       ]
     },
@@ -603,11 +669,12 @@
           "url": "https://www.cls.cn/detail/2521391",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 07时15分]"
         }
       ]
     }
