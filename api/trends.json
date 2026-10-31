@@ -1,22 +1,95 @@
 {
-  "generated_at": "2026-10-31T17:28:26.343191+08:00",
-  "total_titles_processed": 801,
+  "generated_at": "2026-10-31T23:41:13.427412+08:00",
+  "total_titles_processed": 1028,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 AI AI AGNET",
-      "match_count": 29,
+      "match_count": 44,
       "titles": [
+        {
+          "title": "这届进博会出行有了AI助手",
+          "url": "https://www.douyin.com/hot/2723227",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时40分 ~ 23时41分]"
+        },
+        {
+          "title": "美股AI暴跌,万亿市值蒸发",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368651&amp;topic_name=%E7%BE%8E%E8%82%A1AI%E6%9A%B4%E8%B7%8C%2C%E4%B8%87%E4%BA%BF%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时40分 ~ 23时41分]"
+        },
+        {
+          "title": "AI写文被扒,榜一转头开团榜二",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368606&amp;topic_name=AI%E5%86%99%E6%96%87%E8%A2%AB%E6%89%92%2C%E6%A6%9C%E4%B8%80%E8%BD%AC%E5%A4%B4%E5%BC%80%E5%9B%A2%E6%A6%9C%E4%BA%8C",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            10,
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时32分 ~ 23时41分]"
+        },
+        {
+          "title": "DeepSeek发布全新Agent架构",
+          "url": "https://wallstreetcn.com/livenews/3191994",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
+          "title": "AI回答不合意,老外杠上Grok",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368500&amp;topic_name=AI%E5%9B%9E%E7%AD%94%E4%B8%8D%E5%90%88%E6%84%8F%2C%E8%80%81%E5%A4%96%E6%9D%A0%E4%B8%8AGrok",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            14,
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时32分 ~ 23时41分]"
+        },
         {
           "title": "CRO或成最大赢家？AI重构药企组织范式：“一人管线”横空出世",
           "url": "https://www.cls.cn/detail/2520513",
           "source": "财联社热门",
           "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 23时41分]"
+        },
+        {
+          "title": "DeepSeek发布新的Agent架构",
+          "url": "https://flash.jin10.com/detail/20261031224557124800",
+          "source": "金十数据",
+          "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时28分"
+          "time_info": "23时41分"
         },
         {
           "title": "DeepSeek 居然会对用户说「我去吃饭了」「我去睡了」，为啥会出现这样的现象？",
@@ -31,19 +104,6 @@
           "time_info": "[10时11分 ~ 17时28分]"
         },
         {
-          "title": "AI写文被扒,榜一转头开团榜二",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368606&amp;topic_name=AI%E5%86%99%E6%96%87%E8%A2%AB%E6%89%92%2C%E6%A6%9C%E4%B8%80%E8%BD%AC%E5%A4%B4%E5%BC%80%E5%9B%A2%E6%A6%9C%E4%BA%8C",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时32分 ~ 17时28分]"
-        },
-        {
           "title": "人民日报：警惕“中国AI跑偏论”",
           "url": "https://www.toutiao.com/trending/7701987261797482550/",
           "source": "今日头条",
@@ -54,19 +114,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时32分 ~ 06时53分]"
-        },
-        {
-          "title": "AI回答不合意,老外杠上Grok",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368500&amp;topic_name=AI%E5%9B%9E%E7%AD%94%E4%B8%8D%E5%90%88%E6%84%8F%2C%E8%80%81%E5%A4%96%E6%9D%A0%E4%B8%8AGrok",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时32分 ~ 17时28分]"
         },
         {
           "title": "AI珍珠圣女妆",
@@ -82,6 +129,30 @@
           "time_info": "[02时32分 ~ 17时28分]"
         },
         {
+          "title": "Anthropic冲刺IPO：一场与OpenAI的估值、营收和算力竞赛",
+          "url": "https://www.cls.cn/detail/2521127",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 23时41分]"
+        },
+        {
+          "title": "人民锐评发文驳斥「中国 AI 跑偏论」，如何看待中美在 AI 落地路径上的差异？",
+          "url": "https://www.zhihu.com/question/2099418216976102291",
+          "source": "知乎",
+          "ranks": [
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 23时41分]"
+        },
+        {
           "title": "谷歌暴跌背后的逻辑：AI烧穿了现金流，烧没了回购，还烧着了搜索",
           "url": "https://wallstreetcn.com/articles/3784823",
           "source": "华尔街见闻",
@@ -92,6 +163,61 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时53分 ~ 10时11分]"
+        },
+        {
+          "title": "AI烧钱回报遭拷问！盘中英特尔创纪录暴跌30%、芯片指数跌超9%，科技股“失血”超万亿美元",
+          "url": "https://wallstreetcn.com/articles/3784890",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时40分 ~ 23时41分]"
+        },
+        {
+          "title": "DeepSeek重磅发布：AI开始指挥AI干活",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E9%87%8D%E7%A3%85%E5%8F%91%E5%B8%83%EF%BC%9AAI%E5%BC%80%E5%A7%8B%E6%8C%87%E6%8C%A5AI%E5%B9%B2%E6%B4%BB",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时40分 ~ 23时41分]"
+        },
+        {
+          "title": "2008再现！一文读懂华尔街最热门交易：AI CDS",
+          "url": "https://wallstreetcn.com/articles/3784900",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时40分 ~ 23时41分]"
+        },
+        {
+          "title": "AI短片邪修润魂子",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%E9%82%AA%E4%BF%AE%E6%B6%A6%E9%AD%82%E5%AD%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时40分 ~ 23时41分]"
+        },
+        {
+          "title": "当前AI最紧迫的瓶颈：廉价资金正在枯竭！",
+          "url": "https://wallstreetcn.com/articles/3784910",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时40分 ~ 23时41分]"
         },
         {
           "title": "AI攻克全维度挂谷猜想",
@@ -118,6 +244,50 @@
           "time_info": "[10时11分 ~ 17时28分]"
         },
         {
+          "title": "如何看待「三年内，扩散模型将全面替代大语言模型」的说法？这会给 AI Infra 带来哪些变化？",
+          "url": "https://www.zhihu.com/question/2098823323752690341",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时40分 ~ 23时41分]"
+        },
+        {
+          "title": "「豆包们」正在成为医患之间的「第三人」，大量 AI 问诊对门诊医生造成了什么影响？会有哪些困扰？",
+          "url": "https://www.zhihu.com/question/2096595801644299451",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时40分 ~ 23时41分]"
+        },
+        {
+          "title": "DeepSeek发布全新Agent架构",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%8F%91%E5%B8%83%E5%85%A8%E6%96%B0Agent%E6%9E%B6%E6%9E%84",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时40分 ~ 23时41分]"
+        },
+        {
+          "title": "首部AI电影成本千万周票房不到150万",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%96%E9%83%A8AI%E7%94%B5%E5%BD%B1%E6%88%90%E6%9C%AC%E5%8D%83%E4%B8%87%E5%91%A8%E7%A5%A8%E6%88%BF%E4%B8%8D%E5%88%B0150%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时40分 ~ 23时41分]"
+        },
+        {
           "title": "AWS收入劲增39%但AI支出吓退市场，亚马逊Q3自由现金流恶化，线上销售乏力，盘后跳水｜财报见闻",
           "url": "https://wallstreetcn.com/articles/3784799",
           "source": "华尔街见闻",
@@ -135,9 +305,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
+        },
+        {
+          "title": "招商轮船卡气二期项目首制船“LEKHRAIB”轮命名仪式在韩国举行",
+          "url": "https://flash.jin10.com/detail/20261031223337270800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
         },
         {
           "title": "英特尔暴跌！Q4指引远逊预期，以色列工厂爆炸，PC需求疲软，AI芯片供应受限｜财报见闻",
@@ -157,18 +338,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
-          "title": "人民锐评发文驳斥「中国 AI 跑偏论」，如何看待中美在 AI 落地路径上的差异？",
-          "url": "https://www.zhihu.com/question/2099418216976102291",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -182,17 +352,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
-        },
-        {
-          "title": "Anthropic冲刺IPO：一场与OpenAI的估值、营收和算力竞赛",
-          "url": "https://www.cls.cn/detail/2521127",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
         },
         {
           "title": "微软等五大科技巨头因AI开支大砍八成回购 股东回报比例创至少15年新低",
@@ -212,7 +371,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -237,6 +396,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
+        },
+        {
+          "title": "DeepSeek重磅开源：Agent底座架构！",
+          "url": "https://wallstreetcn.com/livenews/3191979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
         },
         {
           "title": "iPhone Duo的铰链是AI打造的吗",
@@ -289,7 +459,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -333,16 +503,321 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         }
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 15,
+      "keyword_group": "伊朗",
+      "match_count": 26,
       "titles": [
+        {
+          "title": "雷扎伊：如果再爆发战争 伊朗的反击将比以往更具毁灭性",
+          "url": "https://flash.jin10.com/detail/20261031171346046800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
+          "title": "美国中央司令部：伊朗革命卫队有关击毁美军海上无人艇的说法不实。 事实上，目前美国在中东地区的所有军用无人水面艇均已确认状态完好，其中包括一支正在霍尔木兹海峡巡逻、为美国中央司令部防御体系提供支持的先进海上无人艇分队。",
+          "url": "https://wallstreetcn.com/livenews/3191832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时32分 ~ 06时53分]"
+        },
+        {
+          "title": "伊朗最高领袖：要对敌方威胁作立即回应",
+          "url": "https://www.toutiao.com/trending/7702780604714061322/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时40分 ~ 23时41分]"
+        },
+        {
+          "title": "中东媒体：伊朗正在研究万斯来信中的提议",
+          "url": "https://wallstreetcn.com/livenews/3191988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
+          "title": "伊朗外长：伊方暂无与美方会谈的计划",
+          "url": "https://wallstreetcn.com/livenews/3191984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
+          "title": "伊朗外长：目前没有与美国官员会面的计划",
+          "url": "https://wallstreetcn.com/livenews/3191982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
+          "title": "中东媒体：伊朗正在研究万斯来信中的提议",
+          "url": "https://flash.jin10.com/detail/20261031215207013800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
+          "title": "卡塔尔与伊朗举行会谈，推动美伊达成协议",
+          "url": "https://wallstreetcn.com/livenews/3191935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
+          "title": "伊朗外长：目前没有与美国官员会面的计划",
+          "url": "https://flash.jin10.com/detail/20261031214459917800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
+          "title": "美国中央司令部：伊朗革命卫队有关击毁美军海上无人艇的说法不实。事实上，目前美国在中东地区的所有军用无人水面艇均已确认状态完好，其中包括一支正在霍尔木兹海峡巡逻、为美国中央司令部防御体系提供支持的先进海上无人艇分队。",
+          "url": "https://flash.jin10.com/detail/20261031015025044800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "伊朗武装部队总参谋长：伊朗军队已做好准备，将不受地理范围限制地回应来自美国和以色列的“敌人”。军方已制定新的美国和以色列目标清单，涵盖更广泛区域内的相关资产。",
+          "url": "https://flash.jin10.com/detail/20261031213924123800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：美国的信函是“积极一步”",
+          "url": "https://wallstreetcn.com/livenews/3191978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
+          "title": "伊朗武装部队总参谋长：我们不会坐等敌人再采取行动",
+          "url": "https://flash.jin10.com/detail/20261031213733532800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
+          "title": "伊朗代表团前往多哈，与卡塔尔举行会谈",
+          "url": "https://wallstreetcn.com/livenews/3191977",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
+          "title": "伊朗外长：伊朗将继续坚持和抵抗，并凭借自身能力渡过这一艰难时期。",
+          "url": "https://flash.jin10.com/detail/20261031212151756800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
+          "title": "巴基斯坦军方发言人：伊朗加入麦加联合防务联盟不存在障碍，是否加入取决于三个主要参与方的决定。",
+          "url": "https://flash.jin10.com/detail/20261031014632458800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "巴基斯坦军方发言人：巴基斯坦军方对伊朗与美国之间的调解持“谨慎乐观”态度，但谈判面临强大的破坏性因素。",
+          "url": "https://flash.jin10.com/detail/20261031014616691800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "伊朗外长：我们不否认经济压力的存在，但绝不会屈服，也不会放弃尊严。",
+          "url": "https://flash.jin10.com/detail/20261031212009314800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
+          "title": "伊朗外长：伊朗接受国际原子能机构监督的核设施遭到袭击，而该机构没有针对这类情况的检查规程。伊朗与国际原子能机构的合作距离恢复正常状态仍相去甚远。",
+          "url": "https://flash.jin10.com/detail/20261031211942456800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
+          "title": "伊朗外长：伊朗是《不扩散核武器条约》的缔约国，并遵守该条约规定的义务。",
+          "url": "https://flash.jin10.com/detail/20261031211635766800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
+          "title": "伊朗外长：我们不排除任何爆发战争的可能性，并已为所有情况做好准备，我们已升级武器装备、弥补了薄弱环节、测试了新型武器，部队已处于最高战备状态。",
+          "url": "https://flash.jin10.com/detail/20261031211611468800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
+          "title": "伊朗军方发言人：若美国再搞冒险行动，我们将扩大战争范围",
+          "url": "https://flash.jin10.com/detail/20261031155018319800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
+          "title": "伊朗外长：按照我方条件重新开放霍尔木兹海峡，将为就悬而未决的问题与华盛顿恢复谈判铺平道路。",
+          "url": "https://flash.jin10.com/detail/20261031211525288800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
+          "title": "伊朗外长：伊朗要求停止战争，并在所有战线上结束战争，包括黎巴嫩战线。",
+          "url": "https://flash.jin10.com/detail/20261031211414034800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
+          "title": "伊朗外长：我们要求承认我们与阿曼在霍尔木兹海峡共同划定的新航道，并关闭其余航道。",
+          "url": "https://flash.jin10.com/detail/20261031211259403800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
+          "title": "伊朗外长：伊朗提出的条件包括解除《伊斯兰堡备忘录》签署后实施的制裁，以及缩减美国在该地区的驻军规模。我们还要求恢复石油制裁豁免，并解冻伊朗所有被冻结资产，包括存放在卡塔尔的资金。",
+          "url": "https://flash.jin10.com/detail/20261031211033650800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 18,
+      "titles": [
+        {
+          "title": "特朗普据悉计划在中期选举次日恢复对伊朗的打击 | 环球市场",
+          "url": "https://www.cls.cn/detail/2521415",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时11分 ~ 23时41分]"
+        },
         {
           "title": "美媒：特朗普政府已告知盟友打击伊朗具体日期",
           "url": "https://news.ifeng.com/c/8xf1XlqX3zZ",
@@ -355,15 +830,15 @@
           "time_info": "[10时11分 ~ 17时28分]"
         },
         {
-          "title": "特朗普据悉计划在中期选举次日恢复对伊朗的打击 | 环球市场",
-          "url": "https://www.cls.cn/detail/2521415",
+          "title": "消息人士透露：特朗普正计划在美国中期选举之后恢复对伊朗的打击，打击最快可能会发生在11月4日",
+          "url": "https://www.cls.cn/detail/2521560",
           "source": "财联社热门",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时11分 ~ 17时28分]"
+          "time_info": "[23时40分 ~ 23时41分]"
         },
         {
           "title": "阿拉斯加上演“真假美猴王”？特朗普下令严查",
@@ -386,6 +861,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时53分"
+        },
+        {
+          "title": "王骁谈特朗普中期选举处境",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E9%AA%81%E8%B0%88%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%A4%84%E5%A2%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时53分 ~ 23时41分]"
         },
         {
           "title": "特朗普称美伊战争将很快结束 中东局势再临关键窗口",
@@ -411,18 +898,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时32分 ~ 10时11分]"
-        },
-        {
-          "title": "王骁谈特朗普中期选举处境",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E9%AA%81%E8%B0%88%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%A4%84%E5%A2%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时53分 ~ 17时28分]"
         },
         {
           "title": "美国总统特朗普的政府正向立陶宛施压，要求其放宽欧盟对白俄罗斯钾肥出口的制裁，以确保美国农民获得更便宜的化肥，并减少对加拿大的依赖。 欧洲官员反对这一做法。",
@@ -466,9 +941,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
+        },
+        {
+          "title": "美媒：若共和党在中期选举落败 特朗普或更倾向对伊发动军事行动",
+          "url": "https://flash.jin10.com/detail/20261031220313154800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
         },
         {
           "title": "白宫顾问哈塞特：特朗普尊重美联储独立性，10月通胀数据将决定政策走向",
@@ -504,6 +990,17 @@
           "time_info": "10时11分"
         },
         {
+          "title": "特朗普抱怨：28天连轴转，真是够了",
+          "url": "https://wallstreetcn.com/livenews/3191972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
           "title": "报道：特朗普计划在中期选举次日恢复对伊朗的打击",
           "url": "https://wallstreetcn.com/livenews/3191861",
           "source": "华尔街见闻-快讯",
@@ -513,90 +1010,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "雷扎伊：如果再爆发战争 伊朗的反击将比以往更具毁灭性",
-          "url": "https://flash.jin10.com/detail/20261031171346046800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
-          "title": "美国中央司令部：伊朗革命卫队有关击毁美军海上无人艇的说法不实。 事实上，目前美国在中东地区的所有军用无人水面艇均已确认状态完好，其中包括一支正在霍尔木兹海峡巡逻、为美国中央司令部防御体系提供支持的先进海上无人艇分队。",
-          "url": "https://wallstreetcn.com/livenews/3191832",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时32分 ~ 06时53分]"
-        },
-        {
-          "title": "卡塔尔与伊朗举行会谈，推动美伊达成协议",
-          "url": "https://wallstreetcn.com/livenews/3191935",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
-          "title": "美国中央司令部：伊朗革命卫队有关击毁美军海上无人艇的说法不实。事实上，目前美国在中东地区的所有军用无人水面艇均已确认状态完好，其中包括一支正在霍尔木兹海峡巡逻、为美国中央司令部防御体系提供支持的先进海上无人艇分队。",
-          "url": "https://flash.jin10.com/detail/20261031015025044800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时32分"
-        },
-        {
-          "title": "巴基斯坦军方发言人：伊朗加入麦加联合防务联盟不存在障碍，是否加入取决于三个主要参与方的决定。",
-          "url": "https://flash.jin10.com/detail/20261031014632458800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时32分"
-        },
-        {
-          "title": "巴基斯坦军方发言人：巴基斯坦军方对伊朗与美国之间的调解持“谨慎乐观”态度，但谈判面临强大的破坏性因素。",
-          "url": "https://flash.jin10.com/detail/20261031014616691800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时32分"
-        },
-        {
-          "title": "伊朗军方发言人：若美国再搞冒险行动，我们将扩大战争范围",
-          "url": "https://flash.jin10.com/detail/20261031155018319800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
         }
       ]
     },
@@ -689,8 +1102,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时53分 ~ 17时28分]"
+          "appearance_count": 5,
+          "time_info": "[06时53分 ~ 23时41分]"
         },
         {
           "title": "美股恐慌指数VIX波动率日内涨幅达36.5%，报23.52，创4月份以来盘中新高；标普500指数目前跌2.4%。 道指跌737点，跌幅1.4%；纳指跌968.73点，跌幅3.7%，纳斯达克100指数狂泄1270点，跌幅4.3%，费城半导体指数跌1053.994点，跌幅9.15%。",
@@ -740,6 +1153,58 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "国际金价暴跌创近一年新低",
+          "url": "https://www.douyin.com/hot/2722142",
+          "source": "抖音",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 23时41分]"
+        },
+        {
+          "title": "现货黄金失守3900美元关口，创一年新低，金价长期逻辑变了吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34375945",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时40分 ~ 23时41分]"
+        },
+        {
+          "title": "谁在牵引金价走势",
+          "url": "https://www.toutiao.com/trending/7702443620019736118/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时32分 ~ 06时53分]"
+        },
+        {
+          "title": "金价暴跌是买大金镯还是等7字头",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E6%98%AF%E4%B9%B0%E5%A4%A7%E9%87%91%E9%95%AF%E8%BF%98%E6%98%AF%E7%AD%897%E5%AD%97%E5%A4%B4%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时40分 ~ 23时41分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 3,
       "titles": [
@@ -776,35 +1241,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "谁在牵引金价走势",
-          "url": "https://www.toutiao.com/trending/7702443620019736118/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时32分 ~ 06时53分]"
-        },
-        {
-          "title": "国际金价暴跌创近一年新低",
-          "url": "https://www.douyin.com/hot/2722142",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
         }
       ]
     }
