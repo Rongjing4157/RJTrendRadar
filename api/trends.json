@@ -1,1027 +1,612 @@
 {
-  "generated_at": "2026-11-02T18:48:08.451099+08:00",
-  "total_titles_processed": 839,
+  "generated_at": "2026-11-03T04:42:23.656826+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "DeepSeek 梁文锋 AI AI AGNET",
-      "match_count": 37,
+      "keyword_group": "特朗普",
+      "match_count": 27,
       "titles": [
         {
-          "title": "AI的“火” PCB三季报接住了",
-          "url": "https://www.cls.cn/detail/2521696",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时24分 ~ 10时15分]"
-        },
-        {
-          "title": "普通人不配?AI巨头嫌内存浪费",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368792&amp;topic_name=%E6%99%AE%E9%80%9A%E4%BA%BA%E4%B8%8D%E9%85%8D%3FAI%E5%B7%A8%E5%A4%B4%E5%AB%8C%E5%86%85%E5%AD%98%E6%B5%AA%E8%B4%B9",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时24分 ~ 18时48分]"
-        },
-        {
-          "title": "赛博鱼塘!大肥鱼AI涌入鲸鱼吧",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368798&amp;topic_name=%E8%B5%9B%E5%8D%9A%E9%B1%BC%E5%A1%98%21%E5%A4%A7%E8%82%A5%E9%B1%BCAI%E6%B6%8C%E5%85%A5%E9%B2%B8%E9%B1%BC%E5%90%A7",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时24分 ~ 18时48分]"
-        },
-        {
-          "title": "美中期选战即将来袭：选情远比民调复杂，地方博弈牵动AI算力命运",
-          "url": "https://www.cls.cn/detail/2522308",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时47分 ~ 18时48分]"
-        },
-        {
-          "title": "不到10元，AI眼镜秒变“偷拍神器”！一张遮光贴就能撕开隐私红线？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34248283",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时47分 ~ 18时48分]"
-        },
-        {
-          "title": "数据局座谈会要求摸清“用数需求” 物理AI爆发前数采环节或先行",
-          "url": "https://www.cls.cn/detail/2522219",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时47分 ~ 18时48分]"
-        },
-        {
-          "title": "数学协会抵制AI反致舆论反转",
-          "url": "https://search.bilibili.com/all?keyword=%E6%95%B0%E5%AD%A6%E5%8D%8F%E4%BC%9A%E6%8A%B5%E5%88%B6AI%E5%8F%8D%E8%87%B4%E8%88%86%E8%AE%BA%E5%8F%8D%E8%BD%AC",
-          "source": "bilibili 热搜",
+          "title": "路透社/益普索民调显示，在中期选举前，美国总统特朗普的支持率稳定在32%，接近历史最低水平。",
+          "url": "https://flash.jin10.com/detail/20261103042041999800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时15分"
+          "time_info": "04时42分"
         },
         {
-          "title": "90天暴增近1万亿！AI表外负债悄然突破4.1万亿美元",
-          "url": "https://wallstreetcn.com/articles/3784949",
-          "source": "华尔街见闻",
+          "title": "特朗普：没了结伊朗的唯一原因是想“做个好人”",
+          "url": "https://original.ifeng.com/c/8xjCj7c9hdI",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            7,
-            4
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时40分 ~ 18时48分]"
+          "appearance_count": 1,
+          "time_info": "04时42分"
         },
         {
-          "title": "为何 AI 短剧好像放弃了清宫戏，而更倾向于唐 / 宋 / 架空朝代？跟观众偏好、技术、选题、价值观有啥关系吗？",
-          "url": "https://www.zhihu.com/question/2100281204884731770",
-          "source": "知乎",
+          "title": "是否考虑在在中期选举后恢复打击？ 特朗普回答：不",
+          "url": "https://flash.jin10.com/detail/20261103040932384800",
+          "source": "金十数据",
           "ranks": [
-            4,
-            18
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时15分 ~ 18时48分]"
+          "appearance_count": 1,
+          "time_info": "04时42分"
         },
         {
-          "title": "吧友拿十六进制撩AI,回复亮了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368713&amp;topic_name=%E5%90%A7%E5%8F%8B%E6%8B%BF%E5%8D%81%E5%85%AD%E8%BF%9B%E5%88%B6%E6%92%A9AI%2C%E5%9B%9E%E5%A4%8D%E4%BA%AE%E4%BA%86",
-          "source": "贴吧",
+          "title": "标普转涨，特朗普称：不会在中期选举后再次袭击伊朗",
+          "url": "https://wallstreetcn.com/livenews/3192820",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            22
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时24分 ~ 18时48分]"
+          "appearance_count": 1,
+          "time_info": "04时42分"
         },
         {
-          "title": "美股AI暴跌,万亿市值蒸发",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368651&amp;topic_name=%E7%BE%8E%E8%82%A1AI%E6%9A%B4%E8%B7%8C%2C%E4%B8%87%E4%BA%BF%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91",
-          "source": "贴吧",
-          "ranks": [
-            17,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时24分 ~ 18时48分]"
-        },
-        {
-          "title": "AI“完美风暴”剧本：债市“吹响号角”，财报“雪上加霜”，中选“最后一击”？",
-          "url": "https://wallstreetcn.com/articles/3784930",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时24分 ~ 10时15分]"
-        },
-        {
-          "title": "AI带着真金白银来了！CXO分化复苏潮下，谁在狂揽“湿实验”订单？",
-          "url": "https://www.cls.cn/detail/2521722",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时24分 ~ 10时15分]"
-        },
-        {
-          "title": "一生难愈：高盛发现被AI取代的工人通常再就业困难，且往往落入AI的下一个猎场",
-          "url": "https://wallstreetcn.com/articles/3784943",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时24分 ~ 10时15分]"
-        },
-        {
-          "title": "AI给数学教育带来什么？沃尔夫数学奖得主：终结乏味的数学教学方式",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34381316",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时24分 ~ 10时15分]"
-        },
-        {
-          "title": "环球下周看点：AI热潮遇考验 美国中期选举、非农与苹果财报接连来袭",
-          "url": "https://www.cls.cn/detail/2521662",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时24分 ~ 10时15分]"
-        },
-        {
-          "title": "12个AI预测BLG对阵HLE",
-          "url": "https://search.bilibili.com/all?keyword=12%E4%B8%AAAI%E9%A2%84%E6%B5%8BBLG%E5%AF%B9%E9%98%B5HLE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时24分 ~ 10时15分]"
-        },
-        {
-          "title": "AI短片克劳德的救赎",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%E5%85%8B%E5%8A%B3%E5%BE%B7%E7%9A%84%E6%95%91%E8%B5%8E",
-          "source": "bilibili 热搜",
+          "title": "美国总统特朗普：居民个人收入创历史新高，贫困率处于历史低位。 美国出口额创下纪录。 当前就业人数达到史上最高。 美国目前是全球遥遥领先的石油和天然气供应国。",
+          "url": "https://wallstreetcn.com/livenews/3192815",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时24分 ~ 06时40分]"
-        },
-        {
-          "title": "期中“烤”｜“拒绝数据中心会输给中国”？美国社区挑战特朗普AI雄心",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34375606",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时47分 ~ 18时48分]"
-        },
-        {
-          "title": "怎么看百度搜索降价千次 4.9 元，这是针对 DeepSeek 搜索的千次 5 元吗？",
-          "url": "https://www.zhihu.com/question/2099967799934313950",
-          "source": "知乎",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时24分 ~ 06时40分]"
-        },
-        {
-          "title": "媒体：AI模特长着三条腿？如此试衣，怎能让消费者“合身”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34381747",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时24分 ~ 10时15分]"
-        },
-        {
-          "title": "【午报】创业板指半日涨超3%，全市场超4700只个股飘红，AI漫剧概念涨幅居前",
-          "url": "https://www.cls.cn/detail/2522235",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时47分 ~ 18时48分]"
-        },
-        {
-          "title": "红果日活 1.68 亿，AI 短剧一集可能只赚一块钱，对此你怎么看？AI 短剧为何不赚钱？",
-          "url": "https://www.zhihu.com/question/2098854103598239840",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时47分 ~ 18时48分]"
-        },
-        {
-          "title": "AI资本开支见顶？高盛：拐点近了，AI正从“超级主题”变成“常规叙事”",
-          "url": "https://wallstreetcn.com/articles/3784962",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时47分 ~ 18时48分]"
-        },
-        {
-          "title": "【每日收评】三大指数均涨超1%，全市场逾百股涨停，AI漫剧概念再度爆发",
-          "url": "https://www.cls.cn/detail/2522567",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时47分 ~ 18时48分]"
-        },
-        {
-          "title": "DeepSeek Agent小白教程",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Agent%E5%B0%8F%E7%99%BD%E6%95%99%E7%A8%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时47分 ~ 18时48分]"
-        },
-        {
-          "title": "奥特曼称 OpenAI 内部新模型让他兴奋到两晚没睡，这意味着什么？",
-          "url": "https://www.zhihu.com/question/2099437165495300675",
-          "source": "知乎",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时24分 ~ 06时40分]"
-        },
-        {
-          "title": "35岁中专小伙“手搓”AI短剧走红",
-          "url": "https://www.toutiao.com/trending/7703172995954638890/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时47分 ~ 18时48分]"
-        },
-        {
-          "title": "韩国总统李在明：韩国将斥资21.3万亿韩元用于芯片、实体AI和AI数据中心。",
-          "url": "https://wallstreetcn.com/livenews/3192161",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时15分"
-        },
-        {
-          "title": "持续整治“AI魔改” 10月清理违规视频1.1万余条",
-          "url": "https://wallstreetcn.com/livenews/3192515",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
-          "title": "双十一AI暗战：电商想提升交易 消费者要全网比价",
-          "url": "https://www.cls.cn/detail/2521706",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时15分"
-        },
-        {
-          "title": "美国中期选举进入倒计时，债市巨头暂避锋芒：AI投资与财政政策面临重新定价",
-          "url": "https://flash.jin10.com/detail/20261102095718675800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时15分"
-        },
-        {
-          "title": "OpenAI 宣布四项数学研究原则，放弃一切学术署名并捐献 500 万美元，如何理解这项举动？",
-          "url": "https://www.zhihu.com/question/2098363807776994630",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时15分"
-        },
-        {
-          "title": "硅基流动赴港IPO备案申请状态显示为“已接收”，拟冲刺“AI Token工厂第一股”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34376118",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
-          "title": "持续整治“AI魔改” 10月清理违规视频1.1万余条",
-          "url": "https://flash.jin10.com/detail/20261102180455961800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
-          "title": "DeepSeek亮出“超级智能体”架构",
-          "url": "https://www.toutiao.com/trending/7703258129567321638/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时15分"
-        },
-        {
-          "title": "OpenAI和Anthropic都将设立“战情室”（war room），专门确保其平台能提供有关美国中期选举的准确信息——这对两家公司而言均属首次。",
-          "url": "https://flash.jin10.com/detail/20261102175429550800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 28,
-      "titles": [
-        {
-          "title": "特朗普：支持马斯克执掌CNN",
-          "url": "https://news.ifeng.com/c/8xhClkTmeKf",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时24分 ~ 10时15分]"
+          "time_info": "04时42分"
         },
         {
           "title": "美国一公务机在居民区坠毁致 9 死，距特朗普的海湖庄园仅七八公里，具体情况如何？可能是什么原因？",
           "url": "https://www.zhihu.com/question/2100501083466326367",
           "source": "知乎",
           "ranks": [
-            1
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时47分 ~ 18时48分]"
+          "appearance_count": 1,
+          "time_info": "04时42分"
         },
         {
-          "title": "消息人士透露：特朗普正计划在美国中期选举之后恢复对伊朗的打击，打击最快可能会发生在11月4日",
-          "url": "https://www.cls.cn/detail/2521560",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时24分 ~ 06时40分]"
-        },
-        {
-          "title": "特朗普称将邀请泽连斯基参加G20",
-          "url": "https://news.ifeng.com/c/8xhUYqF4JRG",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时24分 ~ 06时40分]"
-        },
-        {
-          "title": "内塔尼亚胡敦促特朗普中期选举后立即打击伊朗",
-          "url": "https://flash.jin10.com/detail/20261102020722377800",
+          "title": "美国总统特朗普：（关于伊朗）事情进展顺利，这就是油价下跌的原因。",
+          "url": "https://flash.jin10.com/detail/20261103035604983800",
           "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
-          "title": "美伊局势追踪：伊朗提出“两日重启计划”，特朗普暗示和谈顺利！",
-          "url": "https://www.cls.cn/detail/2521947",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时15分"
-        },
-        {
-          "title": "特朗普：伊朗要么达成协议，要么我们就终结它。",
-          "url": "https://flash.jin10.com/detail/20261102053825766800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时40分"
-        },
-        {
-          "title": "特朗普称不希望以总理干扰美伊谈判",
-          "url": "https://wallstreetcn.com/livenews/3192103",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时40分"
-        },
-        {
-          "title": "中期选举对特朗普有多重要",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%AF%B9%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%89%E5%A4%9A%E9%87%8D%E8%A6%81",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时24分 ~ 18时48分]"
-        },
-        {
-          "title": "特朗普万圣节扮“特朗普”：有钱人花9个小时打扮，我只有10分钟",
-          "url": "https://news.ifeng.com/c/8xixkoq17yj",
-          "source": "凤凰网",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时47分 ~ 18时48分]"
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "美国总统特朗普：我们现在拥有格陵兰岛。 我们现在也拥有格陵兰了，我们要感谢丹麦和欧洲让这一切成为可能。",
+          "url": "https://wallstreetcn.com/livenews/3192813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
         },
         {
           "title": "一图世界·期中“烤”｜特朗普会成“跛脚鸭”吗？先看懂这些问题",
           "url": "https://m.thepaper.cn/newsDetail_forward_34383514",
           "source": "澎湃新闻",
           "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时47分 ~ 18时48分]"
-        },
-        {
-          "title": "白宫国家经济委员会主任哈塞特：即使民主党掌控国会，政府仍能做很多事。 希望特朗普政府能与掌控国会的任何一方合作。",
-          "url": "https://wallstreetcn.com/livenews/3192083",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时24分 ~ 06时40分]"
-        },
-        {
-          "title": "评论员：特朗普不愿沦为“跛脚鸭”",
-          "url": "https://www.toutiao.com/trending/7703484284970995241/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时47分 ~ 18时48分]"
-        },
-        {
-          "title": "特朗普： 我觉得我们会有一个美好的星期二（中期选举日）。",
-          "url": "https://flash.jin10.com/detail/20261102053823337800",
-          "source": "金十数据",
-          "ranks": [
-            6
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时40分"
+          "time_info": "04时42分"
         },
         {
-          "title": "美公务机坠机点距特朗普私宅仅几公里",
-          "url": "https://www.toutiao.com/trending/7703379957224967730/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时15分"
-        },
-        {
-          "title": "特朗普回应 为何在中期选举前一天在倒影池发表讲话",
-          "url": "https://flash.jin10.com/detail/20261102053759822800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时40分"
-        },
-        {
-          "title": "白宫官员：特朗普计划周一在倒影池发表中期选举收官讲话",
-          "url": "https://flash.jin10.com/detail/20261102015023032800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
-          "title": "特朗普：（关于伊朗）无论以何种方式，我们很快会将其解决。",
-          "url": "https://flash.jin10.com/detail/20261102053418790800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时40分"
-        },
-        {
-          "title": "据华尔街日报：消息人士称，特朗普高级顾问库什纳和美国中东问题特使威特科夫提出了这一计划，涉及向美国中间商出售俄罗斯天然气，以规避欧盟制裁。",
-          "url": "https://flash.jin10.com/detail/20261102100249773800",
+          "title": "美国总统特朗普：（关于伊朗）这不是战争。我们几乎没怎么打仗。",
+          "url": "https://flash.jin10.com/detail/20261103035601505800",
           "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时15分"
+          "time_info": "04时42分"
         },
         {
-          "title": "特朗普：如果我现在与任何民主党人竞选，我们都会以30个百分点的优势获胜。他们总说我不受欢迎，可他们在CNN民调里把亚伯拉罕·林肯打到8%，而我大概是56%左右。我认为我们非常受欢迎。不只是我，而是整个运动。它非常、非常受欢迎。MAGA现在比以往任何时候都更强大。",
-          "url": "https://flash.jin10.com/detail/20261102053134391800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时40分"
-        },
-        {
-          "title": "一架载有九人的飞机坠毁在佛州棕榈滩，特朗普早前曾在此地附近",
-          "url": "https://flash.jin10.com/detail/20261102050905148800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时40分"
-        },
-        {
-          "title": "俄罗斯人权事务专员：在梅拉尼娅·特朗普的协调与斡旋下，我们商定每月向奥列什基组织开展人道主义援助行动。",
-          "url": "https://flash.jin10.com/detail/20261102181028238800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
-          "title": "美媒：特朗普正为伊朗战争寻找替罪羊",
-          "url": "https://flash.jin10.com/detail/20261102050013314800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时40分"
-        },
-        {
-          "title": "美国总统特朗普：刚刚与以色列总理内塔尼亚胡进行了良好交谈，谈及了伊朗问题。",
-          "url": "https://flash.jin10.com/detail/20261102044428335800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时40分"
-        },
-        {
-          "title": "美国总统特朗普：（关于加拿大）我们有一个非常好的协议构想。非常接近达成协议。",
-          "url": "https://flash.jin10.com/detail/20261102044304116800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时40分"
-        },
-        {
-          "title": "据福克斯新闻：特朗普表示，关于伊朗还有一些事情尚未确定。",
-          "url": "https://flash.jin10.com/detail/20261102000011058800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
-          "title": "特朗普称若民主党赢得国会多数席位，自己或将成为“否决先生”",
-          "url": "https://flash.jin10.com/detail/20261101235923003800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
-          "title": "美媒：卢拉和米莱的胜利归功于特朗普",
-          "url": "https://www.toutiao.com/trending/7703164542741646875/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 24,
-      "titles": [
-        {
-          "title": "伊朗：美国若再发动战事，将立即遭到“毁灭性回击”",
-          "url": "https://news.ifeng.com/c/8xhh7srd39s",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时24分 ~ 10时15分]"
-        },
-        {
-          "title": "海湾国家担忧美以再袭伊朗将引发更大规模地区战争",
-          "url": "https://flash.jin10.com/detail/20261102022118697800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
-          "title": "以媒：以色列已准备好与美国联手打击伊朗，但具体目标尚不明确",
-          "url": "https://flash.jin10.com/detail/20261102021932240800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
-          "title": "伊朗称两艘油轮未经授权穿越霍尔木兹海峡触雷爆炸",
-          "url": "https://wallstreetcn.com/livenews/3192100",
+          "title": "纳斯达克100指数跌幅迅速收窄，美国总统特朗普声称“正在伊朗问题上取得胜利”。 我们与伊朗交过战，我们赢了。 这不是战争。我们几乎没怎么打仗。 特朗普告诉Axios：“‘不急于’就重启伊朗战争做决定。”",
+          "url": "https://wallstreetcn.com/livenews/3192812",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时40分"
+          "time_info": "04时42分"
         },
         {
-          "title": "伊朗外长披露“两天计划”，美方履约方能重启伊美谈判",
-          "url": "https://wallstreetcn.com/livenews/3192101",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时40分"
-        },
-        {
-          "title": "伊朗外长：希望美方保持理性",
-          "url": "https://wallstreetcn.com/livenews/3192097",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时24分 ~ 06时40分]"
-        },
-        {
-          "title": "伊朗正研究万斯提议，外长称暂无会谈计划，军方称将“高强度且不受地理限制”对抗美以",
-          "url": "https://wallstreetcn.com/articles/3784928",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时24分 ~ 06时40分]"
-        },
-        {
-          "title": "伊朗外长：磋商是否能取得成果取决于美国的答复",
-          "url": "https://wallstreetcn.com/livenews/3192082",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时24分 ~ 06时40分]"
-        },
-        {
-          "title": "伊朗外长阿拉格齐：与调解方的磋商正在进行中。 能否取得成果取决于美国的答复。",
-          "url": "https://wallstreetcn.com/livenews/3192079",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时24分 ~ 06时40分]"
-        },
-        {
-          "title": "伊朗已购买俄罗斯苏-35战斗机",
-          "url": "https://www.toutiao.com/trending/7703020620740723210/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时15分"
-        },
-        {
-          "title": "盯上“海峡最大油轮船队”！点名“韩国船东”，伊朗警告11月1日采取“全面行动”",
-          "url": "https://wallstreetcn.com/articles/3784929",
+          "title": "与前两次打击前夕类似！特朗普“打谈并举”，海湾国家“忧虑重重”",
+          "url": "https://wallstreetcn.com/articles/3784957",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时24分"
+          "time_info": "04时42分"
         },
         {
-          "title": "伊朗外长：伊朗已做好防御与外交两方面的准备",
-          "url": "https://flash.jin10.com/detail/20261102012616897800",
+          "title": "美国总统特朗普：我们与伊朗交过战，我们赢了。",
+          "url": "https://flash.jin10.com/detail/20261103035559416800",
           "source": "金十数据",
           "ranks": [
-            12
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时24分"
+          "time_info": "04时42分"
         },
         {
-          "title": "伊朗外长阿拉格齐表示，目前正在进行的讨论围绕一项为期7天的提议展开。",
-          "url": "https://flash.jin10.com/detail/20261102011315289800",
-          "source": "金十数据",
+          "title": "美国总统特朗普：伊朗想要达成一份协议，这有可能发生。 伊朗最近还说他们不会拥有核武器。 油价将进一步下跌，因为我们在伊朗问题上正取得胜利。 一切进展顺利，这就是油价下跌的原因。 伊朗要求（美国+以色列）停止杀害他们的领导人们，我们将照办。",
+          "url": "https://wallstreetcn.com/livenews/3192811",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时24分"
+          "time_info": "04时42分"
         },
         {
-          "title": "伊朗外长：麦加协议签署国未以协议成员身份访德黑兰",
-          "url": "https://flash.jin10.com/detail/20261102050836316800",
+          "title": "美媒：美方内部现三种对伊主张 特朗普不急于作出打击决定 卡塔尔推分阶段互信方案",
+          "url": "https://flash.jin10.com/detail/20261103034921746800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "中期选举对特朗普有多重要",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%AF%B9%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%89%E5%A4%9A%E9%87%8D%E8%A6%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "据Axios：美国总统特朗普称，无需急于决定是否在伊朗重启战争。",
+          "url": "https://flash.jin10.com/detail/20261103033749064800",
           "source": "金十数据",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时40分"
+          "time_info": "04时42分"
         },
         {
-          "title": "伊朗媒体报道称，伊朗能源部长表示，最近收到一封来自最高领袖的信，信中强调，我们应朝着这样一种能源体系迈进：家庭不再依赖外部电力来源，而是能够自行发电。",
-          "url": "https://flash.jin10.com/detail/20261102005322723800",
+          "title": "美国总统特朗普：伊朗最近甚至表示他们不会拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20261103033458812800",
           "source": "金十数据",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时24分"
+          "time_info": "04时42分"
         },
         {
-          "title": "伊朗总统府：外长就通过中间方与美国谈判的最新进展向政府作报告。",
-          "url": "https://flash.jin10.com/detail/20261102005058259800",
+          "title": "美国总统特朗普：加上我们对委内瑞拉的征服。我们一天之内就赢得了委内瑞拉战争，拿下了数千亿美元的石油。每一天，石油都在从委内瑞拉源源不断地运来。",
+          "url": "https://flash.jin10.com/detail/20261103033244595800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "美国总统特朗普：如果我们赢得选举，每个成年人将获得5000美元。这笔钱必须在美国境内消费。",
+          "url": "https://flash.jin10.com/detail/20261103033102112800",
           "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时24分"
+          "time_info": "04时42分"
         },
         {
-          "title": "美媒：伊朗代表已从多哈返回，“双方谈判毫无进展”消息不实",
-          "url": "https://flash.jin10.com/detail/20261102044816659800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时40分"
-        },
-        {
-          "title": "据伊朗学生通讯社：巴基斯坦驻德黑兰大使馆否认有关巴基斯坦驻伊朗大使遭到袭击的报道，称相关说法毫无根据。",
-          "url": "https://flash.jin10.com/detail/20261102003242139800",
+          "title": "美国总统特朗普：明天我们有一场重要竞选。",
+          "url": "https://flash.jin10.com/detail/20261103033100663800",
           "source": "金十数据",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时24分"
+          "time_info": "04时42分"
         },
         {
-          "title": "美官员：已向伊朗伸出谈判之手 正与多国磋商局势",
-          "url": "https://flash.jin10.com/detail/20261102094943408800",
+          "title": "美国总统特朗普：我们现在拥有格陵兰岛。",
+          "url": "https://flash.jin10.com/detail/20261103032946874800",
           "source": "金十数据",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时15分"
+          "time_info": "04时42分"
         },
         {
-          "title": "伊朗外长披露“两天计划” 美方履约方能重启伊美谈判",
-          "url": "https://flash.jin10.com/detail/20261102043058018800",
+          "title": "美国总统特朗普：伊朗希望达成协议；这可能会实现。",
+          "url": "https://flash.jin10.com/detail/20261103032859519800",
           "source": "金十数据",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时40分"
+          "time_info": "04时42分"
         },
         {
-          "title": "伊朗抛出“两天计划”",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%8A%9B%E5%87%BA%E2%80%9C%E4%B8%A4%E5%A4%A9%E8%AE%A1%E5%88%92%E2%80%9D",
-          "source": "百度热搜",
+          "title": "美国总统特朗普：美国中期选举是“我们一生中”最重要的选举。",
+          "url": "https://flash.jin10.com/detail/20261103032654054800",
+          "source": "金十数据",
           "ranks": [
-            25
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时15分"
+          "time_info": "04时42分"
         },
         {
-          "title": "伊朗称两艘油轮未经授权穿越霍尔木兹海峡触雷爆炸",
-          "url": "https://flash.jin10.com/detail/20261102042313386800",
+          "title": "美国总统特朗普：民主党人非常腐败。",
+          "url": "https://flash.jin10.com/detail/20261103032639481800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "美国总统特朗普：此前（华盛顿特区）平均每周有3人死亡，而现在这种情况已经不复存在。",
+          "url": "https://flash.jin10.com/detail/20261103032555840800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "美国总统特朗普：我们的整个国家都在蓬勃发展。我们的繁荣程度是前所未有的。",
+          "url": "https://flash.jin10.com/detail/20261103032233822800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋 AI AI AGNET",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "DeepSeek Harness入驻B站",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%85%A5%E9%A9%BBB%E7%AB%99",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "不到10元，AI眼镜秒变“偷拍神器”！一张遮光贴就能撕开隐私红线？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34248283",
+          "source": "澎湃新闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "期中“烤”｜“拒绝数据中心会输给中国”？美国社区挑战特朗普AI雄心",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34375606",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "AI时代数学该何去何从",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E6%95%B0%E5%AD%A6%E8%AF%A5%E4%BD%95%E5%8E%BB%E4%BD%95%E4%BB%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "【焦点复盘】大金融板块做多提振人气，科创50放量涨超3%，AI应用端现大面积涨停",
+          "url": "https://www.cls.cn/detail/2522637",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "AI预测TES对战IG谁胜算大",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%A2%84%E6%B5%8BTES%E5%AF%B9%E6%88%98IG%E8%B0%81%E8%83%9C%E7%AE%97%E5%A4%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "【每日收评】三大指数均涨超1%，全市场逾百股涨停，AI漫剧概念再度爆发",
+          "url": "https://www.cls.cn/detail/2522567",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "赛博鱼塘!大肥鱼AI涌入鲸鱼吧",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368798&amp;topic_name=%E8%B5%9B%E5%8D%9A%E9%B1%BC%E5%A1%98%21%E5%A4%A7%E8%82%A5%E9%B1%BCAI%E6%B6%8C%E5%85%A5%E9%B2%B8%E9%B1%BC%E5%90%A7",
+          "source": "贴吧",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "AI嵌入进博保障：后厨问题“拍照即识”，电梯情况“扫码即知”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34388778",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "普通人不配?AI巨头嫌内存浪费",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368792&amp;topic_name=%E6%99%AE%E9%80%9A%E4%BA%BA%E4%B8%8D%E9%85%8D%3FAI%E5%B7%A8%E5%A4%B4%E5%AB%8C%E5%86%85%E5%AD%98%E6%B5%AA%E8%B4%B9",
+          "source": "贴吧",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "AI攻破困扰化学界50年难题",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%94%BB%E7%A0%B4%E5%9B%B0%E6%89%B0%E5%8C%96%E5%AD%A6%E7%95%8C50%E5%B9%B4%E9%9A%BE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "DeepSeek推出“创作者模式”，强化AI智能体能力",
+          "url": "https://wallstreetcn.com/livenews/3192789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "吧友拿十六进制撩AI,回复亮了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368713&amp;topic_name=%E5%90%A7%E5%8F%8B%E6%8B%BF%E5%8D%81%E5%85%AD%E8%BF%9B%E5%88%B6%E6%92%A9AI%2C%E5%9B%9E%E5%A4%8D%E4%BA%AE%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "DeepSeek Agent小白教程",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Agent%E5%B0%8F%E7%99%BD%E6%95%99%E7%A8%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "国际油价大幅回落，报道：伊朗最高领袖已授权政府进行谈判",
+          "url": "https://wallstreetcn.com/articles/3785007",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "卡塔尔斡旋人员周一赴德黑兰 与伊朗外长讨论潜在美伊协议",
+          "url": "https://flash.jin10.com/detail/20261103034503420800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "伊朗最高领袖：无论谁当选，无论是这一位还是那一位，有一件事非常清楚，美国体系在政治、公民和道德层面正在衰落。",
+          "url": "https://wallstreetcn.com/livenews/3192805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "以色列情报：伊朗谈判立场没有实质变化 战争比协议更近",
+          "url": "https://flash.jin10.com/detail/20261103033854277800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "伊朗第一副总统穆罕默德・礼萨・阿雷夫周一称，美国通过斡旋方传递给德黑兰的信息表明，美方已经承认伊朗在这场战争中取得 “胜利”。",
+          "url": "https://wallstreetcn.com/livenews/3192797",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "伊朗披露军工企业间谍案",
+          "url": "https://www.douyin.com/hot/2724699",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "据路透社：一位了解会谈情况的官员表示，卡塔尔调解人员周一晚前往德黑兰，与伊朗外长阿拉格齐就美伊可能达成的协议举行会谈。",
+          "url": "https://flash.jin10.com/detail/20261103032833818800",
           "source": "金十数据",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时40分"
+          "time_info": "04时42分"
         },
         {
-          "title": "王毅会见伊朗最高国家安全委员会副秘书：当前中东地区战事延宕，以理性务实的精神聚焦政治解决，而不是再次兵戎相见",
-          "url": "https://wallstreetcn.com/livenews/3192451",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
-          "title": "伊朗披露斡旋进展抛出“两天计划”",
-          "url": "https://www.toutiao.com/trending/7703345543170231871/",
+          "title": "伊朗最高领袖赋予政府谈判权限",
+          "url": "https://www.toutiao.com/trending/7703576385864008201/",
           "source": "今日头条",
           "ranks": [
-            28
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时15分"
+          "time_info": "04时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美股冲高回落，纳斯达克100转跌，中概指数涨超3%，布油大跌8%",
+          "url": "https://wallstreetcn.com/articles/3784983",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "美股网络安全公司SentinelOne将与Anthropic的Claude Cowork实现对接。",
+          "url": "https://wallstreetcn.com/livenews/3192807",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "美股费城半导体指数跌超2%，英伟达涨0.33%，博通涨0.16%，美光跌4.92%，英特尔跌7.01%，AMD跌5.50%，高通涨0.05%，台积电跌0.97%，阿斯麦跌1.26%。 纳指转跌，纳斯达克100指数跌幅扩大至将近0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3192800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
         }
       ]
     },
@@ -1030,60 +615,54 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "金价跌回1年前",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%B7%8C%E5%9B%9E1%E5%B9%B4%E5%89%8D",
-          "source": "百度热搜",
+          "title": "黄金价格暴跌背后的全球资本巨变",
+          "url": "https://www.toutiao.com/trending/7703560216603790867/",
+          "source": "今日头条",
           "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时47分 ~ 18时48分]"
-        },
-        {
-          "title": "金价大跌白银价格腰斩",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E7%99%BD%E9%93%B6%E4%BB%B7%E6%A0%BC%E8%85%B0%E6%96%A9&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
+          "time_info": "04时42分"
+        },
         {
-          "title": "美股盘前，明星科技股多数反弹，英特尔、谷歌涨超1%，SK海力士涨超4%，闪迪涨近3%。",
-          "url": "https://wallstreetcn.com/livenews/3192438",
-          "source": "华尔街见闻-快讯",
+          "title": "新人买三金后金价下跌又来买金手链",
+          "url": "https://www.toutiao.com/trending/7702450378943643702/",
+          "source": "今日头条",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时48分"
+          "time_info": "04时42分"
         }
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 1,
+      "keyword_group": "美元",
+      "match_count": 2,
       "titles": [
         {
-          "title": "美股年末行情中盘成长股表现更强？",
-          "url": "https://flash.jin10.com/detail/20261102100854818800",
+          "title": "美元指数2日下跌",
+          "url": "https://flash.jin10.com/detail/20261103041651208800",
           "source": "金十数据",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时15分"
+          "time_info": "04时42分"
+        },
+        {
+          "title": "周一（11月2日）纽约尾盘，ICE美元指数跌0.16%，报101.719点，日内交投区间为101.993-101.426点。 彭博美元指数跌0.16%，报1221.00点，日内交投区间为1224.20-1219.30点。",
+          "url": "https://wallstreetcn.com/livenews/3192819",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
         }
       ]
     }
