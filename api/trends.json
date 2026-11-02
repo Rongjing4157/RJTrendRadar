@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-11-02T10:15:30.808451+08:00",
-  "total_titles_processed": 573,
+  "generated_at": "2026-11-02T18:48:08.451099+08:00",
+  "total_titles_processed": 839,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 AI AI AGNET",
-      "match_count": 24,
+      "match_count": 37,
       "titles": [
-        {
-          "title": "普通人不配?AI巨头嫌内存浪费",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368792&amp;topic_name=%E6%99%AE%E9%80%9A%E4%BA%BA%E4%B8%8D%E9%85%8D%3FAI%E5%B7%A8%E5%A4%B4%E5%AB%8C%E5%86%85%E5%AD%98%E6%B5%AA%E8%B4%B9",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时24分 ~ 10时15分]"
-        },
         {
           "title": "AI的“火” PCB三季报接住了",
           "url": "https://www.cls.cn/detail/2521696",
@@ -31,15 +20,61 @@
           "time_info": "[02时24分 ~ 10时15分]"
         },
         {
+          "title": "普通人不配?AI巨头嫌内存浪费",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368792&amp;topic_name=%E6%99%AE%E9%80%9A%E4%BA%BA%E4%B8%8D%E9%85%8D%3FAI%E5%B7%A8%E5%A4%B4%E5%AB%8C%E5%86%85%E5%AD%98%E6%B5%AA%E8%B4%B9",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时24分 ~ 18时48分]"
+        },
+        {
           "title": "赛博鱼塘!大肥鱼AI涌入鲸鱼吧",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368798&amp;topic_name=%E8%B5%9B%E5%8D%9A%E9%B1%BC%E5%A1%98%21%E5%A4%A7%E8%82%A5%E9%B1%BCAI%E6%B6%8C%E5%85%A5%E9%B2%B8%E9%B1%BC%E5%90%A7",
           "source": "贴吧",
           "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时24分 ~ 18时48分]"
+        },
+        {
+          "title": "美中期选战即将来袭：选情远比民调复杂，地方博弈牵动AI算力命运",
+          "url": "https://www.cls.cn/detail/2522308",
+          "source": "财联社热门",
+          "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时24分 ~ 10时15分]"
+          "appearance_count": 2,
+          "time_info": "[18时47分 ~ 18时48分]"
+        },
+        {
+          "title": "不到10元，AI眼镜秒变“偷拍神器”！一张遮光贴就能撕开隐私红线？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34248283",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时47分 ~ 18时48分]"
+        },
+        {
+          "title": "数据局座谈会要求摸清“用数需求” 物理AI爆发前数采环节或先行",
+          "url": "https://www.cls.cn/detail/2522219",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时47分 ~ 18时48分]"
         },
         {
           "title": "数学协会抵制AI反致舆论反转",
@@ -48,20 +83,58 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
+        },
+        {
+          "title": "90天暴增近1万亿！AI表外负债悄然突破4.1万亿美元",
+          "url": "https://wallstreetcn.com/articles/3784949",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时40分 ~ 18时48分]"
         },
         {
           "title": "为何 AI 短剧好像放弃了清宫戏，而更倾向于唐 / 宋 / 架空朝代？跟观众偏好、技术、选题、价值观有啥关系吗？",
           "url": "https://www.zhihu.com/question/2100281204884731770",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时15分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时15分 ~ 18时48分]"
+        },
+        {
+          "title": "吧友拿十六进制撩AI,回复亮了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368713&amp;topic_name=%E5%90%A7%E5%8F%8B%E6%8B%BF%E5%8D%81%E5%85%AD%E8%BF%9B%E5%88%B6%E6%92%A9AI%2C%E5%9B%9E%E5%A4%8D%E4%BA%AE%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时24分 ~ 18时48分]"
+        },
+        {
+          "title": "美股AI暴跌,万亿市值蒸发",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368651&amp;topic_name=%E7%BE%8E%E8%82%A1AI%E6%9A%B4%E8%B7%8C%2C%E4%B8%87%E4%BA%BF%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91",
+          "source": "贴吧",
+          "ranks": [
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时24分 ~ 18时48分]"
         },
         {
           "title": "AI“完美风暴”剧本：债市“吹响号角”，财报“雪上加霜”，中选“最后一击”？",
@@ -126,28 +199,6 @@
           "time_info": "[02时24分 ~ 10时15分]"
         },
         {
-          "title": "吧友拿十六进制撩AI,回复亮了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368713&amp;topic_name=%E5%90%A7%E5%8F%8B%E6%8B%BF%E5%8D%81%E5%85%AD%E8%BF%9B%E5%88%B6%E6%92%A9AI%2C%E5%9B%9E%E5%A4%8D%E4%BA%AE%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时24分 ~ 10时15分]"
-        },
-        {
-          "title": "美股AI暴跌,万亿市值蒸发",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368651&amp;topic_name=%E7%BE%8E%E8%82%A1AI%E6%9A%B4%E8%B7%8C%2C%E4%B8%87%E4%BA%BF%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91",
-          "source": "贴吧",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时24分 ~ 10时15分]"
-        },
-        {
           "title": "12个AI预测BLG对阵HLE",
           "url": "https://search.bilibili.com/all?keyword=12%E4%B8%AAAI%E9%A2%84%E6%B5%8BBLG%E5%AF%B9%E9%98%B5HLE",
           "source": "bilibili 热搜",
@@ -170,6 +221,17 @@
           "time_info": "[02时24分 ~ 06时40分]"
         },
         {
+          "title": "期中“烤”｜“拒绝数据中心会输给中国”？美国社区挑战特朗普AI雄心",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34375606",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时47分 ~ 18时48分]"
+        },
+        {
           "title": "怎么看百度搜索降价千次 4.9 元，这是针对 DeepSeek 搜索的千次 5 元吗？",
           "url": "https://www.zhihu.com/question/2099967799934313950",
           "source": "知乎",
@@ -180,18 +242,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时24分 ~ 06时40分]"
-        },
-        {
-          "title": "90天暴增近1万亿！AI表外负债悄然突破4.1万亿美元",
-          "url": "https://wallstreetcn.com/articles/3784949",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时40分 ~ 10时15分]"
         },
         {
           "title": "媒体：AI模特长着三条腿？如此试衣，怎能让消费者“合身”",
@@ -206,6 +256,61 @@
           "time_info": "[02时24分 ~ 10时15分]"
         },
         {
+          "title": "【午报】创业板指半日涨超3%，全市场超4700只个股飘红，AI漫剧概念涨幅居前",
+          "url": "https://www.cls.cn/detail/2522235",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时47分 ~ 18时48分]"
+        },
+        {
+          "title": "红果日活 1.68 亿，AI 短剧一集可能只赚一块钱，对此你怎么看？AI 短剧为何不赚钱？",
+          "url": "https://www.zhihu.com/question/2098854103598239840",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时47分 ~ 18时48分]"
+        },
+        {
+          "title": "AI资本开支见顶？高盛：拐点近了，AI正从“超级主题”变成“常规叙事”",
+          "url": "https://wallstreetcn.com/articles/3784962",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时47分 ~ 18时48分]"
+        },
+        {
+          "title": "【每日收评】三大指数均涨超1%，全市场逾百股涨停，AI漫剧概念再度爆发",
+          "url": "https://www.cls.cn/detail/2522567",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时47分 ~ 18时48分]"
+        },
+        {
+          "title": "DeepSeek Agent小白教程",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Agent%E5%B0%8F%E7%99%BD%E6%95%99%E7%A8%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时47分 ~ 18时48分]"
+        },
+        {
           "title": "奥特曼称 OpenAI 内部新模型让他兴奋到两晚没睡，这意味着什么？",
           "url": "https://www.zhihu.com/question/2099437165495300675",
           "source": "知乎",
@@ -218,15 +323,37 @@
           "time_info": "[02时24分 ~ 06时40分]"
         },
         {
+          "title": "35岁中专小伙“手搓”AI短剧走红",
+          "url": "https://www.toutiao.com/trending/7703172995954638890/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时47分 ~ 18时48分]"
+        },
+        {
           "title": "韩国总统李在明：韩国将斥资21.3万亿韩元用于芯片、实体AI和AI数据中心。",
           "url": "https://wallstreetcn.com/livenews/3192161",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
+        },
+        {
+          "title": "持续整治“AI魔改” 10月清理违规视频1.1万余条",
+          "url": "https://wallstreetcn.com/livenews/3192515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         },
         {
           "title": "双十一AI暗战：电商想提升交易 消费者要全网比价",
@@ -235,7 +362,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
         },
@@ -246,7 +373,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
         },
@@ -257,7 +384,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
         },
@@ -273,21 +400,43 @@
           "time_info": "02时24分"
         },
         {
+          "title": "持续整治“AI魔改” 10月清理违规视频1.1万余条",
+          "url": "https://flash.jin10.com/detail/20261102180455961800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
           "title": "DeepSeek亮出“超级智能体”架构",
           "url": "https://www.toutiao.com/trending/7703258129567321638/",
           "source": "今日头条",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
+        },
+        {
+          "title": "OpenAI和Anthropic都将设立“战情室”（war room），专门确保其平台能提供有关美国中期选举的准确信息——这对两家公司而言均属首次。",
+          "url": "https://flash.jin10.com/detail/20261102175429550800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普：支持马斯克执掌CNN",
@@ -299,6 +448,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时24分 ~ 10时15分]"
+        },
+        {
+          "title": "美国一公务机在居民区坠毁致 9 死，距特朗普的海湖庄园仅七八公里，具体情况如何？可能是什么原因？",
+          "url": "https://www.zhihu.com/question/2100501083466326367",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时47分 ~ 18时48分]"
         },
         {
           "title": "消息人士透露：特朗普正计划在美国中期选举之后恢复对伊朗的打击，打击最快可能会发生在11月4日",
@@ -340,7 +500,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
         },
@@ -367,6 +527,41 @@
           "time_info": "06时40分"
         },
         {
+          "title": "中期选举对特朗普有多重要",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%AF%B9%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%89%E5%A4%9A%E9%87%8D%E8%A6%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时24分 ~ 18时48分]"
+        },
+        {
+          "title": "特朗普万圣节扮“特朗普”：有钱人花9个小时打扮，我只有10分钟",
+          "url": "https://news.ifeng.com/c/8xixkoq17yj",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时47分 ~ 18时48分]"
+        },
+        {
+          "title": "一图世界·期中“烤”｜特朗普会成“跛脚鸭”吗？先看懂这些问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34383514",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时47分 ~ 18时48分]"
+        },
+        {
           "title": "白宫国家经济委员会主任哈塞特：即使民主党掌控国会，政府仍能做很多事。 希望特朗普政府能与掌控国会的任何一方合作。",
           "url": "https://wallstreetcn.com/livenews/3192083",
           "source": "华尔街见闻-快讯",
@@ -379,16 +574,15 @@
           "time_info": "[02时24分 ~ 06时40分]"
         },
         {
-          "title": "中期选举对特朗普有多重要",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%AF%B9%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%89%E5%A4%9A%E9%87%8D%E8%A6%81",
-          "source": "bilibili 热搜",
+          "title": "评论员：特朗普不愿沦为“跛脚鸭”",
+          "url": "https://www.toutiao.com/trending/7703484284970995241/",
+          "source": "今日头条",
           "ranks": [
-            22,
-            16
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时24分 ~ 06时40分]"
+          "time_info": "[18时47分 ~ 18时48分]"
         },
         {
           "title": "特朗普： 我觉得我们会有一个美好的星期二（中期选举日）。",
@@ -408,7 +602,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
         },
@@ -452,7 +646,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
         },
@@ -477,6 +671,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时40分"
+        },
+        {
+          "title": "俄罗斯人权事务专员：在梅拉尼娅·特朗普的协调与斡旋下，我们商定每月向奥列什基组织开展人道主义援助行动。",
+          "url": "https://flash.jin10.com/detail/20261102181028238800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         },
         {
           "title": "美媒：特朗普正为伊朗战争寻找替罪羊",
@@ -548,7 +753,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "伊朗：美国若再发动战事，将立即遭到“毁灭性回击”",
@@ -660,7 +865,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
         },
@@ -759,7 +964,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
         },
@@ -781,7 +986,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
         },
@@ -797,13 +1002,24 @@
           "time_info": "06时40分"
         },
         {
+          "title": "王毅会见伊朗最高国家安全委员会副秘书：当前中东地区战事延宕，以理性务实的精神聚焦政治解决，而不是再次兵戎相见",
+          "url": "https://wallstreetcn.com/livenews/3192451",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
           "title": "伊朗披露斡旋进展抛出“两天计划”",
           "url": "https://www.toutiao.com/trending/7703345543170231871/",
           "source": "今日头条",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
         }
@@ -811,8 +1027,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "金价跌回1年前",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%B7%8C%E5%9B%9E1%E5%B9%B4%E5%89%8D",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时47分 ~ 18时48分]"
+        },
         {
           "title": "金价大跌白银价格腰斩",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E7%99%BD%E9%93%B6%E4%BB%B7%E6%A0%BC%E8%85%B0%E6%96%A9&t=31&band_rank=14&Refer=top",
@@ -820,9 +1047,26 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股盘前，明星科技股多数反弹，英特尔、谷歌涨超1%，SK海力士涨超4%，闪迪涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/3192438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         }
       ]
     },
@@ -837,7 +1081,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
         }
