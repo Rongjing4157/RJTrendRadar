@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-04T13:43:50.432780+08:00",
-  "total_titles_processed": 688,
+  "generated_at": "2026-11-04T22:07:43.050272+08:00",
+  "total_titles_processed": 938,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 47,
       "titles": [
         {
           "title": "特朗普欲阻止加州清点2万多张选票，美最高法驳回",
@@ -35,11 +35,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时20分 ~ 13时43分]"
+          "appearance_count": 5,
+          "time_info": "[02时20分 ~ 22时07分]"
         },
         {
           "title": "特朗普祝贺民主党",
@@ -48,7 +49,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -59,7 +60,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -92,9 +93,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
+        },
+        {
+          "title": "特朗普态度转折，称渴望与民主党达成协议",
+          "url": "https://news.ifeng.com/c/8xmRq6xG2Qj",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
         },
         {
           "title": "据纽约时报：以色列分享情报，声称伊朗正考虑使用化学武器。美国官员对以色列的报告意见不一，一些人将其与2002年伊拉克大规模杀伤性武器情报相提并论；部分美国和海湾官员怀疑内塔尼亚胡正试图迫使特朗普重新卷入战争。",
@@ -125,7 +137,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -136,7 +148,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -152,15 +164,37 @@
           "time_info": "07时56分"
         },
         {
+          "title": "特朗普：民主党在中期选举中取得优势，但我有完全否决权、共和党输一大原因是伊朗",
+          "url": "https://wallstreetcn.com/articles/3785146",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
+        },
+        {
           "title": "美国总统特朗普：如果伊朗表现良好，我们可以签署一些协议。 我可以很轻松地完成在伊朗的任务。 石油正从霍尔木兹海峡运出，我们做得太棒了。 已与内塔尼亚胡谈过资金和支持问题，他同意我的看法。",
           "url": "https://wallstreetcn.com/livenews/3193848",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
+        },
+        {
+          "title": "特朗普为何突然终止军援以色列？专家：看似突然，实则是权宜之计",
+          "url": "https://original.ifeng.com/c/8xmWDdJbh5C",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
         },
         {
           "title": "期中“烤”｜战争、物价与流量：一手托起特朗普的美国播客开始冷落他",
@@ -244,13 +278,24 @@
           "time_info": "[07时55分 ~ 07时56分]"
         },
         {
+          "title": "特朗普：我不后悔",
+          "url": "https://news.ifeng.com/c/8xmOAlY7FJn",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
+        },
+        {
           "title": "美总统特朗普承认民主党在中期选举中取得优势 并称他拥有完全的否决权",
           "url": "https://wallstreetcn.com/livenews/3193845",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -261,7 +306,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -272,7 +317,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -283,7 +328,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -294,7 +339,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -305,7 +350,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -316,7 +361,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -338,7 +383,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -360,7 +405,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -393,9 +438,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
+        },
+        {
+          "title": "特朗普：对伊朗发动了“小规模攻击”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34398577",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
         },
         {
           "title": "期中“烤”｜在特朗普时代吃低保：每月300美元变57美元，她说“政府把我往水底按”",
@@ -404,7 +460,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -415,9 +471,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
+        },
+        {
+          "title": "特朗普承认伊朗战事影响中期选举",
+          "url": "https://www.toutiao.com/trending/7703163902487117865/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
         },
         {
           "title": "美国总统特朗普：与以色列总理内塔尼亚胡讨论了资金和支持问题；他同意我的看法。",
@@ -426,9 +493,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
+        },
+        {
+          "title": "特朗普政府面临“跛脚鸭”风险",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E9%9D%A2%E4%B8%B4%E2%80%9C%E8%B7%9B%E8%84%9A%E9%B8%AD%E2%80%9D%E9%A3%8E%E9%99%A9",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
         },
         {
           "title": "特朗普：民主党人会提交疯狂的法案，我会否决它们",
@@ -437,7 +515,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -448,7 +526,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         }
@@ -456,7 +534,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋 AI AI AGNET",
-      "match_count": 19,
+      "match_count": 33,
       "titles": [
         {
           "title": "基于 DeepSeek Harness 的手机插件 DSH Go 上线后 Star 破 4 千，实际体验如何？",
@@ -483,26 +561,38 @@
           "time_info": "[02时20分 ~ 07时56分]"
         },
         {
+          "title": "吧友实测:AI偏爱当女孩",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368950&amp;topic_name=%E5%90%A7%E5%8F%8B%E5%AE%9E%E6%B5%8B%3AAI%E5%81%8F%E7%88%B1%E5%BD%93%E5%A5%B3%E5%AD%A9",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时43分 ~ 22时07分]"
+        },
+        {
           "title": "历史性大胜！民主党赢下两院、还要横扫州长选举，美股期货跳水、AI板块重挫，美元下跌，美债上涨，日韩股市均跌4%",
           "url": "https://wallstreetcn.com/articles/3785134",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
         {
-          "title": "吧友实测:AI偏爱当女孩",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368950&amp;topic_name=%E5%90%A7%E5%8F%8B%E5%AE%9E%E6%B5%8B%3AAI%E5%81%8F%E7%88%B1%E5%BD%93%E5%A5%B3%E5%AD%A9",
-          "source": "贴吧",
+          "title": "嫁金钗忘删AI水印了",
+          "url": "https://s.weibo.com/weibo?q=%E5%AB%81%E9%87%91%E9%92%97%E5%BF%98%E5%88%A0AI%E6%B0%B4%E5%8D%B0%E4%BA%86&t=31&band_rank=1&Refer=top",
+          "source": "微博",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时43分"
+          "time_info": "22时07分"
         },
         {
           "title": "美股收盘：纳指反弹收高0.83% AI科技巨头集体回暖",
@@ -517,6 +607,39 @@
           "time_info": "[07时55分 ~ 13时43分]"
         },
         {
+          "title": "马斯克：AI算力将100%搬上太空",
+          "url": "https://www.toutiao.com/trending/7704303571793088042/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
+        },
+        {
+          "title": "国行苹果AI接入得物，今起开放测试",
+          "url": "https://wallstreetcn.com/livenews/3194296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
+        },
+        {
+          "title": "DeepSeek Harness零基础全流程教学",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E6%95%99%E5%AD%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
+        },
+        {
           "title": "DeepSeek Agent小白教程",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Agent%E5%B0%8F%E7%99%BD%E6%95%99%E7%A8%8B",
           "source": "bilibili 热搜",
@@ -527,6 +650,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时20分 ~ 07时56分]"
+        },
+        {
+          "title": "DeepSeek为什么要开源",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%BC%80%E6%BA%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时20分 ~ 22时07分]"
         },
         {
           "title": "李佳琦直播间半小时售出 2 万亿 Token，AI Token 会成为未来直播带货的热销品吗？",
@@ -575,6 +711,18 @@
           "time_info": "[02时20分 ~ 07时56分]"
         },
         {
+          "title": "AI有意识吗？——从脑机智能与脑机接口谈起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34390827",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时43分 ~ 22时07分]"
+        },
+        {
           "title": "AI 零代码手写算子速度比 DeepSeek 人类手写巅峰还快 9.8%，这意味着什么？",
           "url": "https://www.zhihu.com/question/2099804620293927443",
           "source": "知乎",
@@ -597,18 +745,6 @@
           "time_info": "[07时55分 ~ 07时56分]"
         },
         {
-          "title": "DeepSeek为什么要开源",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%BC%80%E6%BA%90",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时20分 ~ 13时43分]"
-        },
-        {
           "title": "DeepSeek V5计划基于昇腾训练",
           "url": "https://www.douyin.com/hot/2726996",
           "source": "抖音",
@@ -626,20 +762,75 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
         {
-          "title": "AI有意识吗？——从脑机智能与脑机接口谈起",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34390827",
-          "source": "澎湃新闻",
+          "title": "AI短剧《持械入宋》为何火了",
+          "url": "https://www.toutiao.com/trending/7704243006215294507/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
+        },
+        {
+          "title": "以色列一安全公司说部分AI网络入侵系人为失误",
+          "url": "https://wallstreetcn.com/livenews/3194292",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
+        },
+        {
+          "title": "豆包用户数被红果超越，这说明了什么？普通人对 AI 的真实需求被高估了吗？",
+          "url": "https://www.zhihu.com/question/2100943272122250679",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
+        },
+        {
+          "title": "巴彦淖尔一医院大楼起火图系AI生成",
+          "url": "https://www.toutiao.com/trending/7702735035199295010/",
+          "source": "今日头条",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时43分"
+          "time_info": "22时07分"
+        },
+        {
+          "title": "网传 DeepSeek V5 已经做出来了但官方未发布，是真的吗？可能什么时候发布？",
+          "url": "https://www.zhihu.com/question/2099896271318397900",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
+        },
+        {
+          "title": "字节跳动限制外部AI工具访问内部资料？知情人士回应",
+          "url": "https://wallstreetcn.com/livenews/3194283",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
         },
         {
           "title": "AI大臣：英国对“极有可能”发生的黑客袭击毫无准备",
@@ -651,6 +842,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "苹果国行AI与努比亚智能体对比",
+          "url": "https://www.douyin.com/hot/2728815",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
+        },
+        {
+          "title": "字节AI开发平台“扣子”企业版下架",
+          "url": "https://www.baidu.com/s?wd=%E5%AD%97%E8%8A%82AI%E5%BC%80%E5%8F%91%E5%B9%B3%E5%8F%B0%E2%80%9C%E6%89%A3%E5%AD%90%E2%80%9D%E4%BC%81%E4%B8%9A%E7%89%88%E4%B8%8B%E6%9E%B6",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
         },
         {
           "title": "AI复刻超能勇士经典片头",
@@ -673,12 +886,220 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "欧洲央行行长候选人诺特：欧洲央行随后将采取“略显鹰派”的政策应对。 人工智能将推动生产率增长。 通过明智采用，企业可从AI中获益。 允许更多整合有望进一步提振生产率增长。 欧洲因缺乏一体化资本市场而受困。",
+          "url": "https://wallstreetcn.com/livenews/3194271",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
+        },
+        {
+          "title": "乌镇峰会发布开放AI行动倡议 推动算力数据共建共享",
+          "url": "https://wallstreetcn.com/livenews/3194270",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "美国中选“最可能剧本”，将是美股“最危险剧本”？",
+          "url": "https://wallstreetcn.com/articles/3785069",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时20分 ~ 13时43分]"
+        },
+        {
+          "title": "芯片股拖累美股指，纳指100跌入技术调整，存储、光通信下挫，油价大跌提振黄金大反弹",
+          "url": "https://wallstreetcn.com/articles/3784983",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        },
+        {
+          "title": "民主党横扫国会！美股盘前纳指期货转跌，英伟达跌超1%、SpaceX跌逾8%，黄金站上4000美元",
+          "url": "https://wallstreetcn.com/articles/3785134",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
+        },
+        {
+          "title": "高通美股盘前涨超4%，SpaceX选择与高通合作，加速推进星链业务。",
+          "url": "https://wallstreetcn.com/livenews/3194300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
+        },
+        {
+          "title": "美国中期选举日，美股小幅反弹，半导体ETF领涨，光通信反弹，国际油价走低",
+          "url": "https://wallstreetcn.com/articles/3785045",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        },
+        {
+          "title": "等待最后一跌？大摩Wilson：无论中选结果如何，都或是抄底美股的良机",
+          "url": "https://wallstreetcn.com/articles/3785077",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时20分 ~ 07时56分]"
+        },
+        {
+          "title": "苹果换帅后首份财报引发股价走弱 美股市场熬到关键节点 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2524206",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时20分 ~ 07时56分]"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-11-04）",
+          "url": "https://flash.jin10.com/detail/20261104214847502800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
+        },
+        {
+          "title": "美股期货走高，标普500指数期货上涨0.3%，纳斯达克100指数期货涨0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3193632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时56分"
+        },
+        {
+          "title": "金十图示：2026年11月03日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20261104013123770800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        },
+        {
+          "title": "金十图示：2026年11月03日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20261104013026114800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3194298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
+        },
+        {
+          "title": "美股开盘：苹果股价大跌近4%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E8%8B%B9%E6%9E%9C%E8%82%A1%E4%BB%B7%E5%A4%A7%E8%B7%8C%E8%BF%914%25",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        },
+        {
+          "title": "CVS美股盘后涨3%，媒体报道称，该公司考虑拆分。",
+          "url": "https://wallstreetcn.com/livenews/3193620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时56分"
+        },
+        {
+          "title": "AMD美股盘后一度上涨超过14.69%，报555美元。",
+          "url": "https://wallstreetcn.com/livenews/3193615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时56分"
+        },
+        {
+          "title": "AMD美股盘前下跌1.2%，抹去了此前最高达8.1%的涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3194269",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "伊朗军方提出五项和平原则：解除制裁、战争赔偿，还要霍尔木兹海峡主权......",
@@ -704,6 +1125,17 @@
           "time_info": "02时20分"
         },
         {
+          "title": "巴基斯坦总理：巴基斯坦与伊朗及其他地区国家近期的外交接触取得了“非常积极”的进展。他强调，伊斯兰堡将继续努力缓解地区紧张局势、恢复中东和平，并在地区事务中发挥建设性作用。",
+          "url": "https://flash.jin10.com/detail/20261104215004227800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
+        },
+        {
           "title": "美伊停战谈判仍存重大分歧！伊朗坚持七项条件：否则霍尔木兹海峡不会重开",
           "url": "https://www.cls.cn/detail/2524356",
           "source": "财联社热门",
@@ -722,9 +1154,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
+        },
+        {
+          "title": "伊朗最高领袖穆杰塔巴·哈梅内伊：伊朗民族不久将迎来胜利、繁荣和全面进步，并为美国统治的进一步加速衰落创造条件。",
+          "url": "https://flash.jin10.com/detail/20261104214922275800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
         },
         {
           "title": "边谈边打！报道：美军中选前夕袭击了伊朗格什姆岛，谈判信号同步推进",
@@ -767,7 +1210,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -778,7 +1221,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -833,140 +1276,26 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         }
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 11,
+      "keyword_group": "金价",
+      "match_count": 1,
       "titles": [
         {
-          "title": "美国中选“最可能剧本”，将是美股“最危险剧本”？",
-          "url": "https://wallstreetcn.com/articles/3785069",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时20分 ~ 13时43分]"
-        },
-        {
-          "title": "芯片股拖累美股指，纳指100跌入技术调整，存储、光通信下挫，油价大跌提振黄金大反弹",
-          "url": "https://wallstreetcn.com/articles/3784983",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "美国中期选举日，美股小幅反弹，半导体ETF领涨，光通信反弹，国际油价走低",
-          "url": "https://wallstreetcn.com/articles/3785045",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "等待最后一跌？大摩Wilson：无论中选结果如何，都或是抄底美股的良机",
-          "url": "https://wallstreetcn.com/articles/3785077",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时20分 ~ 07时56分]"
-        },
-        {
-          "title": "苹果换帅后首份财报引发股价走弱 美股市场熬到关键节点 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2524206",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时20分 ~ 07时56分]"
-        },
-        {
-          "title": "美股期货走高，标普500指数期货上涨0.3%，纳斯达克100指数期货涨0.6%。",
-          "url": "https://wallstreetcn.com/livenews/3193632",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时56分"
-        },
-        {
-          "title": "金十图示：2026年11月03日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20261104013123770800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "金十图示：2026年11月03日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20261104013026114800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "美股开盘：苹果股价大跌近4%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E8%8B%B9%E6%9E%9C%E8%82%A1%E4%BB%B7%E5%A4%A7%E8%B7%8C%E8%BF%914%25",
+          "title": "国际金价 直线拉升",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7+%E7%9B%B4%E7%BA%BF%E6%8B%89%E5%8D%87",
           "source": "百度热搜",
           "ranks": [
-            18
+            24
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "CVS美股盘后涨3%，媒体报道称，该公司考虑拆分。",
-          "url": "https://wallstreetcn.com/livenews/3193620",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时56分"
-        },
-        {
-          "title": "AMD美股盘后一度上涨超过14.69%，报555美元。",
-          "url": "https://wallstreetcn.com/livenews/3193615",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时56分"
+          "time_info": "22时07分"
         }
       ]
     },
@@ -998,7 +1327,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         }
