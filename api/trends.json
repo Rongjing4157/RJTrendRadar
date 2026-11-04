@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-04T07:56:14.478331+08:00",
-  "total_titles_processed": 453,
+  "generated_at": "2026-11-04T13:43:50.432780+08:00",
+  "total_titles_processed": 688,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 40,
       "titles": [
         {
           "title": "特朗普欲阻止加州清点2万多张选票，美最高法驳回",
@@ -30,13 +30,47 @@
           "time_info": "[02时20分 ~ 07时56分]"
         },
         {
+          "title": "伊朗拒绝开放霍尔木兹，要求美国回应七项条件，特朗普称美军发动“小规模攻击”",
+          "url": "https://wallstreetcn.com/articles/3785095",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时20分 ~ 13时43分]"
+        },
+        {
+          "title": "特朗普祝贺民主党",
+          "url": "https://www.toutiao.com/trending/7703385100976767039/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "美国中期选举：特朗普向民主党人表示祝贺",
+          "url": "https://news.ifeng.com/loc/timeline/event/8xkRLVDrOe5?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
           "title": "美国总统特朗普：我们似乎正在实现所有目标。",
           "url": "https://flash.jin10.com/detail/20261104073859591800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -47,9 +81,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        },
+        {
+          "title": "特朗普承认民主党取得优势",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E6%B0%91%E4%B8%BB%E5%85%9A%E5%8F%96%E5%BE%97%E4%BC%98%E5%8A%BF",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
         },
         {
           "title": "据纽约时报：以色列分享情报，声称伊朗正考虑使用化学武器。美国官员对以色列的报告意见不一，一些人将其与2002年伊拉克大规模杀伤性武器情报相提并论；部分美国和海湾官员怀疑内塔尼亚胡正试图迫使特朗普重新卷入战争。",
@@ -69,9 +114,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        },
+        {
+          "title": "美国总统特朗普：我认为很多有才华的人才可以参加2028年总统大选。 现在谈2028年大选候选人名字还为时过早。",
+          "url": "https://wallstreetcn.com/livenews/3193850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "特朗普称将结束每年约40亿美元对以援助，以方：感到惊讶",
+          "url": "https://news.ifeng.com/c/8xm2MMHEIth",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
         },
         {
           "title": "据英国金融时报：特朗普表示，美国目前没有立即打击伊朗的计划。",
@@ -80,9 +147,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        },
+        {
+          "title": "美国总统特朗普：如果伊朗表现良好，我们可以签署一些协议。 我可以很轻松地完成在伊朗的任务。 石油正从霍尔木兹海峡运出，我们做得太棒了。 已与内塔尼亚胡谈过资金和支持问题，他同意我的看法。",
+          "url": "https://wallstreetcn.com/livenews/3193848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
         },
         {
           "title": "期中“烤”｜战争、物价与流量：一手托起特朗普的美国播客开始冷落他",
@@ -91,18 +169,6 @@
           "ranks": [
             5,
             9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时20分 ~ 07时56分]"
-        },
-        {
-          "title": "伊朗拒绝开放霍尔木兹，要求美国回应七项条件，特朗普称美军发动“小规模攻击”",
-          "url": "https://wallstreetcn.com/articles/3785095",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            5
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -118,6 +184,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时20分 ~ 07时56分]"
+        },
+        {
+          "title": "特朗普宣布停止每年40亿美元对以军援：以色列已不再需要这笔钱",
+          "url": "https://www.cls.cn/detail/2524374",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时55分 ~ 13时43分]"
         },
         {
           "title": "草皮、管道和倒影池：不谈通胀，特朗普选前收官演讲成了“装修报告”",
@@ -155,17 +233,6 @@
           "time_info": "[07时55分 ~ 07时56分]"
         },
         {
-          "title": "特朗普宣布停止每年40亿美元对以军援：以色列已不再需要这笔钱",
-          "url": "https://www.cls.cn/detail/2524374",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时55分 ~ 07时56分]"
-        },
-        {
           "title": "特朗普民调支持率曾一度跌至 31%，创下历史最低纪录，问题出在哪里？该如何「翻盘」？",
           "url": "https://www.zhihu.com/question/2099492639410058219",
           "source": "知乎",
@@ -175,6 +242,83 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时55分 ~ 07时56分]"
+        },
+        {
+          "title": "美总统特朗普承认民主党在中期选举中取得优势 并称他拥有完全的否决权",
+          "url": "https://wallstreetcn.com/livenews/3193845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "美国国会彻底变天，对特朗普的核心影响有哪些？",
+          "url": "https://original.ifeng.com/c/8xmB2KMQipf",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "特朗普祝贺民主党人赢得选举",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A5%9D%E8%B4%BA%E6%B0%91%E4%B8%BB%E5%85%9A%E4%BA%BA%E8%B5%A2%E5%BE%97%E9%80%89%E4%B8%BE%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "美国总统特朗普：对中期选举结果感到意外。 我以为一些共和党候选人会表现更好。 否决权是我拥有的最强大的权力之一。 选举失败的原因之一是伊朗，战争导致汽油价格上涨。 民主党人表现不错，他们非常努力。 可以在很多方面与民主党人合作。",
+          "url": "https://wallstreetcn.com/livenews/3193840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "特朗普全面惨败",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%A8%E9%9D%A2%E6%83%A8%E8%B4%A5&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "特朗普",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "特朗普向民主党人表示祝贺",
+          "url": "https://www.douyin.com/hot/2728616",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
         },
         {
           "title": "美国总统特朗普：将林肯纪念堂倒影池命名为“特朗普”只是玩笑，是《每日邮报》歪曲报道。",
@@ -188,15 +332,37 @@
           "time_info": "02时20分"
         },
         {
+          "title": "特朗普称，向民主党人表示祝贺。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3193834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
           "title": "特朗普突然宣布年底前停止对以军援助！以色列安全体系震惊",
           "url": "https://flash.jin10.com/detail/20261104065705958800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        },
+        {
+          "title": "美国总统特朗普：现在谈论2028年竞选的候选人名字还为时过早。",
+          "url": "https://flash.jin10.com/detail/20261104132100762800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
         },
         {
           "title": "美国总统特朗普：关岛一直被认为是民主党的传统优势地区，但共和党刚刚提前宣布在州长选举中获胜，祝贺托尼·阿达（Tony Ada）！此外，共和党还取得了关岛参议院多数席位。真令人惊讶，希望这预示着接下来还会有更多好消息！",
@@ -216,15 +382,81 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        },
+        {
+          "title": "美国总统特朗普：认为我们在2028年总统竞选中拥有大量人才。",
+          "url": "https://flash.jin10.com/detail/20261104132030284800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "期中“烤”｜在特朗普时代吃低保：每月300美元变57美元，她说“政府把我往水底按”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34366567",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "美国总统特朗普：我将接受选举结果。",
+          "url": "https://flash.jin10.com/detail/20261104131735287800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "美国总统特朗普：与以色列总理内塔尼亚胡讨论了资金和支持问题；他同意我的看法。",
+          "url": "https://flash.jin10.com/detail/20261104131503728800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "特朗普：民主党人会提交疯狂的法案，我会否决它们",
+          "url": "https://flash.jin10.com/detail/20261104131341719800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "美中期选举：民主党连获关键州席位 特朗普发声",
+          "url": "https://wallstreetcn.com/livenews/3193817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋 AI AI AGNET",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "基于 DeepSeek Harness 的手机插件 DSH Go 上线后 Star 破 4 千，实际体验如何？",
@@ -249,6 +481,40 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时20分 ~ 07时56分]"
+        },
+        {
+          "title": "历史性大胜！民主党赢下两院、还要横扫州长选举，美股期货跳水、AI板块重挫，美元下跌，美债上涨，日韩股市均跌4%",
+          "url": "https://wallstreetcn.com/articles/3785134",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "吧友实测:AI偏爱当女孩",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368950&amp;topic_name=%E5%90%A7%E5%8F%8B%E5%AE%9E%E6%B5%8B%3AAI%E5%81%8F%E7%88%B1%E5%BD%93%E5%A5%B3%E5%AD%A9",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "美股收盘：纳指反弹收高0.83% AI科技巨头集体回暖",
+          "url": "https://www.cls.cn/detail/2524390",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时55分 ~ 13时43分]"
         },
         {
           "title": "DeepSeek Agent小白教程",
@@ -309,17 +575,6 @@
           "time_info": "[02时20分 ~ 07时56分]"
         },
         {
-          "title": "美股收盘：纳指反弹收高0.83% AI科技巨头集体回暖",
-          "url": "https://www.cls.cn/detail/2524390",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时55分 ~ 07时56分]"
-        },
-        {
           "title": "AI 零代码手写算子速度比 DeepSeek 人类手写巅峰还快 9.8%，这意味着什么？",
           "url": "https://www.zhihu.com/question/2099804620293927443",
           "source": "知乎",
@@ -346,11 +601,45 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%BC%80%E6%BA%90",
           "source": "bilibili 热搜",
           "ranks": [
-            16
+            16,
+            20
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 13时43分]"
+        },
+        {
+          "title": "DeepSeek V5计划基于昇腾训练",
+          "url": "https://www.douyin.com/hot/2726996",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 13时43分]"
+        },
+        {
+          "title": "攻克NS方程问题的AI将发布",
+          "url": "https://search.bilibili.com/all?keyword=%E6%94%BB%E5%85%8BNS%E6%96%B9%E7%A8%8B%E9%97%AE%E9%A2%98%E7%9A%84AI%E5%B0%86%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "13时43分"
+        },
+        {
+          "title": "AI有意识吗？——从脑机智能与脑机接口谈起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34390827",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
         },
         {
           "title": "AI大臣：英国对“极有可能”发生的黑客袭击毫无准备",
@@ -375,17 +664,6 @@
           "time_info": "02时20分"
         },
         {
-          "title": "DeepSeek V5计划基于昇腾训练",
-          "url": "https://www.douyin.com/hot/2726996",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
           "title": "彭博汇编的数据显示，投资级科技借款人的债券平均融资成本，相对于美国市场其他债券，已飙升至2003年以来的最高水平。 随着债券供给大幅扩张，科技债信用利差可能从目前三年高点继续上行，而整体高评级债券利差变动仍较平淡——这将进一步推高AI风险溢价。",
           "url": "https://wallstreetcn.com/livenews/3193486",
           "source": "华尔街见闻-快讯",
@@ -399,6 +677,169 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "伊朗军方提出五项和平原则：解除制裁、战争赔偿，还要霍尔木兹海峡主权......",
+          "url": "https://wallstreetcn.com/articles/3785079",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时20分 ~ 13时43分]"
+        },
+        {
+          "title": "以色列告诉美国：伊朗考虑使用化学武器。（美国媒体纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3193519",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        },
+        {
+          "title": "美伊停战谈判仍存重大分歧！伊朗坚持七项条件：否则霍尔木兹海峡不会重开",
+          "url": "https://www.cls.cn/detail/2524356",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时55分 ~ 13时43分]"
+        },
+        {
+          "title": "伊朗民众举行反美集会，要求报复美国",
+          "url": "https://original.ifeng.com/c/8xm4CfGG2jG",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "边谈边打！报道：美军中选前夕袭击了伊朗格什姆岛，谈判信号同步推进",
+          "url": "https://wallstreetcn.com/articles/3785059",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时20分 ~ 07时56分]"
+        },
+        {
+          "title": "卡塔尔外交部：将继续努力弥合美国与伊朗之间的分歧",
+          "url": "https://flash.jin10.com/detail/20261104013900072800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        },
+        {
+          "title": "前白宫官员：伊朗局势短期难迎外交突破 共和党未来或陷路线之争",
+          "url": "https://www.cls.cn/detail/2524170",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        },
+        {
+          "title": "伊朗议会议长回应美国中期选举",
+          "url": "https://flash.jin10.com/detail/20261104132411891800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：（评论美国中期选举）美国人对战争说了“不”，我们支持这一立场。",
+          "url": "https://flash.jin10.com/detail/20261104132135279800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "卡塔尔外交部发言人：一个卡塔尔代表团在德黑兰举行了三个小时的会谈，调解方试图弥合伊朗与美国之间的分歧。 美伊双方都展现了对外交途径的承诺，卡塔尔仍对能够达成协议并为进一步的可持续谈判铺平道路抱有希望。 周一晚间的会谈最初计划进行一小时，但因伊朗官员审议旨在结束地区局势升级的提案而延长至三小时。",
+          "url": "https://wallstreetcn.com/livenews/3193500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        },
+        {
+          "title": "伊朗将11月销往亚洲的轻质原油价格定为较阿曼/迪拜均价贴水6.90美元/桶（10月为贴水4.55美元/桶）。",
+          "url": "https://flash.jin10.com/detail/20261104063307638800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时56分"
+        },
+        {
+          "title": "伊朗国家电视台和新闻机构正在播放一段视频，指导民众在遭受核打击时如何应对。",
+          "url": "https://wallstreetcn.com/livenews/3193488",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        },
+        {
+          "title": "伊朗革命卫队高度战备",
+          "url": "https://wallstreetcn.com/livenews/3193487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        },
+        {
+          "title": "伊朗：4艘试图通过霍尔木兹海峡的油轮触雷起火",
+          "url": "https://wallstreetcn.com/livenews/3193820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 11,
       "titles": [
@@ -408,11 +849,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时20分 ~ 07时56分]"
+          "appearance_count": 4,
+          "time_info": "[02时20分 ~ 13时43分]"
         },
         {
           "title": "芯片股拖累美股指，纳指100跌入技术调整，存储、光通信下挫，油价大跌提振黄金大反弹",
@@ -467,7 +909,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -511,7 +953,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -522,127 +964,9 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "伊朗军方提出五项和平原则：解除制裁、战争赔偿，还要霍尔木兹海峡主权......",
-          "url": "https://wallstreetcn.com/articles/3785079",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时20分 ~ 07时56分]"
-        },
-        {
-          "title": "以色列告诉美国：伊朗考虑使用化学武器。（美国媒体纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3193519",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "边谈边打！报道：美军中选前夕袭击了伊朗格什姆岛，谈判信号同步推进",
-          "url": "https://wallstreetcn.com/articles/3785059",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时20分 ~ 07时56分]"
-        },
-        {
-          "title": "美伊停战谈判仍存重大分歧！伊朗坚持七项条件：否则霍尔木兹海峡不会重开",
-          "url": "https://www.cls.cn/detail/2524356",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时55分 ~ 07时56分]"
-        },
-        {
-          "title": "卡塔尔外交部：将继续努力弥合美国与伊朗之间的分歧",
-          "url": "https://flash.jin10.com/detail/20261104013900072800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "前白宫官员：伊朗局势短期难迎外交突破 共和党未来或陷路线之争",
-          "url": "https://www.cls.cn/detail/2524170",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "卡塔尔外交部发言人：一个卡塔尔代表团在德黑兰举行了三个小时的会谈，调解方试图弥合伊朗与美国之间的分歧。 美伊双方都展现了对外交途径的承诺，卡塔尔仍对能够达成协议并为进一步的可持续谈判铺平道路抱有希望。 周一晚间的会谈最初计划进行一小时，但因伊朗官员审议旨在结束地区局势升级的提案而延长至三小时。",
-          "url": "https://wallstreetcn.com/livenews/3193500",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "伊朗将11月销往亚洲的轻质原油价格定为较阿曼/迪拜均价贴水6.90美元/桶（10月为贴水4.55美元/桶）。",
-          "url": "https://flash.jin10.com/detail/20261104063307638800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时56分"
-        },
-        {
-          "title": "伊朗国家电视台和新闻机构正在播放一段视频，指导民众在遭受核打击时如何应对。",
-          "url": "https://wallstreetcn.com/livenews/3193488",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "伊朗革命卫队高度战备",
-          "url": "https://wallstreetcn.com/livenews/3193487",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
         }
       ]
     },
@@ -660,6 +984,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时55分 ~ 07时56分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美财政部今夜有重磅声明！摩根资管提前喊话：取消20年期美债",
+          "url": "https://www.cls.cn/detail/2524451",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
         }
       ]
     }
