@@ -1,214 +1,425 @@
 {
-  "generated_at": "2026-11-05T18:37:13.668548+08:00",
-  "total_titles_processed": 756,
+  "generated_at": "2026-11-06T02:37:59.739691+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 37,
+      "keyword_group": "DeepSeek 梁文锋 AI AI AGNET",
+      "match_count": 17,
       "titles": [
         {
-          "title": "原油盘中暴跌10%！“切割特朗普”，万斯称“输在伊朗战争”，民主党领袖誓言阻止关税和战争",
-          "url": "https://wallstreetcn.com/articles/3785203",
-          "source": "华尔街见闻",
+          "title": "多所高校已引入AI教学督导巡课系统，可识别到课率、抬头率、前排就座率",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34411188",
+          "source": "澎湃新闻",
           "ranks": [
-            3,
-            2
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时06分 ~ 18时37分]"
+          "appearance_count": 1,
+          "time_info": "02时37分"
         },
         {
-          "title": "特朗普：民主党在中期选举中取得优势，但我有完全否决权、共和党输一大原因是伊朗",
-          "url": "https://wallstreetcn.com/articles/3785146",
-          "source": "华尔街见闻",
+          "title": "OpenAI推出GPT-6 Cyber网络安全模型 漏洞检测能力超越GPT-6 Astra",
+          "url": "https://flash.jin10.com/detail/20261106015854922800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "美股风向突变！纳指暴跌逾4% AI概念股再遭抛售",
+          "url": "https://www.cls.cn/detail/2526694",
+          "source": "财联社热门",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时11分 ~ 10时07分]"
+          "appearance_count": 1,
+          "time_info": "02时37分"
         },
         {
-          "title": "特朗普为何突然终止军援以色列？专家：看似突然，实则是权宜之计",
-          "url": "https://original.ifeng.com/c/8xmWDdJbh5C",
-          "source": "凤凰网",
+          "title": "官方要求2030年剧集AI渗透超九成",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369262&amp;topic_name=%E5%AE%98%E6%96%B9%E8%A6%81%E6%B1%822030%E5%B9%B4%E5%89%A7%E9%9B%86AI%E6%B8%97%E9%80%8F%E8%B6%85%E4%B9%9D%E6%88%90",
+          "source": "贴吧",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时11分 ~ 10时07分]"
+          "appearance_count": 1,
+          "time_info": "02时37分"
         },
         {
-          "title": "万斯“甩锅”伊朗战争，特朗普选举失利后首次露面",
-          "url": "https://news.ifeng.com/c/8xn8h8wAVzX",
-          "source": "凤凰网",
+          "title": "民主党反对AI？",
+          "url": "https://wallstreetcn.com/articles/3785288",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "一个反共识逻辑：反AI运动不会让需求消失，但留给行业更多时间吸收泡沫",
+          "url": "https://wallstreetcn.com/articles/3785285",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "跌到位了，高盛喊出：逢低买入A股，尤其AI",
+          "url": "https://wallstreetcn.com/articles/3785234",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "「AI 教父」辛顿警告，今明两年就有可能发生人工智能领域的切尔诺贝利事故，可能是什么情况？存在哪些隐患？",
+          "url": "https://www.zhihu.com/question/2101374444023146456",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "科技巨头与清洁能源股续涨，AI算力链再承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2526626",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "长端德债收益率跌约4个基点，投资者关注AI概念股暴跌",
+          "url": "https://wallstreetcn.com/livenews/3195284",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "金元政治的惨败：马斯克砸重金挡不住蓝色浪潮，AI数据中心遇逆风",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34410722",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "AI短剧为何几乎没有清宫戏",
+          "url": "https://www.toutiao.com/trending/7704623276374363658/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "冯远征认为 AI 短剧里的角色长相完美，却让人看完就忘，「因为角色没有呼吸」，你同意此观点吗？",
+          "url": "https://www.zhihu.com/question/2101279300045338395",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "AI套娃,大肥鱼要养小肥鱼",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369136&amp;topic_name=AI%E5%A5%97%E5%A8%83%2C%E5%A4%A7%E8%82%A5%E9%B1%BC%E8%A6%81%E5%85%BB%E5%B0%8F%E8%82%A5%E9%B1%BC",
+          "source": "贴吧",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "OpenAI推出GPT-6 Cyber，其网络安全评级为“关键”级",
+          "url": "https://wallstreetcn.com/livenews/3195268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "吧友实测:AI偏爱当女孩",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368950&amp;topic_name=%E5%90%A7%E5%8F%8B%E5%AE%9E%E6%B5%8B%3AAI%E5%81%8F%E7%88%B1%E5%BD%93%E5%A5%B3%E5%AD%A9",
+          "source": "贴吧",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "OpenAI：发布GPT-6 Cyber。",
+          "url": "https://flash.jin10.com/detail/20261106010256033800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=1&Refer=top",
+          "source": "微博",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时06分 ~ 10时07分]"
+          "appearance_count": 1,
+          "time_info": "02时37分"
         },
         {
-          "title": "万斯发长文“与特朗普切割”，特朗普回应",
+          "title": "民主党横扫国会！美股债齐涨，光通信与数据中心股下挫，原油一度暴跌10%，金银大涨",
+          "url": "https://wallstreetcn.com/articles/3785134",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "Hypers大涨、Neocloud暴跌：民主党横扫国会，美股科技板块上演大轮动",
+          "url": "https://wallstreetcn.com/articles/3785208",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "美股三大指数集体收涨",
+          "url": "https://www.douyin.com/hot/2729994",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "金十图示：2026年11月05日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20261106013127747800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "美股存储板块大跌 闪迪跌超17%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%AD%98%E5%82%A8%E6%9D%BF%E5%9D%97%E5%A4%A7%E8%B7%8C+%E9%97%AA%E8%BF%AA%E8%B7%8C%E8%B6%8517%25",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "金十图示：2026年11月05日（周四）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20261106013015841800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "美股开盘：高通绩后跌超12%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E9%AB%98%E9%80%9A%E7%BB%A9%E5%90%8E%E8%B7%8C%E8%B6%8512%25",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "美股开盘纳指大跌728点",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%E7%BA%B3%E6%8C%87%E5%A4%A7%E8%B7%8C728%E7%82%B9&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "【美股史诗级抛售，前五大富豪的财富蒸发1500亿美元，马斯克一人损失近1000亿美元】美股遭遇大幅抛售，科技股成为重灾区。福布斯实时亿万富豪排行榜显示，美股下跌令全球多位科技富豪身价大幅缩水。埃隆·马斯克单日身价减少912亿美元，跌幅10.50%；戴尔科技创始人迈克尔·戴尔减少205亿美元，跌幅9.60%；英伟达CEO黄仁勋减少151亿美元，跌幅8.70%；甲骨文创始人拉里·埃里森减少132亿美元，跌幅8.05%；Meta创始人马克·扎克伯格减少129亿美元，跌幅5.98%。上述五位富豪单日身价合计缩水1529亿美元。其中，马斯克一人身价减少额占五人合计损失的近六成。此次财富缩水主要反映相关上市公司股价下跌对富豪持股估值的影响。",
+          "url": "https://wallstreetcn.com/livenews/3195260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "谷歌：Gemini Omni 1.2 Flash模型自今日起在谷歌云平台全面开放使用。 Gemini Omni 1.2 Flash将720P视频生成价格下调30%，至每秒0.07美元。",
+          "url": "https://wallstreetcn.com/livenews/3195271",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "谷歌将投资170亿美元，在美国怀俄明州建设自家首个数据中心",
+          "url": "https://wallstreetcn.com/livenews/3195269",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：Gemini Omni 1.2 Flash视频生成定价为每秒钟720P视频0.07美元；现支持最长15秒的视频生成与编辑。",
+          "url": "https://flash.jin10.com/detail/20261106010908022800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：Gemini Omni 1.2 Flash今日起在谷歌云全面可用。",
+          "url": "https://flash.jin10.com/detail/20261106010745556800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "市场消息：谷歌(GOOG.O)将投资170亿美元建设怀俄明州首个数据中心。",
+          "url": "https://flash.jin10.com/detail/20261106010329047800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "万斯发长文与特朗普切割？特朗普回应",
           "url": "https://news.ifeng.com/c/8xo5HAP62LX",
           "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时36分 ~ 18时37分]"
+          "appearance_count": 1,
+          "time_info": "02时37分"
         },
         {
-          "title": "特朗普称不会替换国防部长赫格塞思",
-          "url": "https://www.toutiao.com/trending/7704410077016359474/",
-          "source": "今日头条",
+          "title": "原油盘中暴跌10%！“切割特朗普”，万斯称“输在伊朗战争”，民主党领袖誓言阻止关税和战争",
+          "url": "https://wallstreetcn.com/articles/3785203",
+          "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时06分 ~ 10时07分]"
+          "appearance_count": 1,
+          "time_info": "02时37分"
         },
         {
-          "title": "特朗普丢掉国会后 全球贸易战将何去何从？一文读懂！",
-          "url": "https://www.cls.cn/detail/2525872",
-          "source": "财联社热门",
+          "title": "中期选举惨败后，特朗普首次公开露面(图)",
+          "url": "https://news.ifeng.com/c/8xoF88iEdTb",
+          "source": "凤凰网",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时36分 ~ 18时37分]"
-        },
-        {
-          "title": "中选惨败后，特朗普对伊朗态度软化，称“可能没必要再打”",
-          "url": "https://wallstreetcn.com/articles/3785177",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时06分 ~ 18时37分]"
+          "appearance_count": 1,
+          "time_info": "02时37分"
         },
         {
-          "title": "特朗普中期选举失利后首次露面 承认伊朗战争拖累共和党但坚称决策正确",
-          "url": "https://www.cls.cn/detail/2525608",
-          "source": "财联社热门",
+          "title": "特朗普选输，日本先怕了",
+          "url": "https://news.ifeng.com/c/8xoNqjlAt87",
+          "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时06分 ~ 10时07分]"
-        },
-        {
-          "title": "美媒：特朗普认为自己在伊朗问题上受到误导 麾下官员已在寻找下家",
-          "url": "https://flash.jin10.com/detail/20261105044744734800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "特朗普态度转折，称渴望与民主党达成协议",
-          "url": "https://news.ifeng.com/c/8xmRq6xG2Qj",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-11-05）",
-          "url": "https://flash.jin10.com/detail/20261105181030842800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时37分"
-        },
-        {
-          "title": "淡化弹劾总统 美民主党领袖寻求撤销特朗普关税和结束战争",
-          "url": "https://flash.jin10.com/detail/20261105044022242800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "美国总统特朗普：能在“比人们所理解的更多事情上”与民主党人合作。",
-          "url": "https://flash.jin10.com/detail/20261105043800618800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "特朗普中期选举受挫，反数据中心势力悄然崛起",
-          "url": "https://wallstreetcn.com/articles/3785179",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时06分 ~ 18时37分]"
-        },
-        {
-          "title": "特朗普宣布将停止每年约 40 亿美元对以色列援助，背后原因是什么？将对美以关系和中东局势产生什么影响？",
-          "url": "https://www.zhihu.com/question/2101246252964917912",
-          "source": "知乎",
-          "ranks": [
-            15,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时06分 ~ 18时37分]"
-        },
-        {
-          "title": "特朗普承认伊朗战事影响中期选举",
-          "url": "https://www.toutiao.com/trending/7703163902487117865/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时11分 ~ 10时07分]"
-        },
-        {
-          "title": "特朗普称不惧民主党弹劾 国际原油价格一度暴跌10% | 环球市场",
-          "url": "https://www.cls.cn/detail/2525653",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时06分 ~ 10时07分]"
+          "time_info": "02时37分"
         },
         {
           "title": "历史性失利后特朗普首次亮相：一场关于吊灯、钢梁与大理石的导览",
@@ -218,837 +429,69 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时36分 ~ 18时37分]"
-        },
-        {
-          "title": "特朗普中期选举失利后首次露面",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%A4%B1%E5%88%A9%E5%90%8E%E9%A6%96%E6%AC%A1%E9%9C%B2%E9%9D%A2",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时06分 ~ 10时07分]"
-        },
-        {
-          "title": "特朗普中期选举失利后首次露面",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%A4%B1%E5%88%A9%E5%90%8E%E9%A6%96%E6%AC%A1%E9%9C%B2%E9%9D%A2%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时06分 ~ 10时07分]"
-        },
-        {
-          "title": "特朗普：我不后悔",
-          "url": "https://news.ifeng.com/c/8xmOAlY7FJn",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "美国总统特朗普：如果我取消关税呢？我们目前有3000家工厂正在建设中。每一家工厂都会停止建设，对吧？",
-          "url": "https://flash.jin10.com/detail/20261105043501824800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "特朗普称将停止对以色列援助",
-          "url": "https://www.douyin.com/hot/2728182",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "美国总统特朗普排除削减其关税的可能性。",
-          "url": "https://flash.jin10.com/detail/20261105043439093800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "特朗普宣布终止对以援助，是否事先与以协调存疑",
-          "url": "https://flash.jin10.com/detail/20261105180521346800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时37分"
-        },
-        {
-          "title": "美国总统特朗普拒绝就信用卡利率上限置评。",
-          "url": "https://flash.jin10.com/detail/20261105043329519800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "美国总统特朗普：“金融理念”将对双方都有好处。",
-          "url": "https://flash.jin10.com/detail/20261105043312371800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "施罗德（Schroders）高级经济学家布朗（George Brown）表示，考虑到美国财政赤字约占经济总量的6%，且公众持有的债务已超过32万亿美元（不包括政府欠医疗保险和社会保障等计划的资金），再加上特朗普政府和即将上任的民主党国会都承诺增加新的支出，“这一假设值得重新审视”。 “如果政治妥协日益意味着更大的赤字而非财政巩固，投资者可能会要求更高的期限溢价来持有长期国债。” 这可能会导致收益率曲线变得更加陡峭。",
-          "url": "https://wallstreetcn.com/livenews/3194501",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "美国总统特朗普：可以与民主党人在“金融理念”上合作。",
-          "url": "https://flash.jin10.com/detail/20261105043246725800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "据英国金融时报：消息人士称，特朗普与俄罗斯的柴油交易遇阻，美国燃料供应跌至20年低点。",
-          "url": "https://flash.jin10.com/detail/20261105035359129800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "美国总统特朗普：可以在“比人们理解的更多的事情上”与民主党合作。",
-          "url": "https://wallstreetcn.com/livenews/3194495",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "美国总统特朗普：如果我现在取消关税呢？ 目前我们有3000家工厂正在建设中。每一家都会立即停工，对吧？",
-          "url": "https://wallstreetcn.com/livenews/3194490",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "特朗普选举失利后首次露面：无惧弹劾、不换防长、自行决定战事何时结束",
-          "url": "https://flash.jin10.com/detail/20261105034544358800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "美国总统特朗普：可以在金融相关议题上与民主党合作，这些金融方案将实现互利共赢。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3194487",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "特朗普：不撤换赫格塞思 如果他参选田纳西州席位会非常受欢迎",
-          "url": "https://flash.jin10.com/detail/20261105032424183800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "据媒体报道：美国总统特朗普认为自己在伊朗战争问题上被误导，并可能在共和党中期选举失利后寻求问责高级官员。",
-          "url": "https://wallstreetcn.com/livenews/3194482",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋 AI AI AGNET",
-      "match_count": 28,
-      "titles": [
-        {
-          "title": "AI套娃,大肥鱼要养小肥鱼",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369136&amp;topic_name=AI%E5%A5%97%E5%A8%83%2C%E5%A4%A7%E8%82%A5%E9%B1%BC%E8%A6%81%E5%85%BB%E5%B0%8F%E8%82%A5%E9%B1%BC",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时11分 ~ 18时37分]"
-        },
-        {
-          "title": "AI时代数学专业该何去何从",
-          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E6%95%B0%E5%AD%A6%E4%B8%93%E4%B8%9A%E8%AF%A5%E4%BD%95%E5%8E%BB%E4%BD%95%E4%BB%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时06分 ~ 10时07分]"
-        },
-        {
-          "title": "美股收盘：政治不确定性消退叠加油价暴跌 道指大涨逾1500点 AI数据中心股遭重挫",
-          "url": "https://www.cls.cn/detail/2525646",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时06分 ~ 10时07分]"
-        },
-        {
-          "title": "人民日报评AI歌曲《过来人》出圈",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84AI%E6%AD%8C%E6%9B%B2%E3%80%8A%E8%BF%87%E6%9D%A5%E4%BA%BA%E3%80%8B%E5%87%BA%E5%9C%88",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时06分 ~ 10时07分]"
-        },
-        {
-          "title": "“蓝色浪潮”席卷国会，AI数据中心行业命运何去何从？一文读懂",
-          "url": "https://www.cls.cn/detail/2525749",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时36分 ~ 18时37分]"
-        },
-        {
-          "title": "港股AI应用板块持续走强，微盟集团(02013.HK)涨近20%，金蝶国际(00268.HK)涨超12%，金山云(03896.HK)、京东健康(06618.HK)等跟涨。",
-          "url": "https://flash.jin10.com/detail/20261105094842020800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "嫁金钗忘删AI水印了",
-          "url": "https://s.weibo.com/weibo?q=%E5%AB%81%E9%87%91%E9%92%97%E5%BF%98%E5%88%A0AI%E6%B0%B4%E5%8D%B0%E4%BA%86&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "吧友实测:AI偏爱当女孩",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368950&amp;topic_name=%E5%90%A7%E5%8F%8B%E5%AE%9E%E6%B5%8B%3AAI%E5%81%8F%E7%88%B1%E5%BD%93%E5%A5%B3%E5%AD%A9",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时11分 ~ 18时37分]"
-        },
-        {
-          "title": "如何评价 DeepSeek 工程师高熙说的「AI 竞赛中，真正的对手不是其他大模型公司，而是时间」？",
-          "url": "https://www.zhihu.com/question/2101053619059389232",
-          "source": "知乎",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时06分 ~ 18时37分]"
-        },
-        {
-          "title": "苹果国行AI与努比亚智能体对比",
-          "url": "https://www.douyin.com/hot/2728815",
-          "source": "抖音",
-          "ranks": [
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时11分 ~ 10时07分]"
-        },
-        {
-          "title": "DeepSeek Harness零基础全流程教学",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E6%95%99%E5%AD%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时11分 ~ 10时07分]"
-        },
-        {
-          "title": "美国中选“输赢已定”：AI硬件重挫，光通信美股盘前普跌，高通跌超9%，黄金突破4100美元",
-          "url": "https://wallstreetcn.com/articles/3785235",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时36分 ~ 18时37分]"
-        },
-        {
-          "title": "多所高校已引入AI教学督导巡课系统，可识别到课率、抬头率、前排就座率",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34411188",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时36分 ~ 18时37分]"
-        },
-        {
-          "title": "“民主党拿下德州”加剧AI数据中心担忧，英伟达、CoreWeave盘后走低",
-          "url": "https://wallstreetcn.com/articles/3785143",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时06分 ~ 10时07分]"
-        },
-        {
-          "title": "金元政治的惨败：马斯克砸重金挡不住蓝色浪潮，AI数据中心遇逆风",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34410722",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时36分 ~ 18时37分]"
-        },
-        {
-          "title": "AI真的可以读懂人吗",
-          "url": "https://www.toutiao.com/trending/7703765694533386259/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时36分 ~ 18时37分]"
-        },
-        {
-          "title": "《嫁金钗》忘删AI水印",
-          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%AB%81%E9%87%91%E9%92%97%E3%80%8B%E5%BF%98%E5%88%A0AI%E6%B0%B4%E5%8D%B0",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时06分 ~ 10时07分]"
-        },
-        {
-          "title": "AI短剧持械入宋剧情太牛",
-          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%E6%8C%81%E6%A2%B0%E5%85%A5%E5%AE%8B%E5%89%A7%E6%83%85%E5%A4%AA%E7%89%9B&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时36分 ~ 18时37分]"
-        },
-        {
-          "title": "AI时代哪些知识不能交给AI",
-          "url": "https://www.toutiao.com/trending/7704336329428962858/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时06分 ~ 10时07分]"
-        },
-        {
-          "title": "AI有意识吗？——从脑机智能与脑机接口谈起",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34390827",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "豆包用户数被红果超越，这说明了什么？普通人对 AI 的真实需求被高估了吗？",
-          "url": "https://www.zhihu.com/question/2100943272122250679",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "AI短剧《持械入宋》为何火了",
-          "url": "https://www.toutiao.com/trending/7704243006215294507/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "BMO资本市场（BMO Capital Markets）策略师哈特曼（Vail Hartman）表示：“如果国会未能于年内解决债务上限问题，金融市场在 2027 年可能会面临一场旷日持久的债务上限对峙。” 这样的结果将反映出民主党“将债务上限作为该党从特朗普政府手中榨取让步的有力筹码”，并可能导致短期国债“在预计的X日前后出现价格扭曲，并增加现金和回购市场的波动性”。",
-          "url": "https://wallstreetcn.com/livenews/3194500",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "巴彦淖尔一医院大楼起火图系AI生成",
-          "url": "https://www.toutiao.com/trending/7702735035199295010/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "肖战大战AI短剧的时代",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%A4%A7%E6%88%98AI%E7%9F%AD%E5%89%A7%E7%9A%84%E6%97%B6%E4%BB%A3%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "网传 DeepSeek V5 已经做出来了但官方未发布，是真的吗？可能什么时候发布？",
-          "url": "https://www.zhihu.com/question/2099896271318397900",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "字节AI开发平台“扣子”企业版下架",
-          "url": "https://www.baidu.com/s?wd=%E5%AD%97%E8%8A%82AI%E5%BC%80%E5%8F%91%E5%B9%B3%E5%8F%B0%E2%80%9C%E6%89%A3%E5%AD%90%E2%80%9D%E4%BC%81%E4%B8%9A%E7%89%88%E4%B8%8B%E6%9E%B6",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "市场消息：苹果(AAPL.O)将部分工程师的每日AI使用上限从300美元降至200美元；计划进一步削减员工的AI使用额度。",
-          "url": "https://flash.jin10.com/detail/20261105034746165800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "民主党横扫国会！美股债齐涨，光通信与数据中心股下挫，原油一度暴跌10%，金银大涨",
-          "url": "https://wallstreetcn.com/articles/3785134",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时06分 ~ 18时37分]"
-        },
-        {
-          "title": "美股科技上演“次贷危机”",
-          "url": "https://www.toutiao.com/trending/7704443460459171337/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时06分 ~ 10时07分]"
-        },
-        {
-          "title": "【早报】深夜巨震，油价重挫超8%，黄金大涨超3%；美股剧烈分化，中概股集体爆发；亨通光电、凯莱英、三环集团拟回购公司股份",
-          "url": "https://www.cls.cn/detail/2525668",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时06分 ~ 10时07分]"
-        },
-        {
-          "title": "美股史诗级暴涨",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E5%8F%B2%E8%AF%97%E7%BA%A7%E6%9A%B4%E6%B6%A8%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时06分 ~ 10时07分]"
-        },
-        {
-          "title": "Hypers大涨、Neocloud暴跌：民主党横扫国会，美股科技板块上演大轮动",
-          "url": "https://wallstreetcn.com/articles/3785208",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时36分 ~ 18时37分]"
-        },
-        {
-          "title": "民主党横扫国会！美股三大指数上涨，存储普跌，SpaceX跌超5%，黄金站上4000美元",
-          "url": "https://wallstreetcn.com/articles/3785134",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "美股收盘 中国资产爆发",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98+%E4%B8%AD%E5%9B%BD%E8%B5%84%E4%BA%A7%E7%88%86%E5%8F%91",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时06分 ~ 10时07分]"
-        },
-        {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "美股恐慌指数VIX波动率日内跌幅达20.0%，报16.66。",
-          "url": "https://wallstreetcn.com/livenews/3194491",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "美股期货跌幅扩大，纳斯达克100指数期货跌1%，标普500指数期货跌0.2%。",
-          "url": "https://wallstreetcn.com/livenews/3194599",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "美股盘前，高通跌超9%，公司Q4财季超预期但盈利指引逊色，手机业务承压；ARM跌近4%，公司Q2财季业绩超预期，但指引不够惊喜；存储芯片股下挫，SK海力士跌超3%，美光科技跌超2%。光通信概念股延续跌势，Lumentum跌超3％，迈威尔科技跌超2%，康宁跌近3％。",
-          "url": "https://wallstreetcn.com/livenews/3194947",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时37分"
+          "time_info": "02时37分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 5,
       "titles": [
         {
-          "title": "阿曼与伊朗外长强调，重点应从局势降级转向达成持久协议。",
-          "url": "https://flash.jin10.com/detail/20261105180848009800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时37分"
-        },
-        {
-          "title": "阿曼和伊朗外长讨论确保海上通道安全的安排。阿曼、伊朗外长强调，应从缓和局势转向达成持久协议。（阿曼通讯社）",
-          "url": "https://wallstreetcn.com/livenews/3195001",
+          "title": "伊朗安全官员向普京转达伊最高领袖讯息",
+          "url": "https://wallstreetcn.com/livenews/3195297",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时37分"
+          "time_info": "02时37分"
         },
         {
           "title": "美对伊朗核打击传闻再起：镐山设施、钻地弹与内塔尼亚胡的“电话攻势”",
           "url": "https://m.thepaper.cn/newsDetail_forward_34409706",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时36分 ~ 18时37分]"
+          "appearance_count": 1,
+          "time_info": "02时37分"
         },
         {
-          "title": "记者直击伊朗大规模反美集会",
-          "url": "https://www.toutiao.com/trending/7704274306884567076/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时06分 ~ 10时07分]"
-        },
-        {
-          "title": "民主党要求“必须结束”伊朗战争",
-          "url": "https://www.douyin.com/hot/2730353",
+          "title": "伊朗举行大规模反美集会",
+          "url": "https://www.douyin.com/hot/2730135",
           "source": "抖音",
           "ranks": [
-            15
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时36分 ~ 18时37分]"
+          "appearance_count": 1,
+          "time_info": "02时37分"
         },
         {
-          "title": "伊朗官宣已采购苏-35有何意味",
-          "url": "https://www.toutiao.com/trending/7704160947543215679/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时06分 ~ 10时07分]"
-        },
-        {
-          "title": "民主党拟结束伊朗战争",
-          "url": "https://s.weibo.com/weibo?q=%E6%B0%91%E4%B8%BB%E5%85%9A%E6%8B%9F%E7%BB%93%E6%9D%9F%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时06分 ~ 10时07分]"
-        },
-        {
-          "title": "国际原油暴跌10% 市场加大对伊朗局势降级的押注",
-          "url": "https://flash.jin10.com/detail/20261105042705026800",
+          "title": "据美联社：周四解封的法庭文件显示，美伊两国在战时仍然保持沟通，商讨经第三国遣返伊朗公民。",
+          "url": "https://flash.jin10.com/detail/20261106013903608800",
           "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时11分"
+          "time_info": "02时37分"
         },
         {
-          "title": "土耳其国防部：正与伊朗当局协调，继续努力查明该事件的各方面情况。",
-          "url": "https://flash.jin10.com/detail/20261105180139286800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时37分"
-        },
-        {
-          "title": "土耳其国防部：10月31日，一名土耳其士兵在土耳其与伊朗边境遭来自伊朗一侧的枪火袭击身亡。",
-          "url": "https://flash.jin10.com/detail/20261105180130954800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时37分"
-        },
-        {
-          "title": "伊朗议长：美选举结果表明对战争说不",
-          "url": "https://www.toutiao.com/trending/7704196344864620598/",
+          "title": "伊朗议长回应万斯：美国就像赌徒",
+          "url": "https://www.toutiao.com/trending/7704645932587926042/",
           "source": "今日头条",
           "ranks": [
-            22
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金价连收4000、4100美元两道大关，为何仅被视作“修复”？机构：加息预期尚未回落",
-          "url": "https://www.cls.cn/detail/2525931",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时36分 ~ 18时37分]"
-        },
-        {
-          "title": "金价急涨买还是卖",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%80%A5%E6%B6%A8%E4%B9%B0%E8%BF%98%E6%98%AF%E5%8D%96&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时06分 ~ 10时07分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "10年期美债收益率跌7.4个基点，两年期实际收益率涨超7.8个基点",
-          "url": "https://wallstreetcn.com/livenews/3194492",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "报道：韩国考虑买入长期美债",
-          "url": "https://wallstreetcn.com/livenews/3194960",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时37分"
+          "time_info": "02时37分"
         }
       ]
     },
@@ -1057,15 +500,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "彭博美元指数跌约0.4%",
-          "url": "https://wallstreetcn.com/livenews/3194483",
+          "title": "标普500指数跌幅扩大至4%，纳斯达克100指数跌6%，道指跌3.1%，纳指跌5.3%，半导体指数跌11%，闪迪跌20%。 美元兑日元跌0.5%。 美国2-5年期国债收益率跌10个基点。",
+          "url": "https://wallstreetcn.com/livenews/3195294",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时11分"
+          "time_info": "02时37分"
         }
       ]
     }
