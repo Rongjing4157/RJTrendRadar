@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-09T09:33:12.162768+08:00",
-  "total_titles_processed": 584,
+  "generated_at": "2026-11-09T17:30:23.127740+08:00",
+  "total_titles_processed": 846,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 31,
       "titles": [
         {
           "title": "黄仁勋承认出轨，特朗普回应",
@@ -17,6 +17,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时32分 ~ 09时33分]"
+        },
+        {
+          "title": "“这是美国民主党和建制派搞黄仁勋，进而搞特朗普的一种方式”",
+          "url": "https://news.ifeng.com/c/8xuSTiEyxK7",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 17时30分]"
+        },
+        {
+          "title": "“铁门”封锁陆路！特朗普称“目前几乎没有物资能够进出伊朗”，若谈判取得进展，再次发动打击可能性极低",
+          "url": "https://wallstreetcn.com/articles/3785498",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 17时30分]"
         },
         {
           "title": "美国总统特朗普：“铁门”特遣部队（旨在防止伊朗利用陆路等方式跨境运输先进武器及其他物资）正在伊朗全面展开行动。再加上史上规模最大的海上封锁，几乎没有任何东西能进出伊朗。",
@@ -36,7 +58,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时33分"
         },
@@ -88,6 +110,28 @@
           "time_info": "[00时59分 ~ 05时04分]"
         },
         {
+          "title": "伊朗向特朗普发48小时最后通牒",
+          "url": "https://original.ifeng.com/c/8xub7UOarEQ",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 17时30分]"
+        },
+        {
+          "title": "外交努力持续！今日，特朗普和万斯将在白宫会见美伊关键调解人",
+          "url": "https://www.cls.cn/detail/2528621",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 17时30分]"
+        },
+        {
           "title": "特朗普回应黄仁勋出轨",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E9%BB%84%E4%BB%81%E5%8B%8B%E5%87%BA%E8%BD%A8%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
@@ -97,6 +141,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时32分 ~ 09时33分]"
+        },
+        {
+          "title": "前白宫顾问爆料幕僚把特朗普当婴儿",
+          "url": "https://www.toutiao.com/trending/7705968566742302729/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 17时30分]"
         },
         {
           "title": "特朗普回应“黄仁勋承认出轨”",
@@ -270,7 +325,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时33分"
         },
@@ -281,7 +336,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时33分"
         },
@@ -292,7 +347,340 @@
           "ranks": [
             24
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋 AI AI AGNET",
+      "match_count": 28,
+      "titles": [
+        {
+          "title": "中选之后“美国新增算力被锁死”，马斯克成为“AI格局胜负手”",
+          "url": "https://wallstreetcn.com/articles/3785472",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 09时33分]"
+        },
+        {
+          "title": "英伟达大劫案！超7600万元AI芯片和硬件离奇失踪，嫌疑人尚未抓获",
+          "url": "https://wallstreetcn.com/articles/3785482",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 09时33分]"
+        },
+        {
+          "title": "AI风向生变？OpenAI融资、估值双双大缩水 110亿美元首期款项据悉已到账",
+          "url": "https://www.cls.cn/detail/2528016",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 05时04分]"
+        },
+        {
+          "title": "“AI缺电”具象化了：Anthropic砸钱“截胡”发电设备订单 金额或创纪录",
+          "url": "https://www.cls.cn/detail/2528701",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 17时30分]"
+        },
+        {
+          "title": "欧洲15国民众抗议AI扩张",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369509&amp;topic_name=%E6%AC%A7%E6%B4%B215%E5%9B%BD%E6%B0%91%E4%BC%97%E6%8A%97%E8%AE%AEAI%E6%89%A9%E5%BC%A0",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 17时30分]"
+        },
+        {
+          "title": "大肥鱼AI宣布竞选吧主",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369404&amp;topic_name=%E5%A4%A7%E8%82%A5%E9%B1%BCAI%E5%AE%A3%E5%B8%83%E7%AB%9E%E9%80%89%E5%90%A7%E4%B8%BB",
+          "source": "贴吧",
+          "ranks": [
+            14,
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 17时30分]"
+        },
+        {
+          "title": "美国女议员戳破美股AI泡沫",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369406&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E8%AE%AE%E5%91%98%E6%88%B3%E7%A0%B4%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
+          "source": "贴吧",
+          "ranks": [
+            20,
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 17时30分]"
+        },
+        {
+          "title": "54 岁大哥自学 AI 短剧登顶红果榜，团队成员一年还清债务，普通人真能靠 AI 翻身吗？有啥值得借鉴的思路？",
+          "url": "https://www.zhihu.com/question/2102042636320298288",
+          "source": "知乎",
+          "ranks": [
+            2,
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 09时33分]"
+        },
+        {
+          "title": "野村：“蓝色浪潮”冲击美国数据中心，中国AI反而受益",
+          "url": "https://wallstreetcn.com/articles/3785477",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 09时33分]"
+        },
+        {
+          "title": "付鹏称AI漫剧全部亏损",
+          "url": "https://s.weibo.com/weibo?q=%E4%BB%98%E9%B9%8F%E7%A7%B0AI%E6%BC%AB%E5%89%A7%E5%85%A8%E9%83%A8%E4%BA%8F%E6%8D%9F&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时04分 ~ 09时33分]"
+        },
+        {
+          "title": "AI制作边缘行者2金王最后一舞",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%88%B6%E4%BD%9C%E8%BE%B9%E7%BC%98%E8%A1%8C%E8%80%852%E9%87%91%E7%8E%8B%E6%9C%80%E5%90%8E%E4%B8%80%E8%88%9E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            18,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 09时33分]"
+        },
+        {
+          "title": "AI霸气出场名场面",
+          "url": "https://www.douyin.com/hot/2734945",
+          "source": "抖音",
+          "ranks": [
+            24,
+            25,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 09时33分]"
+        },
+        {
+          "title": "AI基建狂潮遭遇现实阻力！欧洲多国爆发抗议 要求暂停数据中心建设",
+          "url": "https://www.cls.cn/detail/2528167",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 09时33分]"
+        },
+        {
+          "title": "AI短剧迎来“拿到大结果”时刻？券商看好产业链价值重估，平台与IP端有望受益",
+          "url": "https://www.cls.cn/detail/2528002",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 05时04分]"
+        },
+        {
+          "title": "张艺谋直言 AI 的技术飞跃带来平视感，「电影不再是精英的艺术，普通人都是导演、编剧」，怎么看待这一观点？",
+          "url": "https://www.zhihu.com/question/2102442137832748756",
+          "source": "知乎",
+          "ranks": [
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 05时04分]"
+        },
+        {
+          "title": "事关AI交易走向，硅谷、华尔街热议“黄仁勋绯闻”，马斯克力挺、特朗普也发声",
+          "url": "https://wallstreetcn.com/articles/3785517",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 17时30分]"
+        },
+        {
+          "title": "股价跌预期转 AI产业链并购或生变",
+          "url": "https://www.cls.cn/detail/2529110",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 17时30分]"
+        },
+        {
+          "title": "登上热搜！黄仁勋会因为绯闻辞职吗？英伟达给AI交易“雪上加霜”",
+          "url": "https://wallstreetcn.com/articles/3785502",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时32分 ~ 09时33分]"
+        },
+        {
+          "title": "五个AI挑战恋爱测试题",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%94%E4%B8%AAAI%E6%8C%91%E6%88%98%E6%81%8B%E7%88%B1%E6%B5%8B%E8%AF%95%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时32分 ~ 09时33分]"
+        },
+        {
+          "title": "大三男生宿舍手搓 AI 漫剧不到一年营收超 300 万，这是怎么做到的？实际赚了多少？普通人能效仿吗？",
+          "url": "https://www.zhihu.com/question/2102727338995860371",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时32分 ~ 09时33分]"
+        },
+        {
+          "title": "环球下周看点： 美国CPI与地缘风险接踵而至 AI交易能否走出抛售阴霾？",
+          "url": "https://www.cls.cn/detail/2528161",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时32分 ~ 09时33分]"
+        },
+        {
+          "title": "中信建投：维持对北美算力和国产AI算力产业链长期看好",
+          "url": "https://wallstreetcn.com/livenews/3196478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 05时04分]"
+        },
+        {
+          "title": "“康康和爷爷”连更AI视频 爷爷复活",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%BA%B7%E5%BA%B7%E5%92%8C%E7%88%B7%E7%88%B7%E2%80%9D%E8%BF%9E%E6%9B%B4AI%E8%A7%86%E9%A2%91+%E7%88%B7%E7%88%B7%E5%A4%8D%E6%B4%BB",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 17时30分]"
+        },
+        {
+          "title": "英伟达：计划对韩国初创企业进行新投资。将投资韩国AI初创公司Point2。",
+          "url": "https://wallstreetcn.com/livenews/3196791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时30分"
+        },
+        {
+          "title": "Sakana AI计划最早2027年秋季进行IPO",
+          "url": "https://wallstreetcn.com/livenews/3196790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时30分"
+        },
+        {
+          "title": "AI辅助设计禽流感疫苗动物实验获进展",
+          "url": "https://wallstreetcn.com/livenews/3196473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时59分"
+        },
+        {
+          "title": "摩根士丹利：AI数据中心供应过剩风险较低，已锁定电力资源的云厂商有望形成竞争壁垒",
+          "url": "https://flash.jin10.com/detail/20261109090038992800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时33分"
+        },
+        {
+          "title": "瑞银CEO在被问及AI抛售潮时表示，并不太担心，市场关注点将重新回到通胀和利率上。",
+          "url": "https://wallstreetcn.com/livenews/3196534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时33分"
         }
@@ -300,7 +688,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "美中央司令部成立铁门特遣队，阻击伊朗陆路运输",
@@ -372,6 +760,17 @@
           "time_info": "[00时59分 ~ 05时04分]"
         },
         {
+          "title": "鲁比奥：伊朗提出的要求完全不可接受",
+          "url": "https://original.ifeng.com/c/8xuGqEePP2n",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 17时30分]"
+        },
+        {
           "title": "以色列国防部长称对伊朗任务“尚未完成”",
           "url": "https://wallstreetcn.com/livenews/3196480",
           "source": "华尔街见闻-快讯",
@@ -428,6 +827,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "伊朗称向美国提出的重开霍尔木兹海峡“两日方案”仍然有效",
+          "url": "https://wallstreetcn.com/livenews/3196820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时30分"
         },
         {
           "title": "伊朗革命卫队顾问：伊朗正在对缴获的美国军事装备进行逆向工程。",
@@ -551,6 +961,17 @@
           "time_info": "05时04分"
         },
         {
+          "title": "伊朗称两日计划是最可行的路线图",
+          "url": "https://wallstreetcn.com/livenews/3196779",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时30分"
+        },
+        {
           "title": "据半岛电视台：伊拉克外长表示，美国财政部要求伊拉克关闭与伊朗的大部分边境口岸，仅保留两个开放。",
           "url": "https://flash.jin10.com/detail/20261109024016274800",
           "source": "金十数据",
@@ -571,277 +992,37 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋 AI AI AGNET",
-      "match_count": 22,
-      "titles": [
-        {
-          "title": "中选之后“美国新增算力被锁死”，马斯克成为“AI格局胜负手”",
-          "url": "https://wallstreetcn.com/articles/3785472",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 09时33分]"
         },
         {
-          "title": "英伟达大劫案！超7600万元AI芯片和硬件离奇失踪，嫌疑人尚未抓获",
-          "url": "https://wallstreetcn.com/articles/3785482",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 09时33分]"
-        },
-        {
-          "title": "AI风向生变？OpenAI融资、估值双双大缩水 110亿美元首期款项据悉已到账",
-          "url": "https://www.cls.cn/detail/2528016",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 05时04分]"
-        },
-        {
-          "title": "54 岁大哥自学 AI 短剧登顶红果榜，团队成员一年还清债务，普通人真能靠 AI 翻身吗？有啥值得借鉴的思路？",
-          "url": "https://www.zhihu.com/question/2102042636320298288",
-          "source": "知乎",
-          "ranks": [
-            2,
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 09时33分]"
-        },
-        {
-          "title": "野村：“蓝色浪潮”冲击美国数据中心，中国AI反而受益",
-          "url": "https://wallstreetcn.com/articles/3785477",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 09时33分]"
-        },
-        {
-          "title": "付鹏称AI漫剧全部亏损",
-          "url": "https://s.weibo.com/weibo?q=%E4%BB%98%E9%B9%8F%E7%A7%B0AI%E6%BC%AB%E5%89%A7%E5%85%A8%E9%83%A8%E4%BA%8F%E6%8D%9F&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时04分 ~ 09时33分]"
-        },
-        {
-          "title": "欧洲15国民众抗议AI扩张",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369509&amp;topic_name=%E6%AC%A7%E6%B4%B215%E5%9B%BD%E6%B0%91%E4%BC%97%E6%8A%97%E8%AE%AEAI%E6%89%A9%E5%BC%A0",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 09时33分]"
-        },
-        {
-          "title": "AI制作边缘行者2金王最后一舞",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%88%B6%E4%BD%9C%E8%BE%B9%E7%BC%98%E8%A1%8C%E8%80%852%E9%87%91%E7%8E%8B%E6%9C%80%E5%90%8E%E4%B8%80%E8%88%9E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            18,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 09时33分]"
-        },
-        {
-          "title": "大肥鱼AI宣布竞选吧主",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369404&amp;topic_name=%E5%A4%A7%E8%82%A5%E9%B1%BCAI%E5%AE%A3%E5%B8%83%E7%AB%9E%E9%80%89%E5%90%A7%E4%B8%BB",
-          "source": "贴吧",
-          "ranks": [
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 09时33分]"
-        },
-        {
-          "title": "AI霸气出场名场面",
-          "url": "https://www.douyin.com/hot/2734945",
-          "source": "抖音",
-          "ranks": [
-            24,
-            25,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 09时33分]"
-        },
-        {
-          "title": "美国女议员戳破美股AI泡沫",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369406&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E8%AE%AE%E5%91%98%E6%88%B3%E7%A0%B4%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
-          "source": "贴吧",
-          "ranks": [
-            20,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 09时33分]"
-        },
-        {
-          "title": "AI基建狂潮遭遇现实阻力！欧洲多国爆发抗议 要求暂停数据中心建设",
-          "url": "https://www.cls.cn/detail/2528167",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 09时33分]"
-        },
-        {
-          "title": "AI短剧迎来“拿到大结果”时刻？券商看好产业链价值重估，平台与IP端有望受益",
-          "url": "https://www.cls.cn/detail/2528002",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 05时04分]"
-        },
-        {
-          "title": "张艺谋直言 AI 的技术飞跃带来平视感，「电影不再是精英的艺术，普通人都是导演、编剧」，怎么看待这一观点？",
-          "url": "https://www.zhihu.com/question/2102442137832748756",
-          "source": "知乎",
-          "ranks": [
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 05时04分]"
-        },
-        {
-          "title": "登上热搜！黄仁勋会因为绯闻辞职吗？英伟达给AI交易“雪上加霜”",
-          "url": "https://wallstreetcn.com/articles/3785502",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时32分 ~ 09时33分]"
-        },
-        {
-          "title": "五个AI挑战恋爱测试题",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BA%94%E4%B8%AAAI%E6%8C%91%E6%88%98%E6%81%8B%E7%88%B1%E6%B5%8B%E8%AF%95%E9%A2%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时32分 ~ 09时33分]"
-        },
-        {
-          "title": "大三男生宿舍手搓 AI 漫剧不到一年营收超 300 万，这是怎么做到的？实际赚了多少？普通人能效仿吗？",
-          "url": "https://www.zhihu.com/question/2102727338995860371",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时32分 ~ 09时33分]"
-        },
-        {
-          "title": "环球下周看点： 美国CPI与地缘风险接踵而至 AI交易能否走出抛售阴霾？",
-          "url": "https://www.cls.cn/detail/2528161",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时32分 ~ 09时33分]"
-        },
-        {
-          "title": "中信建投：维持对北美算力和国产AI算力产业链长期看好",
-          "url": "https://wallstreetcn.com/livenews/3196478",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 05时04分]"
-        },
-        {
-          "title": "AI辅助设计禽流感疫苗动物实验获进展",
-          "url": "https://wallstreetcn.com/livenews/3196473",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
-        },
-        {
-          "title": "摩根士丹利：AI数据中心供应过剩风险较低，已锁定电力资源的云厂商有望形成竞争壁垒",
-          "url": "https://flash.jin10.com/detail/20261109090038992800",
+          "title": "伊朗商业银行前行长：财政赤字和货币供应扩张是伊朗高通胀根源",
+          "url": "https://flash.jin10.com/detail/20261109171438018800",
           "source": "金十数据",
           "ranks": [
-            21
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时33分"
-        },
-        {
-          "title": "瑞银CEO在被问及AI抛售潮时表示，并不太担心，市场关注点将重新回到通胀和利率上。",
-          "url": "https://wallstreetcn.com/livenews/3196534",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时33分"
+          "time_info": "17时30分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "美股暴跌后，“木头姐”：市场越担忧我越乐观，牛市未完",
+          "url": "https://wallstreetcn.com/articles/3785486",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 17时30分]"
+        },
         {
           "title": "九年来首次！美股科技股迈入“比大盘便宜”时代",
           "url": "https://www.cls.cn/detail/2528180",
@@ -856,16 +1037,15 @@
           "time_info": "[00时58分 ~ 09时33分]"
         },
         {
-          "title": "美股暴跌后，“木头姐”：市场越担忧我越乐观，牛市未完",
-          "url": "https://wallstreetcn.com/articles/3785486",
-          "source": "华尔街见闻",
+          "title": "美股恐慌指标逼近极值！高盛：历史信号指向中期反弹",
+          "url": "https://www.cls.cn/detail/2528454",
+          "source": "财联社热门",
           "ranks": [
-            5,
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 09时33分]"
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 17时30分]"
         },
         {
           "title": "英伟达美股夜盘跌逾3%",
@@ -877,6 +1057,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时32分 ~ 09时33分]"
+        },
+        {
+          "title": "黄仁勋丑闻搅动市场，英伟达美股盘前跌近5%，亚洲股市强势反弹，油价下跌",
+          "url": "https://wallstreetcn.com/articles/3785518",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 17时30分]"
+        },
+        {
+          "title": "英伟达美股夜盘跌超 3%，其后续股价走势会如何？",
+          "url": "https://www.zhihu.com/question/2103054279376204138",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 17时30分]"
         },
         {
           "title": "英伟达美股夜盘跌逾3%",
@@ -896,9 +1098,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时33分"
+        },
+        {
+          "title": "英伟达美股盘前跌近5%。",
+          "url": "https://wallstreetcn.com/livenews/3196825",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时30分"
+        },
+        {
+          "title": "美股期货走低，纳斯达克100指数期货跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3196770",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时30分"
         }
       ]
     },
@@ -913,7 +1137,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时33分"
         }
